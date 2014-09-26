@@ -94,6 +94,7 @@
 	
 	blockquote
 	{
+		font-size: 0.9em; 
 		text-align: right;
 		border-right: solid 0.5em #ddd;
 		padding: 1em 1em 1em 2em;
