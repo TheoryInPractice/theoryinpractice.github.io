@@ -49,19 +49,19 @@
 
 				<!-- Logo -->
 				<div id="logo">
-					<h1><a href="#">Theory in Practice</a></h1>
-					<span><a href="about.html">Dr. Blair D. Sullivan</a></span>
+					<h1><a ui-sref="home">Theory in Practice</a></h1>
+					<span><a ui-sref="about">Dr. Blair D. Sullivan</a></span>
 				</div>
 
 				<!-- Nav -->
 				<nav id="nav">
 					<ul>
-						<li class="active"><a ui-sref="index">Homepage</a></li>
-						<li><a href="people.html">Research Group</a></li>
-						<li><a href="publications.html">Publications</a></li>
-						<li><a href="news.html">News & Events</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="software.html">Software</a></li>
+						<li ui-sref-active="active"><a ui-sref="home">Homepage</a></li>
+						<li ui-sref-active="active"><a ui-sref="people">Research Group</a></li>
+						<li ui-sref-active="active"><a ui-sref="publications">Publications</a></li>
+						<li ui-sref-active="active"><a ui-sref="news">News & Events</a></li>
+						<li ui-sref-active="active"><a ui-sref="about">About</a></li>
+						<li ui-sref-active="active"><a ui-sref="software">Software</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -80,7 +80,7 @@
 		</div>
 
 		<!-- App body -->
-		<ui-view></ui-view>
+		<ui-view autoscroll="true"></ui-view>
 
 		<!-- Copyright -->
 		<div id="copyright">
