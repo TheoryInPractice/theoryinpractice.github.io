@@ -1,0 +1,21 @@
+{
+  "name": "theoryinpracticewww",
+  "authors": [
+    "EricHorton <ewhorton@ncsu.edu>"
+  ],
+  "description": "Theory in Practice Website",
+  "main": "app.js",
+  "license": "UNLICENSED",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2"
+  }
+}
