@@ -48,7 +48,7 @@ skel.init({
 				height: 44,
 				width: '100%',
 				html: '<span class="toggle" data-action="togglePanel" data-args="navPanel"></span>' +
- '<span class="title" data-action="copyHTML" data-args="logo"></span>'
+ 					  '<span class="title" data-action="copyHTML" data-args="logo"></span>'
 			}
 		}
 	}

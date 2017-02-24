@@ -87,7 +87,7 @@
 		{
 			display: inline-block;
 		}
-		
+
 			#nav > ul > li:last-child
 			{
 				padding-right: 0;
@@ -96,7 +96,7 @@
 			#nav > ul > li > a,
 			#nav > ul > li > span
 			{
-				display: block;
+				/*display: block;*/
 				padding: 1em 1.5em;
 				letter-spacing: 1px;
 				text-decoration: none;
@@ -105,13 +105,13 @@
 				font-size: 1em;
 				outline: 0;
 				color: rgba(255,255,255,.8);
-				/* adding background to menu items 
+				/* adding background to menu items
 				color: #000;
 				background: none;
 				border-radius: 40px;
 				border: 2px solid;
 				border-color: none;
-				background-color:rgba(255,255,255,0.2); 
+				background-color:rgba(255,255,255,0.2);
 				*/
 
 			}
@@ -124,13 +124,13 @@
 
 			#nav li.active a
 			{
-				
+
 				background: none;
 				border-radius: 40px;
 				border: 2px solid;
 				border-color: none;
-				color: rgba(255,255,255,0.8); 
-				/*adding background to menu items 			
+				color: rgba(255,255,255,0.8);
+				/*adding background to menu items
 				color: #000;
 				background-color:rgba(255,255,255,0.2);
 				*/
