@@ -19,6 +19,7 @@
     "angular": "^1.6.2",
     "jquery": "1.11.0",
     "angular-ui-router": "^0.4.2",
-    "angular-route": "^1.6.2"
+    "angular-route": "^1.6.2",
+    "angular-sanitize": "^1.6.2"
   }
 }

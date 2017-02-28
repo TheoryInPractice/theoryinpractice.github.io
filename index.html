@@ -22,19 +22,23 @@
 		<script src="bower_components/angular/angular.js"></script>
 		<script src="bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
 		<script src="bower_components/angular-route/angular-route.min.js"></script>
+        <script src="bower_components/angular-sanitize/angular-sanitize.min.js"></script>
 
 		<!-- App Scripts -->
 		<script src="app.js"></script>
+        <script src="src/js/services/resource-loader.js"></script>
+        <script src="src/js/directives/group-info/group-info.js"></script>
+        <script src="src/js/controllers/home-controller.js"></script>
 
 		<!-- Theme Scripts -->
-		<script src="src/js/skel.min.js"></script>
-		<script src="src/js/skel-panels.min.js"></script>
-		<script src="src/js/init.js"></script>
+		<!--[if lte IE 8]><script src="src/js/templated/html5shiv.js"></script><![endif]-->
+		<script src="src/js/templated/skel.min.js"></script>
+		<script src="src/js/templated/skel-panels.min.js"></script>
+		<script src="src/js/templated/init.js"></script>
 
 		<!-- CSS -->
 		<!--[if lte IE 8]><link rel="stylesheet" href="src/css/ie/v8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="src/css/ie/v9.css" /><![endif]-->
-		<!--[if lte IE 8]><script src="src/js/html5shiv.js"></script><![endif]-->
 		<link href="http://fonts.googleapis.com/css?family=Arimo:400,700" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" href="src/css/skel-noscript.css">
 		<link rel="stylesheet" href="src/css/style.css">

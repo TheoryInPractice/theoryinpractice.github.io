@@ -1,0 +1,22 @@
+<!-- Main -->
+<div id="main">
+    <div class="container">
+        <div class="row">
+
+            <!-- Content -->
+            <div class="7u skel-cell-important">
+
+                <section ng-repeat="section in contents.sections">
+
+                    <div ng-bind-html="section.html"></div>
+
+                </section>
+
+            </div>
+
+            <div class="5u">
+                <img src="{{ contents.image }}" class="image full"/>
+            </div>
+        </div>
+    </div>
+</div>

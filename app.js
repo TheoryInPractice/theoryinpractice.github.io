@@ -5,9 +5,27 @@
  */
 
 
+// Resource Locations
+const GROUP_INFO = 'src/contents/home/group-info.json';
+
+
+/**
+ * Wrapper function for the resolving resources
+ * through the resource loader service.
+ *
+ * @param   {String}  path Path to load.
+ * @returns {Array}        Angular function that returns loader.get(path).
+ */
+function resolveResource(path) {
+    return ['resourceLoader', function(loader) {
+        return loader.get(path);
+    }];
+}
+
+
 // Declare and configure module
 angular
-    .module('theory-in-practice', ['ui.router', 'ngRoute'])
+    .module('theory-in-practice', ['ui.router', 'ngRoute', 'ngSanitize'])
     .config([
         '$stateProvider', '$urlRouterProvider', '$uiViewScrollProvider',
         function($stateProvider, $urlRouterProvider, $uiViewScrollProvider) {
@@ -15,7 +33,11 @@ angular
             // Index Page
             $stateProvider.state('home', {
                 url: '/',
-                templateUrl: 'src/templates/home.html'
+                controller: 'HomeController',
+                templateUrl: 'src/templates/home.html',
+                resolve: {
+                    groupInfo: resolveResource(GROUP_INFO)
+                }
             });
 
             // About Page
@@ -65,4 +87,5 @@ angular
 
             // Configure anchor scroll to scroll to top on view change
             $uiViewScrollProvider.useAnchorScroll()
+
     }]);
