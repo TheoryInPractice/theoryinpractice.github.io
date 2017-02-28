@@ -173,10 +173,10 @@
 		#logo h1
 		{
 			color: #FFF;
+			line-height: 1;
 		}
 	
-		#logo h1 a
-		{
+		#logo h1 a {
 			display: block;
 			letter-spacing: 1px;
 			text-decoration: none;

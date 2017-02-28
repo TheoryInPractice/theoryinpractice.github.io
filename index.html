@@ -40,9 +40,11 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="src/css/ie/v8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="src/css/ie/v9.css" /><![endif]-->
 		<link href="//fonts.googleapis.com/css?family=Arimo:400,700" rel="stylesheet" type="text/css">
-		<link rel="stylesheet" href="src/css/skel-noscript.css">
-		<link rel="stylesheet" href="src/css/style.css">
-		<link rel="stylesheet" href="src/css/style-desktop.css">
+        <noscript>
+            <link rel="stylesheet" href="src/css/skel-noscript.css">
+            <link rel="stylesheet" href="src/css/style.css">
+            <link rel="stylesheet" href="src/css/style-desktop.css">
+        </noscript>
 
 	</head>
 	<body ng-app="theory-in-practice" class="homepage">
@@ -72,19 +74,25 @@
 		</div>
 
 		<!-- Department Info -->
-		<div id="dept" class="container">
-			<div class="row">
-				<div class="2u">
-					<a href="http://www.ncsu.edu" class="image full"><img src="src/images/ncstate-brick.png" alt=""/></a>
-				</div>
-				<div class="10u">
-					<a href="http://www.csc.ncsu.edu">Department of Computer Science</a>
-				</div>
-			</div>
+		<div id="dept">
+            <div class="container">
+                <div class="row">
+                    <div class="2u">
+                        <a href="http://www.ncsu.edu" class="image"><img src="src/images/ncstate-brick.png" alt=""/></a>
+                    </div>
+                    <div class="10u">
+                        <a href="http://www.csc.ncsu.edu">Department of Computer Science</a>
+                    </div>
+                </div>
+            </div>
 		</div>
 
 		<!-- App body -->
-		<ui-view autoscroll="true"></ui-view>
+        <div id="main">
+            <div class="container">
+                <ui-view autoscroll="true"></ui-view>
+            </div>
+        </div>
 
 		<!-- Copyright -->
 		<div id="copyright">
