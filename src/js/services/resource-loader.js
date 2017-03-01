@@ -3,26 +3,19 @@
  *
  * @module resourceLoader
  */
-angular.module('theory-in-practice').factory('resourceLoader', ['$http', '$q', function($http, $q) {
+angular.module('theory-in-practice').factory('resourceLoader', ['$http', 'YAML', function($http, YAML) {
 
-    // Previously loaded contents, if any
-    var contents = {};
+    // Cache contents
+    $http.defaults.cache = true;
 
     // Loader
     return {
         get: function(path) {
 
-            // Check to see if already loaded
-            if (contents.hasOwnProperty(path)) {
-                return $q.resolve(contents[path]);
-            }
-
             // Load and store
             return $http.get(path).then(function(response) {
 
-                var data = response.data;
-                contents[path] = data;
-                return data;
+                return YAML.parse(response.data);
 
             }).catch(function(err) {
 

@@ -6,7 +6,7 @@
 
 
 // Resource Locations
-const GROUP_INFO = 'src/contents/home/group-info.json';
+const GROUP_INFO = 'src/contents/home/group-info.yml';
 
 
 /**
@@ -25,7 +25,7 @@ function resolveResource(path) {
 
 // Declare and configure module
 angular
-    .module('theory-in-practice', ['ui.router', 'ngRoute', 'ngSanitize'])
+    .module('theory-in-practice', ['ui.router', 'ngRoute', 'ngSanitize', 'mmumshad.yamljs'])
     .config([
         '$stateProvider', '$urlRouterProvider', '$uiViewScrollProvider',
         function($stateProvider, $urlRouterProvider, $uiViewScrollProvider) {

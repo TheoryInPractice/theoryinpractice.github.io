@@ -6,11 +6,7 @@
             <!-- Content -->
             <div class="7u skel-cell-important">
 
-                <section ng-repeat="section in contents.sections">
-
-                    <div ng-bind-html="section.html"></div>
-
-                </section>
+                <div ng-bind-html="contents.markdown"></div>
 
             </div>
 

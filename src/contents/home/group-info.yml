@@ -1,0 +1,13 @@
+image: src/images/everest.jpg
+markdown: >
+  <section>
+    > In theory there is no difference between theory and practice. In practice there is. -Yogi Berra
+  </section>
+  <section>
+    Our group combines expertise in <i>structural graph theory, efficient algorithms, and generative network models </i>
+    with tools from geometry and statistics to address <i>fundamental questions in data-driven science</i>.
+
+    Most of our current research focuses on improving the understanding of <i>intermediate-scale network structure</i>,
+    and using it to develop new <i>efficient (parameterized) algorithms</i> for rigorous, robust comparison, anomaly detection,
+    sampling, and feature approximation in <i>real-world graph data</i>.
+  </section>
