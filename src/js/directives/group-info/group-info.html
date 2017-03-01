@@ -1,18 +1,15 @@
-<!-- Main -->
-<div id="main">
-    <div class="container">
-        <div class="row">
+<div class="container">
+    <div class="row">
 
-            <!-- Content -->
-            <div class="7u skel-cell-important">
+        <!-- Content -->
+        <div class="7u skel-cell-important">
 
-                <div ng-bind-html="contents.markdown"></div>
+            <markdown contents="contents.markdown"></markdown>
 
-            </div>
+        </div>
 
-            <div class="5u">
-                <span class="image full"><img src="{{ contents.image }}"/></span>
-            </div>
+        <div class="5u">
+            <span class="image full"><img src="{{ contents.image }}"/></span>
         </div>
     </div>
 </div>

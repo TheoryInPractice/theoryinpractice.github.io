@@ -25,10 +25,12 @@ function resolveResource(path) {
 
 // Declare and configure module
 angular
-    .module('theory-in-practice', ['ui.router', 'ngRoute', 'ngSanitize', 'mmumshad.yamljs'])
-    .config([
+    .module('theory-in-practice', [
+        'ui.router', 'ngRoute', 'ngSanitize', 'mmumshad.yamljs', 'ng-showdown'
+    ]).config([
         '$stateProvider', '$urlRouterProvider', '$uiViewScrollProvider',
-        function($stateProvider, $urlRouterProvider, $uiViewScrollProvider) {
+        '$showdownProvider',
+        function($stateProvider, $urlRouterProvider, $uiViewScrollProvider, $showdown) {
 
             // Index Page
             $stateProvider.state('home', {
@@ -86,6 +88,26 @@ angular
             $urlRouterProvider.otherwise('/');
 
             // Configure anchor scroll to scroll to top on view change
-            $uiViewScrollProvider.useAnchorScroll()
+            $uiViewScrollProvider.useAnchorScroll();
+
+            // Configure showdown
+            // Options inspired by https://github.com/showdownjs/ng-showdown/issues/21#issuecomment-163464623
+            var options = {
+                omitExtraWLInCodeBlocks: true,
+                prefixHeaderId: 'user-content-',
+                simplifiedAutoLink: true,
+                tablesHeaderId: true,
+                ghCodeBlocks: true,
+                ghCompatibleHeaderId: true,
+                parseImgDimensions: true,
+                literalMidWordUnderscores: true,
+                strikethrough: true,
+                tables: true,
+                tasklists: true,
+                extensions: ['prettify']
+            };
+            for (var option in options) {
+                $showdown.setOption(option, options[option]);
+            }
 
     }]);
