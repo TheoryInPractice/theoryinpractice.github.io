@@ -6,7 +6,7 @@
 
 
 // Resource Locations
-const GROUP_INFO = 'src/contents/home/group-info.yml';
+const HOME = 'src/contents/home/home.yml';
 
 
 /**
@@ -38,7 +38,7 @@ angular
                 controller: 'HomeController',
                 templateUrl: 'src/templates/home.html',
                 resolve: {
-                    groupInfo: resolveResource(GROUP_INFO)
+                    home: resolveResource(HOME)
                 }
             });
 

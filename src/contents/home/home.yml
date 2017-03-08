@@ -1,0 +1,26 @@
+%YAML 1.2
+---
+groupInfo:
+  image: src/images/everest.jpg
+  markdown: |
+    > In theory there is no difference between theory and practice. In practice there is. -Yogi Berra
+
+    Our group combines expertise in _structural graph theory, efficient algorithms, and generative network models_
+    with tools from geometry and statistics to address _fundamental questions in data-driven science_.
+
+    Most of our current research focuses on improving the understanding of _intermediate-scale network structure_,
+    and using it to develop new _efficient (parameterized) algorithms_ for rigorous, robust comparison, anomaly detection,
+    sampling, and feature approximation in _real-world graph data_.
+featuredContent:
+  - header: Meet our Team
+    image: src/images/group.jpg
+    view: people
+    markdown: Want to know more about us? Access our CVs? Find out if we're hiring? Check this page.
+  - header: Theory Talks at NC State
+    image: src/images/seminar.jpg
+    href: http://www.csc2.ncsu.edu/theoryseminar/
+    markdown: We run the NC State Theory Seminar, with support from KPIT, the ePartners program, & the NC State Engineering Foundation
+  - header: News & Events
+    image: src/images/news.jpg
+    view: news
+    markdown: Recent publicity, publications, talks, and upcoming group member appearances.

@@ -4,8 +4,8 @@
  * @module HomeController
  */
 angular.module('theory-in-practice')
-    .controller('HomeController', ['$scope', 'groupInfo', function($scope, groupInfo) {
+    .controller('HomeController', ['$scope', 'home', function($scope, home) {
 
-        $scope.groupInfo = groupInfo;
+        $scope.home = home;
 
     }]);
