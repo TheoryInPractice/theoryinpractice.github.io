@@ -4,9 +4,9 @@
 
             <div class="4u" ng-repeat="panel in contents">
                 <h2>{{ panel.header }}</h2>
-                <a ng-attr-ui-sref="{{ panel.view }}" ng-attr-href="{{ panel.href }}">
-                    <img src="{{ panel.image }}" class="image full"/>
-                </a>
+                <state-or-href link="panel">
+                    <img class="image full" ng-src="{{ panel.image }}"/>
+                </state-or-href>
                 <markdown contents="panel.markdown"></markdown>
             </div>
 

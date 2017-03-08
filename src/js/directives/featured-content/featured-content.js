@@ -1,7 +1,7 @@
 /**
  * Featured Content directive. Renders featured content for Theory in Practice.
  *
- * @module groupInfo
+ * @module featuredContent
  */
 angular.module('theory-in-practice').directive('featuredContent', [function() {
 
