@@ -1,0 +1,24 @@
+<!-- newsbar -->
+<div id="newsbar">
+    <center>
+        <h2>Recent News</h2>
+    </center>
+    <div class="container">
+        <div class="row">
+
+            <div ng-if="limit" ng-repeat="item in contents | limitTo:limit" class="3u">
+                <p class="posted">{{ item.posted }}</p>
+                <img ng-src="{{ item.image }}" alt="" />
+                <markdown contents="item.markdown"></markdown>
+            </div>
+            <ul ng-if="!limit">
+                <li ng-repeat="item in contents">
+                    <p class="posted">{{ item.posted }}</p>
+                    <img ng-src="{{ item.image }}" alt="" />
+                    <markdown contents="item.markdown"></markdown>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+</div>

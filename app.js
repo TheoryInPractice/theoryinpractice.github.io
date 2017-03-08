@@ -7,6 +7,7 @@
 
 // Resource Locations
 const HOME = 'src/contents/home/home.yml';
+const NEWS = 'src/contents/news/news.yml';
 
 
 /**
@@ -38,7 +39,8 @@ angular
                 controller: 'HomeController',
                 templateUrl: 'src/templates/home.html',
                 resolve: {
-                    home: resolveResource(HOME)
+                    home: resolveResource(HOME),
+                    news: resolveResource(NEWS)
                 }
             });
 
