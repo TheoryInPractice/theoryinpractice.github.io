@@ -8,6 +8,7 @@
 // Resource Locations
 const HOME = 'src/contents/home/home.yml';
 const NEWS = 'src/contents/news/news.yml';
+const EVENTS = 'src/contents/events/events.yml';
 
 
 /**
@@ -59,13 +60,22 @@ angular
             // News Page
             $stateProvider.state('news', {
                 url: '/news',
-                templateUrl: 'src/templates/news.html'
+                templateUrl: 'src/templates/news.html',
+                controller: 'NewsController',
+                resolve: {
+                    news: resolveResource(NEWS),
+                    events: resolveResource(EVENTS)
+                }
             });
 
             // News Archive page
             $stateProvider.state('news-archive', {
                 url: '/news-archive',
-                templateUrl: 'src/templates/news-archive.html'
+                templateUrl: 'src/templates/news-archive.html',
+                controller: 'NewsArchiveController',
+                resolve: {
+                    news: resolveResource(NEWS)
+                }
             });
 
             // People Page

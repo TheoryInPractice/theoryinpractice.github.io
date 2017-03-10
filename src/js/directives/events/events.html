@@ -1,0 +1,14 @@
+<div id="featured">
+    <section>
+        <h2>Upcoming Talks & Events</h2>
+        <ul class="style">
+
+            <li ng-repeat="item in contents">
+                <p class="posted">{{ item.posted }}</p>
+                <img ng-src="{{ item.image }}" alt="" />
+                <markdown contents="item.markdown"></markdown>
+            </li>
+
+        </ul>
+    </section>
+</div>

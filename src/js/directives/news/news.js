@@ -10,6 +10,7 @@ const RECENT_LIMIT = 4;
 
 // Recent attribute
 const RECENT = 'recent';
+const HORIZONTAL = 'horizontal';
 
 
 angular.module('theory-in-practice').directive('news', [function() {
@@ -20,6 +21,7 @@ angular.module('theory-in-practice').directive('news', [function() {
         scope: { contents: '=' },
         link: function(scope, element, attrs) {
             scope.limit = (RECENT in attrs) ? RECENT_LIMIT : undefined;
+            scope.horizontal = (HORIZONTAL in attrs);
         }
     };
 
