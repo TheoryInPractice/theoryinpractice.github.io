@@ -12,7 +12,7 @@
             </div>
         </div>
 
-        <ul ng-if="!horizontal">
+        <ul ng-if="!horizontal" class="style">
             <li ng-repeat="item in contents | limitTo:limit">
                 <p class="posted">{{ item.posted }}</p>
                 <img ng-src="{{ item.image }}" alt="" />

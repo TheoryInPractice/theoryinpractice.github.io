@@ -3,7 +3,7 @@
         <h2>Upcoming Talks & Events</h2>
         <ul class="style">
 
-            <li ng-repeat="item in contents">
+            <li ng-repeat="item in contents | limitTo:limit">
                 <p class="posted">{{ item.posted }}</p>
                 <img ng-src="{{ item.image }}" alt="" />
                 <markdown contents="item.markdown"></markdown>

@@ -54,7 +54,11 @@ angular
             // Events Page
             $stateProvider.state('events-archive', {
                 url: '/events-archive',
-                templateUrl: 'src/templates/events-archive.html'
+                templateUrl: 'src/templates/events-archive.html',
+                controller: 'EventsArchiveController',
+                resolve: {
+                    events: resolveResource(EVENTS)
+                }
             });
 
             // News Page
