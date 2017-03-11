@@ -10,6 +10,7 @@ const HOME   = 'src/contents/home/home.yml';
 const NEWS   = 'src/contents/news/news.yml';
 const EVENTS = 'src/contents/events/events.yml';
 const PEOPLE = 'src/contents/people/people.yml';
+const JOIN   = 'src/contents/people/join.yml';
 
 
 /**
@@ -89,7 +90,8 @@ angular
                 templateUrl: 'src/templates/people.html',
                 controller: 'PeopleController',
                 resolve: {
-                    people: resolveResource(PEOPLE)
+                    people: resolveResource(PEOPLE),
+                    join: resolveResource(JOIN)
                 }
             });
 
