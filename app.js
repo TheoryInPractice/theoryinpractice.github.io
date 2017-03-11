@@ -12,6 +12,7 @@ const EVENTS       = 'src/contents/events/events.yml';
 const PEOPLE       = 'src/contents/people/people.yml';
 const JOIN         = 'src/contents/people/join.yml';
 const PUBLICATIONS = 'src/contents/publications/publications.yml';
+const ABOUT        = 'src/contents/about/about.yml';
 
 
 /**
@@ -51,7 +52,11 @@ angular
             // About Page
             $stateProvider.state('about', {
                 url: '/about',
-                templateUrl: 'src/templates/about.html'
+                templateUrl: 'src/templates/about.html',
+                controller: 'AboutController',
+                resolve: {
+                    about: resolveResource(ABOUT)
+                }
             });
 
             // Events Page
