@@ -6,11 +6,12 @@
 
 
 // Resource Locations
-const HOME   = 'src/contents/home/home.yml';
-const NEWS   = 'src/contents/news/news.yml';
-const EVENTS = 'src/contents/events/events.yml';
-const PEOPLE = 'src/contents/people/people.yml';
-const JOIN   = 'src/contents/people/join.yml';
+const HOME         = 'src/contents/home/home.yml';
+const NEWS         = 'src/contents/news/news.yml';
+const EVENTS       = 'src/contents/events/events.yml';
+const PEOPLE       = 'src/contents/people/people.yml';
+const JOIN         = 'src/contents/people/join.yml';
+const PUBLICATIONS = 'src/contents/publications/publications.yml';
 
 
 /**
@@ -98,7 +99,11 @@ angular
             // Publications Page
             $stateProvider.state('publications', {
                 url: '/publications',
-                templateUrl: 'src/templates/publications.html'
+                templateUrl: 'src/templates/publications.html',
+                controller: 'PublicationsController',
+                resolve: {
+                    publications: resolveResource(PUBLICATIONS)
+                }
             });
 
             // Software Page
