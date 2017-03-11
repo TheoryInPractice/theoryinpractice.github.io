@@ -17,7 +17,7 @@ const SOFTWARE     = 'src/contents/software/software.yml';
 
 
 /**
- * Wrapper function for the resolving resources
+ * Wrapper function for resolving resources
  * through the resource loader service.
  *
  * @param   {String}  path Path to load.

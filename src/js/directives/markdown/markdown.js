@@ -1,7 +1,8 @@
 /**
  * Markdown directive wrapping ng-showdown. Correctly gives the containing
  * div the markdown-body class, which is picked up by GitHub Flavored
- * Markdown (GFM) css.
+ * Markdown (GFM) css. Also compiles resulting html with angular for
+ * use with angular components.
  *
  * @module markdown.
  */
@@ -13,7 +14,7 @@ angular.module('theory-in-practice').directive('markdown', ['$compile', function
         scope: { contents: '=' },
         link: function(scope, element) {
 
-            // Reference the markdown div that is has rendered html
+            // Reference the markdown div that has rendered html
             // attached via ng-bind-html
             var boundContents = angular
                 .element(element)
