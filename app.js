@@ -6,9 +6,10 @@
 
 
 // Resource Locations
-const HOME = 'src/contents/home/home.yml';
-const NEWS = 'src/contents/news/news.yml';
+const HOME   = 'src/contents/home/home.yml';
+const NEWS   = 'src/contents/news/news.yml';
 const EVENTS = 'src/contents/events/events.yml';
+const PEOPLE = 'src/contents/people/people.yml';
 
 
 /**
@@ -85,7 +86,11 @@ angular
             // People Page
             $stateProvider.state('people', {
                 url: '/people',
-                templateUrl: 'src/templates/people.html'
+                templateUrl: 'src/templates/people.html',
+                controller: 'PeopleController',
+                resolve: {
+                    people: resolveResource(PEOPLE)
+                }
             });
 
             // Publications Page

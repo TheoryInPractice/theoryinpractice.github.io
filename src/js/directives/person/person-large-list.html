@@ -1,0 +1,19 @@
+<div>
+    <div class="row">
+        <div class="12u">
+            <section>
+                <header>
+                    <h3>{{ title }}</h3>
+                </header>
+            </section>
+        </div>
+    </div>
+    <div class="row" ng-repeat="person in contents">
+        <div class="3u">
+            <a class="image full"><img ng-src="{{ person.image }}" alt="" /></a>
+        </div>
+        <div class="9u">
+            <person contents="person"></person>
+        </div>
+    </div>
+</div>

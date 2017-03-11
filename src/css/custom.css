@@ -1,0 +1,12 @@
+/* Custom CSS for TiP, separate from TEMPLATED CSS */
+
+/* Override link style inside of a state-or-href tag with class button */
+state-or-href.button a {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+/* Clear floats */
+.clear {
+    clear: both;
+}
