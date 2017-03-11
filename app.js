@@ -13,6 +13,7 @@ const PEOPLE       = 'src/contents/people/people.yml';
 const JOIN         = 'src/contents/people/join.yml';
 const PUBLICATIONS = 'src/contents/publications/publications.yml';
 const ABOUT        = 'src/contents/about/about.yml';
+const SOFTWARE     = 'src/contents/software/software.yml';
 
 
 /**
@@ -114,7 +115,11 @@ angular
             // Software Page
             $stateProvider.state('software', {
                 url: '/software',
-                templateUrl: 'src/templates/software.html'
+                templateUrl: 'src/templates/software.html',
+                controller: 'SoftwareController',
+                resolve: {
+                    software: resolveResource(SOFTWARE)
+                }
             });
 
             // Default to index if not found

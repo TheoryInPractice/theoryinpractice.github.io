@@ -1,0 +1,36 @@
+items:
+- image: src/images/concuss_logo.png
+  name: CONCUSS
+  shortDescription: Combatting Network Complexity Using Structural Sparsity
+  fullDescription:
+    markdown: |
+      CONCUSS is a Python software tool for large scale graph analytics whose efficiency and scalability come from
+      exploiting the underlying "structural sparsity" of the data. Current modules use low-treedepth colorings
+      (guaranteed in graph classes of bounded expansion) and allow users to count the number of occurrences of a
+      specific pattern within a graph (i.e. subgraph isomorphism counting).
+  link:
+    href: https://github.com/theoryinpractice/concuss
+- image: src/images/comingsoon_logo.png
+  name: BEAVr
+  shortDescription: Bounded Expansion Algorithm Visualizer
+  fullDescription:
+    markdown: |
+      BEAVr is a Python tool offering interactive visualization of the algorithmic pipeline for counting subgraph
+      isomorphisms in graph classes of bounded expansion, as implemented in CONCUSS. BEAVr visually represents the data
+      transformations and information in each stage of the pipeline (p-centered colorings, tree-depth decompositions,
+      dynamic programming with k-patterns, and final counts via inclusion-exclusion). For researchers, BEAVr also
+      enables exploration of new coloring heuristics via detailed visualization of each step of the coloring stage.
+  link:
+    href: https://github.com/theoryinpractice/beavr
+- image: src/images/inddgo_logo.png
+  name: INDDGO
+  shortDescription: Integrated Network Decompositions & Dynamic programming for Graph Optimization
+  fullDescription:
+    markdown: |
+      The INDDGO software package offers a set of tools for finding exact solutions to graph optimization problems via
+      tree decompositions and dynamic programming algorithms. Currently the C++/MPI framework offers serial and
+      parallel (distributed memory) algorithms for finding tree decompositions and solving the maximum weighted
+      independent set problem. The parallel dynamic programming algorithm is implemented on top of the MADNESS
+      task-based runtime. This software is no longer under active development.
+  link:
+    href: https://github.com/bdsullivan/inddgo
