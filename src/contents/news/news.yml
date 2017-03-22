@@ -1,20 +1,24 @@
 - posted: August 1, 2016
   image: src/images/comingsoon_thumb.png
+  featured: true
   markdown: |
     Welcome to our **Fall 2016 undergraduate researchers**: Eric Horton and Jean-Claude Shore!
     (now on the <a ui-sref="people">People</a> page.)
 - posted: July 25, 2016
   image: src/images/papers_thumb.jpg
+  featured: true
   markdown: |
     Joint paper with Ph.D. student Andrew van der Poel "A Fast Parameterized Algorithm for Co-Path Set"
     accepted at IPEC 2016!
 - posted: July 17, 2016
   image: src/images/siam.jpg
+  featured: true
   markdown: |
     [#SIAMNS16](http://www.siam.org/meetings/ns16/) had a record number of submissions -- and attendees!
     Members of Theory in Practice had five accepted abstracts (2 posters, 2 talks, 1 IGNITE).
 - posted: May 15, 2016
   image: src/images/students.jpg
+  featured: true
   markdown: |
     Ph.D. student Timothy Goodrich has been awarded a
     [NASA/NC Space Grant Graduate Research Fellowship](http://www.ncspacegrant.org) for Summer 2016
