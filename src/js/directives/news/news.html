@@ -1,7 +1,8 @@
 <!-- newsbar -->
 <div id="featured">
     <section>
-        <h2>News</h2>
+        <h2 ng-if="limit">Recent News</h2>
+        <h2 ng-if="!limit">News: Archive</h2>
         <div ng-if="horizontal"  class="container">
             <div class="row">
                 <div ng-repeat="item in contents | limitTo:limit" class="3u">
