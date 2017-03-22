@@ -9,7 +9,7 @@
             <div class="row">
                 <div ng-repeat="item in contents | limitTo:limit" class="3u" ng-class="{clear: !($index % 4)}">
                     <p class="posted">{{ item.posted }}</p>
-                    <img ng-src="{{ item.image }}" alt="" />
+                    <img class="image thumbnail" ng-src="{{ item.image }}" alt="" />
                     <markdown contents="item.markdown"></markdown>
                 </div>
             </div>
@@ -18,7 +18,7 @@
         <ul ng-if="!horizontal" class="style">
             <li ng-repeat="item in contents | limitTo:limit">
                 <p class="posted">{{ item.posted }}</p>
-                <img ng-src="{{ item.image }}" alt="" />
+                <img class="image thumbnail" ng-src="{{ item.image }}" alt="" />
                 <markdown contents="item.markdown"></markdown>
             </li>
         </ul>

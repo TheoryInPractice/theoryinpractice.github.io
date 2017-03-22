@@ -10,3 +10,9 @@ state-or-href.button a {
 .clear {
     clear: both;
 }
+
+/* Desired size for thumbnail images */
+img.thumbnail {
+    width: 70px;
+    height: 70px;
+}
