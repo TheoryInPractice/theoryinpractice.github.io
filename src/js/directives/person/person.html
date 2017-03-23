@@ -4,11 +4,13 @@
         <h6 ng-if="contents.date">{{ contents.date }}</h6>
     </header>
     <markdown contents="contents.markdown"></markdown>
-    <div ng-if="contents.email">
-        <b><i>Email: </i></b>
-        {{ contents.email }}
-    </div>
-    <div ng-if="contents.about">
-        <state-or-href class="button" link="contents.about">More About {{ contents.name }}</state-or-href>
+    <div ng-if="!basic">
+        <div ng-if="contents.email">
+            <b><i>Email: </i></b>
+            {{ contents.email }}
+        </div>
+        <div ng-if="contents.about ">
+            <state-or-href class="button" link="contents.about">More About {{ contents.name }}</state-or-href>
+        </div>
     </div>
 </div>
