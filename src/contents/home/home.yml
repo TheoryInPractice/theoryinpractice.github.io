@@ -12,13 +12,16 @@ groupInfo:
 featuredContent:
   - header: Meet our Team
     image: src/images/group.jpg
-    state: people
+    link:
+      state: people
     markdown: Want to know more about us? Access our CVs? Find out if we're hiring? Check this page.
   - header: Theory Talks at NC State
     image: src/images/seminar.jpg
-    href: http://www.csc2.ncsu.edu/theoryseminar/
+    link:
+      href: http://www.csc2.ncsu.edu/theoryseminar/
     markdown: We run the NC State Theory Seminar, with support from KPIT, the ePartners program, & the NC State Engineering Foundation
   - header: News & Events
     image: src/images/news.jpg
-    state: news
+    link:
+      state: news
     markdown: Recent publicity, publications, talks, and upcoming group member appearances.
