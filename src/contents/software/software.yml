@@ -1,4 +1,3 @@
-items:
 - image: src/images/concuss_logo.png
   name: CONCUSS
   shortDescription: Combatting Network Complexity Using Structural Sparsity

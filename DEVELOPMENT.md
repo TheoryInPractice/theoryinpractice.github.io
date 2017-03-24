@@ -94,7 +94,7 @@ Located at `src/contents/events/events.yml`.
 Events:
   type: array
   description: |
-    This object contains a list of all events that Theory in Practice has hosted, participated
+    This array contains a list of all events that Theory in Practice has hosted, participated
     in, or wants the world to know about.
   items:
     type: object
@@ -141,7 +141,7 @@ Home:
             schema: image
           link:
             description: Link the user can follow to learn more
-            schema: linkObject
+            schema: link
           markdown:
             description: Body text for the content item
             schema: markdown
@@ -179,9 +179,7 @@ Located at `src/contents/people/join.yml`.
 Join:
   type: object
   description: This object describes the join text located at People page
-  properties:
-    markdown:
-      schema: markdown
+  schema: markdownObject
 ```
 
 ### People
@@ -224,26 +222,22 @@ Located at `src/contents/publications/publications.yml`.
 
 ```yaml
 Publications:
-  type: object
-  description: This object describes all publications which live on the publications page
-  properties:
-    years:
-      type: array:
-      description: An object containing a year's publications
-      items:
-        type: object
-        properties:
-          year:
-            type: string
-            description: The year(s) of publication
-          publications:
-            type: array
-            description: A list of all publications within this time period
-            items:
-              properties:
-                markdown:
-                  description: A description of the publication
-                  schema: markdown
+  type: array
+  description: |
+    This array describes all publications which live on the publications page,
+    grouped by year
+  items:
+    type: object
+    properties:
+      year:
+        type: string
+        description: The year(s) of publication
+      publications:
+        type: array
+        description: A list of all publications within this time period
+        items:
+          description: A description of the publication
+          schema: markdownObject
 ```
 
 ### Software
@@ -252,31 +246,27 @@ Located at `src/contents/software/software.yml`.
 
 ```yaml
 Software:
-  type: object
-  description: This object describes all software items produced by Theory in Practice
-  properties:
-    itmes:
-      type: array
-      description: List of software items
-      items:
-        type: object
-        description: A software item
-        properties:
-          image:
-            description: An image for the software package
-            schema: image
-          name:
-            type: string
-            description: The name of the software package
-          shortDescription:
-            type: string
-            description: A one line description of the software package
-          fullDescription:
-            description: A full description of the software package
-            schema: markdownObject
-          link:
-            description: A link to a software repo for the package
-            schema: link
+  type: array
+  description: This array describes all software items produced by Theory in Practice
+  items:
+    type: object
+    description: A software item
+    properties:
+      image:
+        description: An image for the software package
+        schema: image
+      name:
+        type: string
+        description: The name of the software package
+      shortDescription:
+        type: string
+        description: A one line description of the software package
+      fullDescription:
+        description: A full description of the software package
+        schema: markdownObject
+      link:
+        description: A link to a software repo for the package
+        schema: link
 ```
 
 ### Date
@@ -403,6 +393,18 @@ _**I've added <directive|controller|angular-component>, but it doesn't run**_
 
 Verify that the script file is loaded in `index.html` with a script tag. I.E. 
 `<script src="path/to/file"></script>`. A script will never run if it is not loaded.
+
+_**I want to link to a TiP page from markdown content, but there's only one html page**_
+
+Ui-Router determines which page to show based on the current state of the application. In most cases, 
+the state is resolved from the url. For example, the state `#!/` resolves to `index` and `#!/people`
+resolves to `people`.
+
+GFM compiles links of the format `[link text](link address)` into the html anchor tag
+`<a href="link address">link text</a>`. You _can_ insert a link to a page with `[link text](#!/state)`.
+However, this is not recommended. In the event that a state's url is changed, the link will break. It
+is safer to use the `<a ui-sref="state">link text</a>` directive to directly link to a state by name.
+The directive will be compiled by angular into a proper link before being placed on the page.
 
 ## Updating Site Content - Process and Workflow
 
