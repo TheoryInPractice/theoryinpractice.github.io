@@ -406,6 +406,16 @@ However, this is not recommended. In the event that a state's url is changed, th
 is safer to use the `<a ui-sref="state">link text</a>` directive to directly link to a state by name.
 The directive will be compiled by angular into a proper link before being placed on the page.
 
+## Other Common Problems
+
+_**I tried to push to the development deployment, but it was rejected**_
+
+Git rejects a push if your branch is behind what the remote repo already has. If you can, do a git pull
+to update. If that doesn't work, or isn't feasible, then you can overwrite the remote repo with
+`git push <remote> +development`. WARNING! This is dangerous. It will overwrite the remote branch.
+This is acceptable for a development server someone else may have worked with, but do not run it on
+`origin`.
+
 ## Updating Site Content - Process and Workflow
 
 To update site content, edit the appropriate content file and submit a pull request. The updated content
