@@ -1,5 +1,50 @@
 # Installation Instructions
 
+## Weblocker Deployment
+
+These are instructions for deploying TiP.ww to NCSU's weblocker environment.
+
+### Connect to Weblocker
+
+```
+ssh <username>@remote.eos.ncsu.edu
+cd /afs/eos.ncsu.edu/lockers/people/<initial>/<username>
+```
+
+### Create TiP Directories
+
+```
+git init --bare private/theoryinpractice.git
+mkdir www/theoryinpractice
+```
+
+### Create Post-Receive Hook
+
+The post-receive hook is activated after receiving a push. It makes use of `checkout -f`, which
+will checkout the latest version of the `master` branch.
+
+```
+vi private/theoryinpractice.git/hooks/post-receive
+
+#### BEGIN POST-RECEIVE CONTENTS
+#!/bin/bash
+
+GIT_WORK_TREE=/afs/eos.ncsu.edu/lockers/people/<initial>/<username>/www/theoryinpractice
+GIT_DIR=/afs/eos.ncsu.edu/lockers/people/<initial>/<username>/private/theoryinpractice.git
+
+git --work-tree=$GIT_WORK_TREE --git-dir=$GIT_DIR checkout -f
+#### END POST-RECEIVE CONTENTS
+
+chmod +x private/theoryinpractice.git/hooks/post-receive
+```
+
+### Add Local Git Remote
+
+```
+git remote add weblocker <username>@remote.eos.ncsu.edu:/afs/eos.ncsu.edu/lockers/people/<initial>/<username>/private/theoryinpractice.git
+git push weblocker master
+```
+
 ## Development Deployment
 
 These instructions are for deploying TiP.www to a development server. They are written for TiP's shrubbery,
