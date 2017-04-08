@@ -5,9 +5,7 @@
 These instructions are for deploying TiP.www to a development server. They are written for TiP's shrubbery,
 but any Fedora installation will do. Sudo access is required.
 
-
 ### Connect to Shrubbery
-
 ```
 ssh shrubbery.csc.ncs.edu
 ```
@@ -21,12 +19,15 @@ sudo systemctl enable nginx
 ```
 
 ### Create Directories and Git Hooks
+
 ```
 sudo mkdir /tipwww
-sudo chmod 777 /tipwww/
-git init --bare tipwww.git
-mkdir tipwww.html
-vi tipwww.git/hooks/post-receive
+sudo git init --bare /tipwww/tipwww.git
+sudo mkdir /tipwww/tipwww.html
+
+sudo chmod -R 777 /tipwww
+
+vi /tipwww/tipwww.git/hooks/post-receive
 
 ### BEGIN POST-RECEIVE CONTENTS
 
@@ -43,6 +44,7 @@ chmod +x tipwww.git/hooks/post-receive
 ```
 
 ### Configure Nginx
+
 ```
 sudo vi /etc/nginx/nginx.conf
 
@@ -53,26 +55,21 @@ location / {
 }
 
 ### END CONTENT
-```
 
+sudo chown -R nginx:nginx /tipwww
+```
 
 ### Open Port :80 and Configure SELinux
+
 ```
-sudo firewall-cmd --add-service=http --permanent
-sudo firewall-cmd --reload
+sudo systemctl stop firewalld
+sudo iptables -I INPUT 5 -i eth0 -p tcp --dport 80 -m state --state NEW,ESTABLISHED -j ACCEPT
+sudo iptables-save > /etc/sysconfig/iptables
 sudo chcon -Rt httpd_sys_content_t /tipwww
 ```
 
 ### Restart Nginx
+
 ```
 sudo systemctl restart nginx
-```
-
-
-
-## Pushing Code to Shrubbery
-
-```
-git remote add shrubbery <username>@shrubbery.csc.ncsu.edu:/tipwww/tipwww.git
-git push shrubbery development
 ```

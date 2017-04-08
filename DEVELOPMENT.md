@@ -36,7 +36,8 @@ The second option is the preferred method. One option is to use
 [http-server](https://www.npmjs.com/package/http-server). The other is to use an IDE like 
 [IntelliJ](https://www.jetbrains.com/idea/), which has built in support for Angular and comes with
 an http server. Licenses for the Ultimate edition are free with an NCSU email through their education
-pricing. To run TiP.www from IntelliJ, right click on index.html and select `Open in Browser`.
+pricing. To run TiP.www from IntelliJ, right click on index.html and select `Open in Browser`. Atom
+also has a development [server plugin](https://atom.io/packages/atom-live-server).
 
 ## Content Files
 
@@ -420,6 +421,13 @@ This is acceptable for a development server someone else may have worked with, b
 
 To update site content, edit the appropriate content file and submit a pull request. The updated content
 will be pushed to NCSU's weblocker.
+
+Pushing code to shrubbery can be done with git.
+
+```
+git remote add shrubbery <username>@shrubbery.csc.ncsu.edu:/tipwww/tipwww.git
+git push shrubbery development
+```
 
 ### Example
 
