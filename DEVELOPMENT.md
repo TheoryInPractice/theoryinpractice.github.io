@@ -2,8 +2,8 @@
 
 ## Technologies
 
-Theory in Practice WWW is built on [Angular](https://angularjs.org/) v1.6.2. The main purpose behind 
-choosing Angular is to fulfill the requirement of having a website which can be hosted over an http 
+Theory in Practice WWW is built on [Angular](https://angularjs.org/) v1.6.2. The main purpose behind
+choosing Angular is to fulfill the requirement of having a website which can be hosted over an http
 server (i.e. NCSU weblocker) while being able to update site content without editing html.
 
 [Bower](https://bower.io/) is used to manage dependencies, and are stored in `bower_components`.
@@ -32,29 +32,34 @@ There are two ways around this.
 1. Override the browser settings to allow the file protocol
 2. Serve TiP.www using a development http server.
 
-The second option is the preferred method. One option is to use 
-[http-server](https://www.npmjs.com/package/http-server). The other is to use an IDE like 
-[IntelliJ](https://www.jetbrains.com/idea/), which has built in support for Angular and comes with
-an http server. Licenses for the Ultimate edition are free with an NCSU email through their education
-pricing. To run TiP.www from IntelliJ, right click on index.html and select `Open in Browser`. Atom
-also has a development [server plugin](https://atom.io/packages/atom-live-server).
+The second option is the preferred method. There are several ways to achieve this.
+
+1. [http-server](https://www.npmjs.com/package/http-server). Install with
+   `npm install -g http-server`. Then run `http-server` from the TiP.www directory.
+2. Use an IDE like [IntelliJ](https://www.jetbrains.com/idea/), which has built in support for
+   Angular and comes with an http server. Licenses for the Ultimate edition are free with an NCSU
+   email through their education pricing. To run TiP.www from IntelliJ, right click on index.html
+   and select `Open in Browser`.
+3. Atom.io [express server](https://atom.io/packages/local-server-express). Once installed,
+   activate `cmd+shift+p` or `ctrl+shift-p`, depending on platform, and search for express.
+   Select `Local Server Express: Run`.
 
 ## Content Files
 
 All content files are located in `src/contents/**/*.yml`. The [YAML](http://yaml.org/) standard
-was chosen for readability. The following sections describe the structure of each file and 
+was chosen for readability. The following sections describe the structure of each file and
 any associated objects.
 
 
 ### About
 
-Located at `src/contents/about/about.yml`. 
+Located at `src/contents/about/about.yml`.
 
 ```yaml
 About:
   type: object
   description: |
-    This object contains all information about the principal investigator found on the 
+    This object contains all information about the principal investigator found on the
     About view.
   properties:
     overview:
@@ -392,12 +397,12 @@ is markdown text that needs to be rendered into html.
 
 _**I've added <directive|controller|angular-component>, but it doesn't run**_
 
-Verify that the script file is loaded in `index.html` with a script tag. I.E. 
+Verify that the script file is loaded in `index.html` with a script tag. I.E.
 `<script src="path/to/file"></script>`. A script will never run if it is not loaded.
 
 _**I want to link to a TiP page from markdown content, but there's only one html page**_
 
-Ui-Router determines which page to show based on the current state of the application. In most cases, 
+Ui-Router determines which page to show based on the current state of the application. In most cases,
 the state is resolved from the url. For example, the state `#!/` resolves to `index` and `#!/people`
 resolves to `people`.
 
@@ -441,3 +446,67 @@ we think we can do better. We're going to update it to say `Theory in Practice i
 5. Launch TiP.www locally to verify the change
 6. Commit, push, and open a pull request back to TiP.www
 7. The pull request will be approved, and updates pushed to NCSU's weblocker
+
+## Adding Site Pages
+
+Adding a new page takes a few extra steps with Angular. 
+
+1. Create the html template and any content files
+2. Create the Angular controller
+3. Add the controller to `index.html`
+4. Add the page to `app.js`
+
+### Example
+
+Let's say we want to add a page called NEW. The first step is to create the html template `src/templates/NEW.html`.
+We'll just add a header for now.
+```html
+<h1>{{ content.title }}</h1>
+```
+
+We're also going to create a content file `src/contents/NEW/NEW.yml` with
+```yaml
+title: NEW PAGE
+```
+
+Next, define an angular controller for the view in `src/js/controllers/NEW-controller.js`.
+```js
+angular.module('theory-in-practice')
+    .controller('NEWController', ['$scope', 'content', function($scope, content) {
+        $scope.content = content;
+    }]);
+```
+
+A little bit about what's going on when defining a controller. `angular.module()` is being called to request the
+`theory-in-practice` module registered with angular. This module is declared in `app.js` and defines global
+configuration. `.controller` registers a controller with `theory-in-practice` called `NEWController`. The second
+argument to `.controller` is the controller itself, a javascript function. This controller declares that it takes
+two parameters, `$scope` and `content`. Angular will perform auto-injection when the controller is activated to
+make both available. `$scope.content = content` attaches the content variable to scope, this is how it is provided
+to the template in `{{ content.title }}`.
+
+The web browser will not load the controller file unless told to do so, so we're going to tell it to in `index.html`
+under the heading `<!-- Controllers -->`.
+```html
+<script src="src/js/controllers/NEW-controller.js"></script>
+```
+
+Now that the pieces are in place, we'll tell Angular to create a new page using this template/controller. In `app.js`,
+add the following to the config block.
+```js
+// NEW Page
+$stateProvider.state('NEW', {
+    url: '/new',
+    templateUrl: 'src/templates/NEW.html',
+    controller: 'NEWController',
+    resolve: {
+        content: resolveResource('src/contents/NEW.yml')
+    }
+});
+```
+
+The `resolve` block is how our YAML files are being provided to the controller. It declares a resource name and a
+function that will be used to return the resource. In this case, the helper function `resolveResource` abstracts
+the loading process.
+
+If testing locally, `localhost:<port>#!/new` now displays the newly created page.
