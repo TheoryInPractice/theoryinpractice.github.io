@@ -54,12 +54,12 @@ phdStudents:
 undergraduates:
 - image: src/images/comingsoon.png
   name: Eric Horton
-  date: Fall 2016
+  date: Fall 2016; Spring 2017
   markdown: |
     Eric is a senior, as well as a MS student in the Accelerated Bachelors-Masters (ABM) program.
 - image: src/images/comingsoon.png
   name: Jean-Claude Shore
-  date: Fall 2016
+  date: Fall 2016; Spring 2017
   markdown: |
     Jean-Claude is a junior co-op student who is double majoring in computer science and mathematics.
     He plays in the NC State marching band.
