@@ -33,3 +33,13 @@
       task-based runtime. This software is no longer under active development.
   link:
     href: https://github.com/bdsullivan/inddgo
+
+- image: src/images/comingsoon_logo.png
+  name: Toboggan
+  shortDescription: Decomposes Flows on DAGs into Minimal Number of Paths
+  fullDescription:
+    markdown: |
+       Toboggan is a research tool for decomposing a flow on a directed acyclic graph into a minimal number of paths,
+       a problem that commonly occurs in transcript and metagenomic assembly.
+  link:
+    href: https://github.com/TheoryInPractice/toboggan
