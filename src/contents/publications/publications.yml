@@ -7,8 +7,11 @@
 - year: 2016
   publications:
   - markdown: |
-      B. D. Sullivan, A. van der Poel. A Fast Parameterized Algorithm for Co-Path Set. _**To appear in
-      [IPEC 2016](http://conferences.au.dk/algo16/ipec/)**_. Available [on ArXiv](http://arxiv.org/abs/1603.04376).
+      A. J. Chin, T. D. Goodrich, M. P. O'Brien, F. Reidl, B. D. Sullivan, A. van der Poel. Asymptotic Analysis of Equivalences and Core-Structures in Kronecker-Style Graph Models. _**Proceedings of 2016 IEEE International
+      Conference on Data Mining (ICDM'16)**_, 2016. Proceedings version
+      [here](http://ieeexplore.ieee.org/document/7837911/); also available [on ArXiv](https://arxiv.org/abs/1609.05081).
+  - markdown: |
+      B. D. Sullivan, A. van der Poel. A Fast Parameterized Algorithm for Co-Path Set. _**[IPEC 2016](http://conferences.au.dk/algo16/ipec/)**_. Available [on ArXiv](http://arxiv.org/abs/1603.04376).
   - markdown: |
       A. Adcock, B. D. Sullivan, and M. Mahoney. Tree decompositions and social graphs. _**Internet Mathematics 12(5),
       315--361, 2016**_. Journal version [here](http://dx.doi.org/10.1080/15427951.2016.1182952); also available
