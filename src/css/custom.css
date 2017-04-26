@@ -16,3 +16,8 @@ img.thumbnail {
     width: 70px;
     height: 70px;
 }
+
+/* 1 em padding-right to match default 1 em padding left */
+#featured {
+    padding-right: 1em;
+}

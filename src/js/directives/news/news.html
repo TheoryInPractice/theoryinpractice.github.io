@@ -5,7 +5,7 @@
         <h2 ng-if="limit || featured">Recent News</h2>
         <h2 ng-if="!(limit || featured)">News: Archive</h2>
 
-        <div ng-if="horizontal" class="container">
+        <div ng-if="horizontal">
             <div class="row">
                 <div ng-repeat="item in contents | limitTo:limit" class="3u" ng-class="{clear: !($index % 4)}">
                     <p class="posted">{{ item.posted }}</p>
