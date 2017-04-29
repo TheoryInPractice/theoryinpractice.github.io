@@ -11,6 +11,11 @@ state-or-href.button a {
     clear: both;
 }
 
+/* Scale images to fit their container using `none` or `contain` strategies */
+img {
+    object-fit: scale-down;
+}
+
 /* Desired size for thumbnail images */
 img.thumbnail {
     width: 70px;
