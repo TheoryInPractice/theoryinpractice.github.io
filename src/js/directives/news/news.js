@@ -26,7 +26,7 @@ angular.module('theory-in-practice').directive('news', [function() {
             if (scope.featured) {
                 scope.contents = scope.contents.filter(function(item) {
                     return item.featured;
-                });
+                }).slice(0, RECENT_LIMIT);
             }
 
         }
