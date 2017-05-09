@@ -9,7 +9,7 @@
 
             <li ng-repeat="item in items">
                 <p class="posted">{{ item.start }} <span ng-if="item.end">- {{ item.end }}</span></p>
-                <img ng-src="{{ item.image }}" alt="" />
+                <img square class="image thumbnail" ng-src="{{ item.image }}" alt="" />
                 <markdown contents="item.markdown"></markdown>
             </li>
 
