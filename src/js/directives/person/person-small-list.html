@@ -10,7 +10,7 @@
     </div>
     <div class="row">
         <div class="2u" ng-repeat-start="person in contents" ng-class="{clear: !($index % 2)}">
-            <a class="image threequarter"><img ng-src="{{ person.image }}" alt="" /></a>
+            <a class="image threequarter"><img square ng-src="{{ person.image }}" alt="" /></a>
         </div>
         <div class="4u" ng-repeat-end>
             <person contents="person" basic></person>
