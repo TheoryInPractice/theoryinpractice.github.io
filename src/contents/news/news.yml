@@ -1,3 +1,16 @@
+- posted: July 14, 2017
+  image: src/images/siam.jpg
+  markdown: |
+    Ph.D. student Mike O'Brien gave a talk at [SIAM NS 17](http://www.siam.org/meetings/ns17/) about the [spacegraphcats](https://github.com/spacegraphcats/spacegraphcats) project for querying metagenomic De Bruijn graphs.
+- posted: June 28, 2017
+  image: src/images/papers_thumb.jpg
+  markdown: |
+    A preprint of our paper on using [Toboggan](https://github.com/TheoryInPractice/toboggan) to solve flow decompositions for transcript assembly is available on [ArXiv](https://arxiv.org/abs/1706.07851).
+- posted: June 12, 2017
+  image: src/images/papers_thumb.jpg
+  featured: true
+  markdown: |
+    Our paper [Being even slightly shallow makes life hard](https://arxiv.org/abs/1705.06796) is accepted to MFCS 2017!
 - posted: April 2, 2017
   image: src/images/software.png
   featured: true
