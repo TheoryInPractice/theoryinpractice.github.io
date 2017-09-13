@@ -3,10 +3,6 @@
   featured: true
   markdown: |
     TiP has lots of new faces this fall! Find out more about PhD students Abida Haque and Brian Lavallee, and undergraduates Allison Fisher and Andrew Wright on the <a ui-sref="people">People</a> page.
-- posted: July 14, 2017
-  image: src/images/siam.jpg
-  markdown: |
-    Ph.D. student Mike O'Brien gave a talk at [SIAM NS 17](http://www.siam.org/meetings/ns17/) about the [spacegraphcats](https://github.com/spacegraphcats/spacegraphcats) project for querying metagenomic De Bruijn graphs.
 - posted: June 28, 2017
   image: src/images/thumb/papers_thumb.jpg
   markdown: |

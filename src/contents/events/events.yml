@@ -1,3 +1,18 @@
+
+- start: October 15, 2017
+  end: October 17, 2017
+  image: src/images/data.jpg
+  markdown: |
+    Dr. Sullivan will be speaking at [Data Institute SF (#DSCO17)](http://www.sfdatainstitute.org/conference.html) in San Francisco, CA.
+- start: September 23, 2017
+  end: September 24, 2017
+  image: src/images/ams.jpg
+  markdown: |
+    Dr. Sullivan will be speaking in the Special Session on Structural Graph Theory at the [AMS Southeastern Sectional Meeting](http://www.ams.org/meetings/sectional/2246_program.html) at UCF in Orlando, FL.
+- posted: July 14, 2017
+  image: src/images/siam.jpg
+  markdown: |
+    Ph.D. student Mike O'Brien is giving a talk at [SIAM NS 17](http://www.siam.org/meetings/ns17/) about the [spacegraphcats](https://github.com/spacegraphcats/spacegraphcats) project for querying metagenomic De Bruijn graphs.
 - start: May 20, 2017
   end: May 21, 2017
   image: src/images/vandy.png
