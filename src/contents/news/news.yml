@@ -1,3 +1,8 @@
+- posted: August 31, 2017
+  image: src/images/students.jpg
+  featured: true
+  markdown: |
+    TiP has lots of new faces this fall! Find out more about PhD students Abida Haque and Brian Lavallee, and undergraduates Allison Fisher and Andrew Wright on the <a ui-sref="people">People</a> page.
 - posted: July 14, 2017
   image: src/images/siam.jpg
   markdown: |
@@ -11,6 +16,11 @@
   featured: true
   markdown: |
     Our paper [Being even slightly shallow makes life hard](https://arxiv.org/abs/1705.06796) is accepted to MFCS 2017!
+- posted: May 15, 2017
+  image: src/images/thumb/funding_thumb.jpg
+  featured: true
+  markdown: |
+      Our new [Army Research Office grant](https://www.csc.ncsu.edu/news/2026) will support work on new algorithms for noisy networks. Looking forward to collaborating with [Erik Demaine's](http://erikdemaine.org) team at MIT on this project!
 - posted: April 2, 2017
   image: src/images/software.png
   featured: true
