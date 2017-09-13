@@ -46,10 +46,19 @@ phdStudents:
 undergraduates:
 - image: src/images/people/ewhorton.jpg
   name: Eric Horton
-  date: Fall 2016; Spring 2017
+  date: Fall 2016; Spring 2017; Fall 2017
   markdown: |
     Eric is a senior, as well as a MS student in the Accelerated Bachelors-Masters (ABM) program.
-
+- image: src/images/people/anfisher.jpg
+  name: Allison Fisher
+  date: Fall 2017
+  markdown: |
+    Description Goes Here.
+- image: src/images/people/alwright.jpg
+  name: Andrew Wright
+  date: Fall 2017
+  markdown: |
+    Description Goes Here.
 alumni:
 - image: src/images/people/ajchin.jpg
   name: Alex Chin
