@@ -55,8 +55,10 @@ undergraduates:
 - image: src/images/comingsoon.png
   name: Eric Horton
   date: Fall 2016; Spring 2017
+  about:
+    href: http://erichorton.me
   markdown: |
-    Eric is a senior, as well as a MS student in the Accelerated Bachelors-Masters (ABM) program.
+    Eric is a graduate student at NC State.
 - image: src/images/comingsoon.png
   name: Jean-Claude Shore
   date: Fall 2016; Spring 2017
