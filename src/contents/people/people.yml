@@ -8,7 +8,7 @@ principal:
     Dr. Sullivan earned her Ph.D. in Mathematics from Princeton University, and Bachelors degrees in Computer Science
     and Applied Mathematics from the Georgia Institute of Technology. Prior to moving to NC State in Fall 2013, she was
     a Research Scientist in the Computer Science and Mathematics Division at Oak Ridge National Laboratory.
-postDocs:
+postdocs:
 - image: src/images/people/kkloster.jpg
   name: Kyle Kloster
   email: kakloste(at)ncsu(dot)edu
@@ -17,7 +17,7 @@ postDocs:
   markdown: |
     Kyle joined Theory In Practice as a postdoctoral researcher in June 2016. He completed his Ph.D. in the
     Mathematics Department at Purdue University under the supervision of David Gleich.
-phdStudents:
+gradstudents:
 - image: src/images/people/tdgoodrich.jpg
   name: Timothy Goodrich
   email: tdgoodri(at)ncsu(dot)edu
@@ -26,6 +26,27 @@ phdStudents:
   markdown: |
     Timothy is a third-year Ph.D. student researching the optimization and characterization of embedding algorithms
     for adiabatic quantum computation. He graduated from Valparaiso University and enjoys disc golf and sleeping.
+- image: src/images/people/ahaque.jpg
+  name: Abida Haque
+  email: ahaque3(at)ncsu(dot)edu
+  about:
+    href: WWW
+  markdown: |
+    Description Goes Here.
+- image: src/images/people/ewhorton.jpg
+  name: Eric Horton
+  email: ewhorton(at)ncsu(dot)edu
+  about:
+      href: WWW
+  markdown: |
+      Description Goes Here. (U/G in 2016/17;  Eric is a senior, as well as a MS student in the Accelerated Bachelors-Masters (ABM) program). 
+- image: src/images/people/blavallee.jpg
+  name: Brian Lavallee
+  email: blavall(at)ncsu(dot)edu
+  about:
+    href: WWW
+  markdown: |
+    Description Goes Here.
 - image: src/images/people/mpobrien.jpg
   name: Michael P. O'Brien
   email: mpobrie3(at)ncsu(dot)edu
@@ -43,26 +64,7 @@ phdStudents:
     Drew is a fourth-year Ph.D. student whose research currently focuses on designing faster FPT algorithms for NP-Hard
     graph optimization problems. He graduated from The College of Saint Rose, and enjoys playing and watching sports
     and spending time outdoors.
-- image: src/images/people/ahaque.jpg
-  name: Abida Haque
-  email: ahaque3(at)ncsu(dot)edu
-  about:
-    href: WWW
-  markdown: |
-    Description Goes Here.
-- image: src/images/people/blavallee.jpg
-  name: Brian Lavallee
-  email: blavall(at)ncsu(dot)edu
-  about:
-    href: WWW
-  markdown: |
-    Description Goes Here.
 undergraduates:
-- image: src/images/people/ewhorton.jpg
-  name: Eric Horton
-  date: Fall 2016; Spring 2017; Fall 2017
-  markdown: |
-    Eric is a senior, as well as a MS student in the Accelerated Bachelors-Masters (ABM) program.
 - image: src/images/people/anfisher.jpg
   name: Allison Fisher
   date: Fall 2017
