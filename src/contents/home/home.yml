@@ -11,7 +11,7 @@ groupInfo:
     sampling, and feature approximation in _real-world graph data_.
 featuredContent:
   - header: Meet our Team
-    image: src/images/group.jpg
+    image: src/images/group_F2017.jpg
     link:
       state: people
     markdown: Want to know more about us? Access our CVs? Find out if we're hiring? Check this page.
