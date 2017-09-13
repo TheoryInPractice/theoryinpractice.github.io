@@ -1,5 +1,5 @@
 principal:
-  image: src/images/bdsullivan.jpg
+  image: src/images/people/bdsullivan.jpg
   name: Dr. Blair D. Sullivan
   email: blair_sullivan(at)ncsu(dot)edu
   about:
@@ -9,7 +9,7 @@ principal:
     and Applied Mathematics from the Georgia Institute of Technology. Prior to moving to NC State in Fall 2013, she was
     a Research Scientist in the Computer Science and Mathematics Division at Oak Ridge National Laboratory.
 postDocs:
-- image: src/images/kkloster.jpg
+- image: src/images/people/kkloster.jpg
   name: Kyle Kloster
   email: kakloste(at)ncsu(dot)edu
   about:
@@ -17,7 +17,7 @@ postDocs:
   markdown: |
     Kyle joined Theory In Practice as a postdoctoral researcher in June 2016. He completed his Ph.D. in the
     Mathematics Department at Purdue University under the supervision of David Gleich.
-- image: src/images/freidl.jpg
+- image: src/images/people/freidl.jpg
   name: Felix Reidl
   email: fjreidl(at)ncsu(dot)edu
   about:
@@ -26,7 +26,7 @@ postDocs:
     Felix joined Theory In Practice as a postdoctoral researcher in January 2016. He completed his Ph.D. in the Theory
     Group at RWTH Aachen in Germany under the supervision of Peter Rossmanith.
 phdStudents:
-- image: src/images/tdgoodrich.jpg
+- image: src/images/people/tdgoodrich.jpg
   name: Timothy Goodrich
   email: tdgoodri(at)ncsu(dot)edu
   about:
@@ -34,7 +34,7 @@ phdStudents:
   markdown: |
     Timothy is a third-year Ph.D. student researching the optimization and characterization of embedding algorithms
     for adiabatic quantum computation. He graduated from Valparaiso University and enjoys disc golf and sleeping.
-- image: src/images/mpobrien.jpg
+- image: src/images/people/mpobrien.jpg
   name: Michael P. O'Brien
   email: mpobrie3(at)ncsu(dot)edu
   about:
@@ -42,7 +42,7 @@ phdStudents:
   markdown: |
     Mike is a fifth-year Ph.D. student interested in improving the practicality of parameterized algorithms for graph analytics.
     He graduated from University of Notre Dame and enjoys producing music in his free time.
-- image: src/images/ajvanderpoel.jpg
+- image: src/images/people/ajvanderpoel.jpg
   name: Drew van der Poel
   email: ajvande4(at)ncsu(dot)edu
   about:
@@ -64,30 +64,30 @@ undergraduates:
     Jean-Claude is a junior co-op student who is double majoring in computer science and mathematics.
     He plays in the NC State marching band.
 alumni:
-- image: src/images/ajchin.jpg
+- image: src/images/people/ajchin.jpg
   name: Alex Chin
   date: Spring 2014
   markdown: |
     Alex graduated from NC State with BS degrees in Mathematics and Economics in Spring 2014, and is now pursuing a
     PhD in Statistics at Stanford University.
-- image: src/images/cghobbs.jpg
+- image: src/images/people/cghobbs.jpg
   name: Clayton Hobbs
   date: Spring, Summer 2015; Spring 2016
   markdown: |
     Clay graduated from NC State with a BS in Computer Science in Spring 2016.
-- image: src/images/yho.jpg
+- image: src/images/people/yho.jpg
   name: Yang Ho
   date: Summer, Fall 2015; Spring 2016
   markdown: |
     Yang graduated with BS degrees in Computer Science and Physics in Spring 2016, and is continuing his career at NC
     State as a CSC MS student in the Accelerated Bachelors-Masters program.
-- image: src/images/bpmork.jpg
+- image: src/images/people/bpmork.jpg
   name: Brandon Mork
   date: Spring, Fall 2015; Spring 2016
   markdown: |
     Brandon worked with the Theory in Practice group as a sophomore/junior. He now "furthering [his] studies in
     experiential education" during his senior year at NC State, as a CS major and cognitive science minor.
-- image: src/images/nrodrig.jpg
+- image: src/images/people/nrodrig.jpg
   name: Nishant Rodrigues
   date: Summer, Fall 2015; Spring 2016
   markdown: |
