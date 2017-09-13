@@ -43,6 +43,20 @@ phdStudents:
     Drew is a fourth-year Ph.D. student whose research currently focuses on designing faster FPT algorithms for NP-Hard
     graph optimization problems. He graduated from The College of Saint Rose, and enjoys playing and watching sports
     and spending time outdoors.
+- image: src/images/people/ahaque.jpg
+  name: Abida Haque
+  email: ahaque3(at)ncsu(dot)edu
+  about:
+    href: WWW
+  markdown: |
+    Description Goes Here.
+- image: src/images/people/blavallee.jpg
+  name: Brian Lavallee
+  email: blavall(at)ncsu(dot)edu
+  about:
+    href: WWW
+  markdown: |
+    Description Goes Here.
 undergraduates:
 - image: src/images/people/ewhorton.jpg
   name: Eric Horton
