@@ -17,14 +17,6 @@ postDocs:
   markdown: |
     Kyle joined Theory In Practice as a postdoctoral researcher in June 2016. He completed his Ph.D. in the
     Mathematics Department at Purdue University under the supervision of David Gleich.
-- image: src/images/people/freidl.jpg
-  name: Felix Reidl
-  email: fjreidl(at)ncsu(dot)edu
-  about:
-    href: http://tcs.rwth-aachen.de/~reidl/
-  markdown: |
-    Felix joined Theory In Practice as a postdoctoral researcher in January 2016. He completed his Ph.D. in the Theory
-    Group at RWTH Aachen in Germany under the supervision of Peter Rossmanith.
 phdStudents:
 - image: src/images/people/tdgoodrich.jpg
   name: Timothy Goodrich
@@ -52,17 +44,12 @@ phdStudents:
     graph optimization problems. He graduated from The College of Saint Rose, and enjoys playing and watching sports
     and spending time outdoors.
 undergraduates:
-- image: src/images/comingsoon.png
+- image: src/images/people/ewhorton.jpg
   name: Eric Horton
   date: Fall 2016; Spring 2017
   markdown: |
     Eric is a senior, as well as a MS student in the Accelerated Bachelors-Masters (ABM) program.
-- image: src/images/comingsoon.png
-  name: Jean-Claude Shore
-  date: Fall 2016; Spring 2017
-  markdown: |
-    Jean-Claude is a junior co-op student who is double majoring in computer science and mathematics.
-    He plays in the NC State marching band.
+
 alumni:
 - image: src/images/people/ajchin.jpg
   name: Alex Chin
@@ -85,11 +72,25 @@ alumni:
   name: Brandon Mork
   date: Spring, Fall 2015; Spring 2016
   markdown: |
-    Brandon worked with the Theory in Practice group as a sophomore/junior. He now "furthering [his] studies in
-    experiential education" during his senior year at NC State, as a CS major and cognitive science minor.
+    Brandon worked with the Theory in Practice group as a sophomore/junior. He graduated
+    with a BS in Computer Science in Spring 2017 and is now a software developer
+    with Sageworks.
 - image: src/images/people/nrodrig.jpg
   name: Nishant Rodrigues
   date: Summer, Fall 2015; Spring 2016
   markdown: |
     Nishant graduated with a BS in Computer Science in Spring 2016, and is now pursuing a PhD in Computer Science at
     the University of Maryland, College Park, where he is currently interested in cryptography.
+- image: src/images/people/freidl.jpg
+  name: Felix Reidl
+  date: January 2016 - April 2017
+  markdown: |
+    Felix was a postdoctoral researcher with Theory in Practice in 2016-17 who came to us after
+    completing a PhD at RWTH Aachen University. He is currently a postdoc at Royal Holloway University in London.
+- image: src/images/comingsoon.png
+  name: Jean-Claude Shore
+  date: Fall 2016; Spring 2017
+  markdown: |
+    Jean-Claude worked with the Theory in Practice group as a junior. He is now a
+    senior co-op student double majoring in computer science and mathematics.
+    He also plays in the NC State marching band.
