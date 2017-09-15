@@ -68,7 +68,8 @@ undergraduates:
   name: Allison Fisher
   date: Fall 2017
   markdown: |
-    Description Goes Here.
+    Allison is a senior majoing in Computer Science with a minor in Cognitive Science.  She is also a Peer Mentor for the
+    CSC department's Freshman Peer Mentoring Program. 
 - image: src/images/people/alwright.jpg
   name: Andrew Wright
   date: Fall 2017
