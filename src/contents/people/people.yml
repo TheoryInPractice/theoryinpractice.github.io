@@ -24,8 +24,7 @@ gradstudents:
   about:
     href: http://www4.ncsu.edu/~tdgoodri/
   markdown: |
-    Timothy is a third-year Ph.D. student researching the optimization and characterization of embedding algorithms
-    for adiabatic quantum computation. He graduated from Valparaiso University and enjoys disc golf and sleeping.
+    Timothy is a fourth-year Ph.D. student researching graph editing problems with applications in near-term quantum computing. He graduated from Valparaiso University and enjoys spending time with his wife, Katie.
 - image: src/images/people/ahaque.jpg
   name: Abida Haque
   email: ahaque3(at)ncsu(dot)edu
