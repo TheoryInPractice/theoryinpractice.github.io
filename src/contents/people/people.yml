@@ -24,22 +24,21 @@ gradstudents:
   about:
     href: http://www4.ncsu.edu/~tdgoodri/
   markdown: |
-    Timothy is a third-year Ph.D. student researching the optimization and characterization of embedding algorithms
-    for adiabatic quantum computation. He graduated from Valparaiso University and enjoys disc golf and sleeping.
+    Timothy is a fourth-year Ph.D. student researching graph editing problems with applications in near-term quantum computing. He graduated from Valparaiso University and enjoys spending time with his wife, Katie.
 - image: src/images/people/ahaque.jpg
   name: Abida Haque
   email: ahaque3(at)ncsu(dot)edu
   about:
     href: WWW
   markdown: |
-    Description Goes Here.
+    Abida is a first-year Ph.D. student doing an independent study with TiP. She enjoys juggling and playing flute.
 - image: src/images/people/ewhorton.jpg
   name: Eric Horton
   email: ewhorton(at)ncsu(dot)edu
   about:
       href: WWW
   markdown: |
-      Description Goes Here. (U/G in 2016/17;  Eric is a senior, as well as a MS student in the Accelerated Bachelors-Masters (ABM) program). 
+      Description Goes Here. (U/G in 2016/17;  Eric is a senior, as well as a MS student in the Accelerated Bachelors-Masters (ABM) program).
 - image: src/images/people/blavallee.jpg
   name: Brian Lavallee
   email: blavall(at)ncsu(dot)edu
