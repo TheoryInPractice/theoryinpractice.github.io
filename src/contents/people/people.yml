@@ -45,7 +45,7 @@ gradstudents:
   about:
     href: WWW
   markdown: |
-    Description Goes Here.
+    Brian is a first-year Ph.D. student doing an independent study with TiP on local search in structurally sparse graphs.  He graduated from Duke University and enjoys following soccer and playing boardgames.
 - image: src/images/people/mpobrien.jpg
   name: Michael P. O'Brien
   email: mpobrie3(at)ncsu(dot)edu
