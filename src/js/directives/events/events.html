@@ -1,0 +1,18 @@
+<div id="featured">
+    <section>
+        <h2 ng-if="upcoming">Upcoming Talks & Events</h2>
+        <h2 ng-if="!upcoming">TALKS & EVENTS: ARCHIVE</h2>
+
+        <p ng-if="!items.length">There are no events to display.</p>
+
+        <ul class="style">
+
+            <li ng-repeat="item in items">
+                <p class="posted">{{ item.start }} <span ng-if="item.end">- {{ item.end }}</span></p>
+                <img square class="image thumbnail" ng-src="{{ item.image }}" alt="" />
+                <markdown contents="item.markdown"></markdown>
+            </li>
+
+        </ul>
+    </section>
+</div>

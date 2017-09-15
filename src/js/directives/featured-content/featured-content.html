@@ -1,0 +1,11 @@
+<div id="featured">
+    <div class="row">
+        <div class="4u" ng-repeat="panel in contents">
+            <h2>{{ panel.header }}</h2>
+            <state-or-href link="panel.link">
+                <img square class="image full" ng-src="{{ panel.image }}"/>
+            </state-or-href>
+            <markdown contents="panel.markdown"></markdown>
+        </div>
+    </div>
+</div>

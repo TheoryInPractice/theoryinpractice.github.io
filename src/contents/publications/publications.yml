@@ -1,0 +1,116 @@
+- year: Currently Under Review
+  publications:
+  - markdown: |
+      E. Demaine, F. Reidl, P. Rossmanith, F. Sanchez Villaamil, S. Sikdar, B. D. Sullivan. Structural Sparsity of
+      Complex Networks: Random Graph Models and Linear Algorithms. _**(Under Review)**_. Available
+      [on ArXiv](http://arxiv.org/abs/1406.2587).
+  - markdown: |
+      K. Kloster, P. Kuinke, M. P. O'Brien, F. Reidl, B. D. Sullivan, A. van der Poel.  A practical algorithm for Flow Decomposition and transcript assembly. _**(Under Review)**_. Available
+      [on ArXiv](http://arxiv.org/abs/1706.07851).
+  - markdown: |
+      K. Kloster, D. Král', B. D. Sullivan.  Walk entropy and walk-regularity. _**(Under Review)**_. Available
+      [on ArXiv](https://arxiv.org/abs/1708.09700).
+- year: 2017
+  publications:
+  - markdown: |
+      I. Muzi, M. P. O'Brien, F. Reidl, B. D. Sullivan.  Being even slightly shallow makes life hard.  _**MFCS 2017**_.  Available [on ArXiv](https://arxiv.org/abs/1705.06796).
+- year: 2016
+  publications:
+  - markdown: |
+      A. J. Chin, T. D. Goodrich, M. P. O'Brien, F. Reidl, B. D. Sullivan, A. van der Poel. Asymptotic Analysis of Equivalences and Core-Structures in Kronecker-Style Graph Models. _**Proceedings of 2016 IEEE International
+      Conference on Data Mining (ICDM'16)**_, 2016. Proceedings version
+      [here](http://ieeexplore.ieee.org/document/7837911/); also available [on ArXiv](https://arxiv.org/abs/1609.05081).
+  - markdown: |
+      B. D. Sullivan, A. van der Poel. A Fast Parameterized Algorithm for Co-Path Set. _**[IPEC 2016](http://conferences.au.dk/algo16/ipec/)**_. Available [on ArXiv](http://arxiv.org/abs/1603.04376).
+  - markdown: |
+      A. Adcock, B. D. Sullivan, and M. Mahoney. Tree decompositions and social graphs. _**Internet Mathematics 12(5),
+      315--361, 2016**_. Journal version [here](http://dx.doi.org/10.1080/15427951.2016.1182952); also available
+      [on ArXiv](http://arxiv.org/abs/1411.1546).
+- year: 2015
+  publications:
+  - markdown: |
+      M. Farrell, T. Goodrich, N. Lemons, F. Reidl, F. Sanchez Villaamil, B. D. Sullivan. Hyperbolicity, degeneracy,
+      and expansion of random intersection graphs. _**Proceedings of Algorithms and Models for for the Web Graph:
+      12th International Workshop (WAW2015)**_,  29--41, 2015. Proceedings version
+      [here](http://link.springer.com/chapter/10.1007/978-3-319-26784-5_3); also available
+      [on ArXiv](http://arxiv.org/abs/1409.8196).
+  - markdown: |
+      P. Drange, M. Dregi, D. Lokshtanov, and B. D. Sullivan. On the threshold of intractability. _**Algorithms -
+      ESA 2015: 23rd Annual European Symposium, Proceedings**_, 411-423, 2015. Proceedings version
+      [here](http://link.springer.com/chapter/10.1007/978-3-662-48350-3_35); also available
+      [on ArXiv](http://arxiv.org/abs/1505.00612).
+  - markdown: |
+      Y. Ho, B. Mork, K. Saul, and B. D. Sullivan. Graph theoretical analysis of intramuscular fat in the supraspinatus
+      (extended abstract). _**Biomedical Engineering Society (BMES) Annual Meeting**_, 2015.
+  - markdown: |
+      R. Bridges, J. Collins, E. Ferragut, J. Laska, B. D. Sullivan. Multi-Level Anomaly Detection on Streaming Graph
+      Data. _**Proceedings of the 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and
+      Mining (ASONAM)**_, 579-583, 2015. Proceedings version [here](http://dl.acm.org/citation.cfm?id=2809406); also
+      available [on ArXiv](http://arxiv.org/abs/1410.4355)
+  - markdown: |
+      A. Adcock, E. Demaine, M. P. O'Brien, F. Reidl, F. Sanchez Villaamil, B. D. Sullivan. Zig-Zag Numberlink is
+      NP-Complete. _**to appear**_, Journal of Information Processing, Special Issue on Recreational Discrete
+      Mathematics, 23(3):239-245, 2015. Journal version
+      [here](https://www.jstage.jst.go.jp/article/ipsjjip/23/3/23_239/_article); also available
+      [on ArXiv](http://arxiv.org/abs/1410.5845).
+- year: 2014
+  publications:
+  - markdown: |
+      M. P. O'Brien and B. D. Sullivan. Locally Estimating Core Numbers. _**Proceedings of 2014 IEEE International
+      Conference on Data Mining (ICDM'14)**_, 2014. Proceedings version
+      [here](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7023363); also available
+      [on ArXiv](http://arxiv.org/abs/1410.6793).
+  - markdown: |
+      C. Klymko, B. D. Sullivan, and T. Humble. Adiabatic Quantum Programming: Minor Embedding with Hard Faults.
+      _**Quantum Information Processing**_ 13(3):709--729, March 2014. Journal version
+      [here](http://link.springer.com/article/10.1007/s11128-013-0683-9); also available
+      [on ArXiv](http://arxiv.org/abs/1210.8395).
+  - markdown: |
+      T. Humble, A. McCaskey, R. Bennink, J. Billings, E. D'Azevedo, B. D. Sullivan, C. Klymko, H. Seddiqi. An
+      Integrated Development Framework for Adiabatic Quantum Programming. _**(Comput. Sci. Disc.)**_, 7, 2014.
+      Journal version [here](http://iopscience.iop.org/article/10.1088/1749-4680/7/1/015006/meta); also available
+      [on ArXiv](http://arxiv.org/abs/1309.3575).
+- year: 2013
+  publications:
+  - markdown: |
+      A. Adcock, B. D. Sullivan, and M. Mahoney. Tree-like structure in social and information networks.
+      _**Proceedings of 2013 IEEE International Conference on Data Mining (ICDM'13), 1-10, 2013**_. Proceedings
+      version [here](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6729484); also available
+      [as pre-print](http://www.stat.berkeley.edu/~mmahoney/pubs/treelike-icdm13.pdf).
+  - markdown: |
+      A. Adcock, B. D. Sullivan, O. Hernandez, and M. Mahoney. Evaluating OpenMP Tasking at Scale for the Computation
+      of Graph Hyperbolicity. _**OpenMP in the Era of Low Power Devices and Accelerators, Proceedings of the 9th
+      International Workshop on OpenMP (IWOMP 2013)**_, 71-83, 2013. Proceedings version
+      [here](http://dx.doi.org/10.1007/978-3-642-40698-0_6); also available
+      [as preprint](http://www.stat.berkeley.edu/~mmahoney/pubs/iwomp13.pdf).
+  - markdown: |
+      B. D. Sullivan, D. Weerapurage, and C. Groer. Parallel Algorithms for Graph Optimization using Tree
+      Decompositions. _**Proceedings of the International Parallel and Distributed Processing Symposium Workshops
+      (IPDPSW)**_, 2013. Proceedings version [here](http://dx.doi.org/10.1109/IPDPSW.2013.242).
+  - markdown: |
+      B. D. Sullivan. On a Conjecture of Andrica and Tomescu. _**Journal of Integer Sequences**_, 16, 2013. Journal
+      version [here](http://cs.uwaterloo.ca/journals/JIS/VOL16/Sullivan/sullivan8.pdf); also available
+      [on ArXiv](http://arxiv.org/abs/1210.8437).
+- year: 2008-2012
+  publications:
+  - markdown: |
+      C. Groer, B. D. Sullivan, and D. Weerapurage. INDDGO: Integrated Network Decompositions & Dynamic programming
+      for Graph Optimization. Technical report
+      [ORNL-TM/2012/176](http://info.ornl.gov/sites/publications/Files/Pub36270.pdf).
+  - markdown: |
+      C. Groer, B. D. Sullivan, and S. Poole. A Mathematical Analysis of the R-MAT Random Graph Generator.
+      _**Networks**_, 58(3):159-170, 2011. Journal version
+      [here](http://onlinelibrary.wiley.com/doi/10.1002/net.20417/abstract;jsessionid=80A5A065C7BAA6ED4A45B5516A56F069.d02t03).
+  - markdown: |
+      P. Seymour and B. D. Sullivan. Counting Paths in Digraphs. _**European Journal of Combinatorics**_,
+      31(3):961-975, 2010. Journal version [here](http://www.sciencedirect.com/science/article/pii/S0195669809001528);
+      also available [on ArXiv](http://arxiv.org/abs/1210.8424).
+  - markdown: |
+      M. Chudnovsky, P. Seymour, and B. D. Sullivan. Cycles in Dense Digraphs. _**Combinatorica**_, 28(1):1-18, 2008.
+      Journal version [here](http://link.springer.com/article/10.1007/s00493-008-2331-z); also available
+      [on ArXiv](http://arxiv.org/abs/math/0702147).
+  - markdown: |
+      M. Nathanson and B. D. Sullivan. Heights in Finite Projective Space, and a Problem on Directed Graphs.
+      _**Integers**_, 8(A13), 2008. Journal version
+      [here](http://www.emis.ams.org/journals/INTEGERS/papers/i13/i13.pdf); also available
+      [on ArXiv](http://arxiv.org/abs/math/0703418).

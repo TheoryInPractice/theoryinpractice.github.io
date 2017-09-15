@@ -1,0 +1,10 @@
+<div>
+    <h5>{{ contents.year }}</h5><br/>
+    <div>
+        <ul>
+            <li ng-repeat="publication in contents.publications">
+                <markdown contents="publication.markdown"></markdown>
+            </li>
+        </ul>
+    </div>
+</div>

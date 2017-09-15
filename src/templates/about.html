@@ -1,0 +1,60 @@
+<div>
+    <div>
+        <div class="row">
+            <div class="4u">
+                <a class="image full"><img ng-src="{{ about.overview.image }}" alt="" /></a>
+            </div>
+            <div class="8u">
+                <markdown contents="about.overview.markdown"></markdown>
+                <a href="src/docs/sullivan-cv.pdf" target="_blank"  class="button">CV (pdf)</a> <br>
+                <em> updated November, 2016 </em>
+            </div>
+        </div>
+        <div class="row">
+            <div class="12u">
+                <markdown contents="about.researchInterests.markdown"></markdown>
+            </div>
+        </div>
+    </div>
+    <div id="featured">
+        <div class="row">
+            <div class="12u">
+                <center>
+                    <i>
+                        Featured activities below are intended to be a representative snapshot of recent activities.
+                        Please see CV for complete lists.
+                    </i>
+                </center>
+            </div>
+        </div>
+        <div class="row">
+            <div class="4u">
+                <h2>Teaching</h2>
+                <img class="image full" ng-src="{{ about.teaching.image }}"/>
+                <markdown contents="about.teaching.markdown"></markdown>
+            </div>
+            <div class="4u">
+                <h2>Service and Outreach</h2>
+                <img class="image full" ng-src="{{ about.service.image }}"/>
+                <markdown contents="about.service.markdown"></markdown>
+            </div>
+            <div class="4u">
+                <h2>Awards</h2>
+                <img class="image full" ng-src="{{ about.awards.image }}"/>
+                <markdown contents="about.awards.markdown"></markdown>
+            </div>
+        </div>
+        <div class="row">
+            <div class="6u">
+                <h2>Funding</h2>
+                <img class="image full" ng-src="{{ about.funding.image }}"/>
+                <markdown contents="about.funding.markdown"></markdown>
+            </div>
+            <div class="6u">
+                <h2>Selected Recent & <i>Upcoming</i> Talks</h2>
+                <img class="image full" ng-src="{{ about.talks.image }}"/>
+                <markdown contents="about.talks.markdown"></markdown>
+            </div>
+        </div>
+    </div>
+</div>

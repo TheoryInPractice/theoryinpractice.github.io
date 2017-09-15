@@ -1,0 +1,28 @@
+/* Custom CSS for TiP, separate from TEMPLATED CSS */
+
+/* Override link style inside of a state-or-href tag with class button */
+state-or-href.button a {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+/* Clear floats */
+.clear {
+    clear: both;
+}
+
+/* Scale images to fit their container using `none` or `contain` strategies */
+img {
+    object-fit: scale-down;
+}
+
+/* Desired size for thumbnail images */
+img.thumbnail {
+    width: 70px;
+    height: 70px;
+}
+
+/* 1 em padding-right to match default 1 em padding left */
+#featured {
+    padding-right: 1em;
+}

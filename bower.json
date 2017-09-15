@@ -1,0 +1,28 @@
+{
+  "name": "theoryinpracticewww",
+  "authors": [
+    "EricHorton <ewhorton@ncsu.edu>"
+  ],
+  "description": "Theory in Practice Website",
+  "main": "app.js",
+  "license": "UNLICENSED",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2",
+    "jquery": "1.11.0",
+    "angular-ui-router": "^0.4.2",
+    "angular-route": "^1.6.2",
+    "angular-sanitize": "^1.6.2",
+    "angular-yamljs": "*",
+    "ng-showdown": "^1.1.0",
+    "showdown-prettify": "^1.3.0"
+  }
+}

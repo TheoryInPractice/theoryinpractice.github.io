@@ -1,0 +1,13 @@
+<div class="row">
+    <div id="content" class="3u">
+        <a class="image full"><img square ng-src="{{ contents.image }}" alt="" /></a>
+    </div>
+    <div class="9u">
+        <header>
+            <h1>{{ contents.name }}</h1>
+            <b>{{ contents.shortDescription }}</b>
+        </header>
+        <markdown contents="contents.fullDescription.markdown"></markdown>
+        <state-or-href link="contents.link" class="button">{{ contents.name }} Code</state-or-href>
+    </div>
+</div>

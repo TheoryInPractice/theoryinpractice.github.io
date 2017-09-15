@@ -1,0 +1,26 @@
+<!-- newsbar -->
+<div id="featured">
+    <section>
+
+        <h2 ng-if="limit || featured">Recent News</h2>
+        <h2 ng-if="!(limit || featured)">News: Archive</h2>
+
+        <div ng-if="horizontal">
+            <div class="row">
+                <div ng-repeat="item in contents | limitTo:limit" class="3u" ng-class="{clear: !($index % 4)}">
+                    <p class="posted">{{ item.posted }}</p>
+                    <img square class="image thumbnail" ng-src="{{ item.image }}" alt="" />
+                    <markdown contents="item.markdown"></markdown>
+                </div>
+            </div>
+        </div>
+
+        <ul ng-if="!horizontal" class="style">
+            <li ng-repeat="item in contents | limitTo:limit">
+                <p class="posted">{{ item.posted }}</p>
+                <img square class="image thumbnail" ng-src="{{ item.image }}" alt="" />
+                <markdown contents="item.markdown"></markdown>
+            </li>
+        </ul>
+    </section>
+</div>

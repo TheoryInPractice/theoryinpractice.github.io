@@ -6,187 +6,130 @@
 -->
 <html>
 	<head>
+
+		<!-- Set Title -->
 		<title>Blair D. Sullivan: Theory in Practice</title>
+
+		<!-- Meta Content -->
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<link href='http://fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'>
-		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-panels.min.js"></script>
-		<script src="js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="css/skel-noscript.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-desktop.css" />
-		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
-		<script>
-  			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-			ga('create', 'UA-55158985-1', 'auto');
-			ga('send', 'pageview');
-		</script>
+		<!-- JS -->
+
+		<!-- Dependencies -->
+		<script src="bower_components/jquery/dist/jquery.min.js"></script>
+		<script src="bower_components/angular/angular.js"></script>
+		<script src="bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+		<script src="bower_components/angular-route/angular-route.min.js"></script>
+        <script src="bower_components/angular-sanitize/angular-sanitize.min.js"></script>
+		<script src="bower_components/yaml.js/dist/yaml.min.js"></script>
+		<script src="bower_components/angular-yamljs/dist/angular-yamljs.js"></script>
+        <script src="bower_components/showdown/dist/showdown.min.js"></script>
+        <script src="bower_components/ng-showdown/dist/ng-showdown.min.js"></script>
+        <script src="bower_components/showdown-prettify/dist/showdown-prettify.min.js"></script>
+
+		<!-- App -->
+		<script src="app.js"></script>
+
+		<!-- Directives -->
+        <script src="src/js/services/resource-loader.js"></script>
+        <script src="src/js/directives/state-or-href/state-or-href.js"></script>
+        <script src="src/js/directives/group-info/group-info.js"></script>
+        <script src="src/js/directives/markdown/markdown.js"></script>
+        <script src="src/js/directives/featured-content/featured-content.js"></script>
+        <script src="src/js/directives/news/news.js"></script>
+        <script src="src/js/directives/events/events.js"></script>
+        <script src="src/js/directives/person/person.js"></script>
+        <script src="src/js/directives/person/person-principal.js"></script>
+        <script src="src/js/directives/person/person-large-list.js"></script>
+        <script src="src/js/directives/person/person-small-list.js"></script>
+        <script src="src/js/directives/publications/publications-list.js"></script>
+        <script src="src/js/directives/software/software.js"></script>
+        <script src="src/js/directives/square/square.js"></script>
+
+		<!-- Controllers -->
+        <script src="src/js/controllers/home-controller.js"></script>
+        <script src="src/js/controllers/news-controller.js"></script>
+        <script src="src/js/controllers/news-archive-controller.js"></script>
+        <script src="src/js/controllers/events-archive-controller.js"></script>
+        <script src="src/js/controllers/people-controller.js"></script>
+        <script src="src/js/controllers/publications-controller.js"></script>
+        <script src="src/js/controllers/about-controller.js"></script>
+        <script src="src/js/controllers/software-controller.js"></script>
+
+		<!-- Theme Scripts -->
+		<!--[if lte IE 8]><script src="src/js/templated/html5shiv.js"></script><![endif]-->
+		<script src="src/js/templated/skel.min.js"></script>
+		<script src="src/js/templated/skel-panels.min.js"></script>
+		<script src="src/js/templated/init.js"></script>
+
+		<!-- CSS -->
+		<!--[if lte IE 8]><link rel="stylesheet" href="src/css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="src/css/ie/v9.css" /><![endif]-->
+		<link href="//fonts.googleapis.com/css?family=Arimo:400,700" rel="stylesheet" type="text/css">
+        <noscript>
+            <link rel="stylesheet" href="src/css/skel-noscript.css">
+            <link rel="stylesheet" href="src/css/style.css">
+            <link rel="stylesheet" href="src/css/style-desktop.css">
+        </noscript>
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.4.1/github-markdown.css">
+        <link rel="stylesheet" href="src/css/custom.css">
+
 	</head>
-	<body class="homepage">
+	<body ng-app="theory-in-practice" class="homepage">
 
 		<!-- Header -->
 		<div id="header">
-			<div class="container"> 
-				
+			<div class="container">
+
 				<!-- Logo -->
 				<div id="logo">
-					<h1><a href="#">Theory in Practice</a></h1>
-					<span><a href="about.html">Dr. Blair D. Sullivan</a></span> 
+					<h1><a ui-sref="home">Theory in Practice</a></h1>
+					<span><a ui-sref="about">Dr. Blair D. Sullivan</a></span>
 				</div>
-				
+
 				<!-- Nav -->
 				<nav id="nav">
 					<ul>
-						<li class="active"><a href="index.html">Homepage</a></li>
-						<li><a href="people.html">Research Group</a></li>
-						<li><a href="publications.html">Publications</a></li>
-						<li><a href="news.html">News & Events</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="software.html">Software</a></li>
+						<li ui-sref-active="active"><a ui-sref="home">Homepage</a></li>
+						<li ui-sref-active="active"><a ui-sref="people">Research Group</a></li>
+						<li ui-sref-active="active"><a ui-sref="publications">Publications</a></li>
+						<li ui-sref-active="active"><a ui-sref="news">News & Events</a></li>
+						<li ui-sref-active="active"><a ui-sref="about">About</a></li>
+						<li ui-sref-active="active"><a ui-sref="software">Software</a></li>
 					</ul>
 				</nav>
 			</div>
 		</div>
 
-<div id="dept" class="container">
-<div class="row"> 
-<div class="2u">
-<a href="http://www.ncsu.edu" class="image full"><img src="images/ncstate-brick.png" alt=""/></a>
-</div>
-<div class="10u">
-<a href="http://www.csc.ncsu.edu">Department of Computer Science</a>
-</div>
-</div> 
-</div>
-		<!-- Main -->
-		<div id="main">
-			<div class="container">
-				<div class="row"> 
-					
-					<!-- Content` -->
-					<div id="content" class="7u skel-cell-important">
-<!-- Figure out how to make this work --> 
-<section>
-					<blockquote> 
-						In theory there is no difference between theory and practice. In practice there is. -Yogi Berra
-						</blockquote>
-</section>
-						<section>
-
-						<p>Our group combines expertise in <i>structural graph theory, efficient algorithms, and generative network models </i> with tools from geometry and statistics to address <i>fundamental questions in data-driven science</i>.
-						<p> Most of our current research focuses on improving the understanding of <i>intermediate-scale network structure</i>, and using it to develop new <i>efficient (parameterized) algorithms</i> for rigorous, robust comparison, anomaly detection, sampling, and feature approximation in <i>real-world graph data</i>.
-</p>													
-
-					</section>
-					</div>					
-					<div id="content" class=" 5u ">
-					<img src="images/everest.jpg" class="image full"/>
-
-					</div>													
-				</div>
-			</div>
+		<!-- Department Info -->
+		<div id="dept">
+            <div class="container">
+                <div class="row">
+                    <div class="2u">
+                        <a href="http://www.ncsu.edu" class="image"><img src="src/images/ncstate-brick.png" alt=""/></a>
+                    </div>
+                    <div class="10u">
+                        <a href="http://www.csc.ncsu.edu">Department of Computer Science</a>
+                    </div>
+                </div>
+            </div>
 		</div>
 
-		<!-- Footer -->
-		<div id="featured">
-			<div class="container">
-				<div class="row">
-					<div class="4u">
-						<h2>Meet our Team</h2>
-						<a href="people.html" class="image full"><img src="images/group.jpg" alt="" /></a>
-						<p>Want to know more about us? Access our CVs? Find out if we're hiring? Check this page.</p>
-<!--						<p><a href="people.html" class="button">More Details</a></p> -->
-					</div>
-					<div class="4u">
-						<h2>Theory Talks at NC State</h2>
-						<a href="http://www.csc2.ncsu.edu/theoryseminar/" class="image full"><img src="images/seminar.jpg" alt="" /></a>
-						<p>We run the NC State Theory Seminar, with support from KPIT, the ePartners program, & the NC State Engineering Foundation</p>
-						
-					</div>
-					<div class="4u">
-						<h2>News & Events</h2>
-						<a href="news.html" class="image full"><img src="images/news.jpg" alt="" /></a>
-						<p>Recent publicity, publications, talks, and upcoming group member appearances.</p>
-						
-					</div>
-				</div>
-			</div>
-		</div>
-
-
-					<!-- newsbar -->
-					<div id="newsbar">
-					<center>
-					<h2>Recent News</h2>
-					</center>
-					<div class="container">						
-						<div class="row"> 
-						
-							<div class="3u">	
-							<ul class="style">		
-								<li>
-									<p class="posted">August 1, 2016</p>
-									<img src="images/comingsoon_thumb.png" alt="" />
-									<p class="text">Welcome to our <b>Fall 2016 undergraduate researchers</b>: Eric Horton and Jean-Claude Shore! (now on the <a href="people.html">People</a> page.) </p>
-								</li>
-							</ul>
-							</div>
-
-						
-							<div class="3u">	
-							<ul class="style">		
-								<li>
-									<p class="posted">July 25, 2016</p>
-									<img src="images/papers_thumb.jpg" alt="" />
-									<p class="text">Joint paper with Ph.D. student Andrew van der Poel "A Fast Parameterized Algorithm for Co-Path Set" accepted at IPEC 2016!</p>
-
-								</li>
-							</ul>
-							</div>
-
-						<div class="3u">	
-							<ul class="style">		
-								<li>
-									<p class="posted">July 17, 2016</p>
-									<img src="images/siam.jpg" alt="" />
-									<p class="text"><a href="http://www.siam.org/meetings/ns16/">#SIAMNS16</a> had a record number of submissions -- and attendees! Members of Theory in Practice had five accepted abstracts (2 posters, 2 talks, 1 IGNITE).</p>
-								</li>
-							</ul>
-							</div>
-
-							<div class="3u">	
-							<ul class="style">		
-								<li>
-									<p class="posted">May 15, 2016</p>
-									<img src="images/students.jpg" alt="" />
-									<p class="text"> Ph.D. student Timothy Goodrich has been awarded a <a href="http://www.ncspacegrant.org">NASA/NC Space Grant Graduate Research Fellowship</a> for Summer 2016</p>
-								</li>
-							</ul>
-							</div>
-
-								
-							</div> <!--row -->
-						</div> <!--container-->
-					</div>
-
+		<!-- App body -->
+        <div id="main">
+            <div class="container">
+                <ui-view autoscroll="true"></ui-view>
+            </div>
+        </div>
 
 		<!-- Copyright -->
 		<div id="copyright">
 			<div class="container">
-				Copyright Blair D. Sullivan, 2014. Theme design by  <a href="http://templated.co">TEMPLATED</a>, used under Creative Commons. 
+				Copyright Blair D. Sullivan, 2014. Theme design <a href="http://templated.co/iridium">Iridium by TEMPLATED</a>, used under Creative Commons.
 			</div>
 		</div>
-		
+
 	</body>
 </html>
