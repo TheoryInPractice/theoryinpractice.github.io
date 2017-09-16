@@ -6,6 +6,7 @@
 angular.module('theory-in-practice').directive('events', [function() {
 
     const UPCOMING = 'upcoming';
+    const MONTHS = 3;
 
     return {
         restrict: 'E',
@@ -14,11 +15,18 @@ angular.module('theory-in-practice').directive('events', [function() {
         link: function(scope, element, attrs) {
 
             var now = new Date();
+            var horizon = new Date();
+            horizon.setMonth(now.getMonth() + MONTHS);
 
             scope.upcoming = UPCOMING in attrs;
             scope.items = scope.contents.filter(function(item) {
-                var start = new Date(item.start);
-                return scope.upcoming ? start > now : start < now;
+                if (scope.upcoming) {
+                    var start = new Date(item.start);
+                    return start > now && start < horizon;
+                }
+                else {
+                    return start < now;
+                }
             });
 
         }
