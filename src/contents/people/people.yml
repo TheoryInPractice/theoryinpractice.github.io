@@ -1,5 +1,5 @@
 principal:
-  image: src/images/bdsullivan.jpg
+  image: src/images/people/bdsullivan.jpg
   name: Dr. Blair D. Sullivan
   email: blair_sullivan(at)ncsu(dot)edu
   about:
@@ -8,33 +8,45 @@ principal:
     Dr. Sullivan earned her Ph.D. in Mathematics from Princeton University, and Bachelors degrees in Computer Science
     and Applied Mathematics from the Georgia Institute of Technology. Prior to moving to NC State in Fall 2013, she was
     a Research Scientist in the Computer Science and Mathematics Division at Oak Ridge National Laboratory.
-postDocs:
-- image: src/images/kkloster.jpg
+postdocs:
+- image: src/images/people/kkloster.jpg
   name: Kyle Kloster
   email: kakloste(at)ncsu(dot)edu
   about:
-    href: http://www.math.purdue.edu/~kkloste/
+    href: http://www4.ncsu.edu/~kakloste/
   markdown: |
     Kyle joined Theory In Practice as a postdoctoral researcher in June 2016. He completed his Ph.D. in the
     Mathematics Department at Purdue University under the supervision of David Gleich.
-- image: src/images/freidl.jpg
-  name: Felix Reidl
-  email: fjreidl(at)ncsu(dot)edu
-  about:
-    href: http://tcs.rwth-aachen.de/~reidl/
-  markdown: |
-    Felix joined Theory In Practice as a postdoctoral researcher in January 2016. He completed his Ph.D. in the Theory
-    Group at RWTH Aachen in Germany under the supervision of Peter Rossmanith.
-phdStudents:
-- image: src/images/tdgoodrich.jpg
+gradstudents:
+- image: src/images/people/tdgoodrich.jpg
   name: Timothy Goodrich
   email: tdgoodri(at)ncsu(dot)edu
   about:
     href: http://www4.ncsu.edu/~tdgoodri/
   markdown: |
-    Timothy is a third-year Ph.D. student researching the optimization and characterization of embedding algorithms
-    for adiabatic quantum computation. He graduated from Valparaiso University and enjoys disc golf and sleeping.
-- image: src/images/mpobrien.jpg
+    Timothy is a fourth-year Ph.D. student researching graph editing problems with applications in near-term quantum computing. He graduated from Valparaiso University and enjoys spending time with his wife, Katie.
+- image: src/images/people/ahaque.jpg
+  name: Abida Haque
+  email: ahaque3(at)ncsu(dot)edu
+  about:
+    href: WWW
+  markdown: |
+    Abida is a first-year Ph.D. student doing an independent study with TiP. She enjoys juggling and playing flute.
+- image: src/images/people/ewhorton.jpg
+  name: Eric Horton
+  email: ewhorton(at)ncsu(dot)edu
+  about:
+      href: WWW
+  markdown: |
+      Description Goes Here. (U/G in 2016/17;  Eric is a senior, as well as a MS student in the Accelerated Bachelors-Masters (ABM) program).
+- image: src/images/people/blavallee.jpg
+  name: Brian Lavallee
+  email: blavall(at)ncsu(dot)edu
+  about:
+    href: WWW
+  markdown: |
+    Brian is a first-year Ph.D. student doing an independent study with TiP on local search in structurally sparse graphs.  He graduated from Duke University and enjoys following soccer and playing boardgames.
+- image: src/images/people/mpobrien.jpg
   name: Michael P. O'Brien
   email: mpobrie3(at)ncsu(dot)edu
   about:
@@ -42,56 +54,67 @@ phdStudents:
   markdown: |
     Mike is a fifth-year Ph.D. student interested in improving the practicality of parameterized algorithms for graph analytics.
     He graduated from University of Notre Dame and enjoys producing music in his free time.
-- image: src/images/ajvanderpoel.jpg
+- image: src/images/people/ajvanderpoel.jpg
   name: Drew van der Poel
   email: ajvande4(at)ncsu(dot)edu
   about:
     href: http://www4.ncsu.edu/~ajvande4/
   markdown: |
-    Drew is a third-year Ph.D. student whose research currently focuses on designing faster FPT algorithms for NP-Hard
+    Drew is a fourth-year Ph.D. student whose research currently focuses on designing faster FPT algorithms for NP-Hard
     graph optimization problems. He graduated from The College of Saint Rose, and enjoys playing and watching sports
     and spending time outdoors.
 undergraduates:
-- image: src/images/comingsoon.png
-  name: Eric Horton
-  date: Fall 2016; Spring 2017
-  about:
-    href: http://erichorton.me
+- image: src/images/people/anfisher.jpg
+  name: Allison Fisher
+  date: Fall 2017
   markdown: |
-    Eric is a graduate student at NC State.
-- image: src/images/comingsoon.png
-  name: Jean-Claude Shore
-  date: Fall 2016; Spring 2017
+    Description Goes Here.
+- image: src/images/people/alwright.jpg
+  name: Andrew Wright
+  date: Fall 2017
   markdown: |
-    Jean-Claude is a junior co-op student who is double majoring in computer science and mathematics.
-    He plays in the NC State marching band.
+    Description Goes Here.
 alumni:
-- image: src/images/ajchin.jpg
+- image: src/images/people/ajchin.jpg
   name: Alex Chin
   date: Spring 2014
   markdown: |
     Alex graduated from NC State with BS degrees in Mathematics and Economics in Spring 2014, and is now pursuing a
     PhD in Statistics at Stanford University.
-- image: src/images/cghobbs.jpg
+- image: src/images/people/cghobbs.jpg
   name: Clayton Hobbs
   date: Spring, Summer 2015; Spring 2016
   markdown: |
     Clay graduated from NC State with a BS in Computer Science in Spring 2016.
-- image: src/images/yho.jpg
+- image: src/images/people/yho.jpg
   name: Yang Ho
   date: Summer, Fall 2015; Spring 2016
   markdown: |
     Yang graduated with BS degrees in Computer Science and Physics in Spring 2016, and is continuing his career at NC
     State as a CSC MS student in the Accelerated Bachelors-Masters program.
-- image: src/images/bpmork.jpg
+- image: src/images/people/bpmork.jpg
   name: Brandon Mork
   date: Spring, Fall 2015; Spring 2016
   markdown: |
-    Brandon worked with the Theory in Practice group as a sophomore/junior. He now "furthering [his] studies in
-    experiential education" during his senior year at NC State, as a CS major and cognitive science minor.
-- image: src/images/nrodrig.jpg
+    Brandon worked with the Theory in Practice group as a sophomore/junior. He graduated
+    with a BS in Computer Science in Spring 2017 and is now a software developer
+    with Sageworks.
+- image: src/images/people/nrodrig.jpg
   name: Nishant Rodrigues
   date: Summer, Fall 2015; Spring 2016
   markdown: |
     Nishant graduated with a BS in Computer Science in Spring 2016, and is now pursuing a PhD in Computer Science at
     the University of Maryland, College Park, where he is currently interested in cryptography.
+- image: src/images/people/freidl.jpg
+  name: Felix Reidl
+  date: January 2016 - April 2017
+  markdown: |
+    Felix was a postdoctoral researcher with Theory in Practice in 2016-17 who came to us after
+    completing a PhD at RWTH Aachen University. He is currently a postdoc at Royal Holloway University in London.
+- image: src/images/comingsoon.png
+  name: Jean-Claude Shore
+  date: Fall 2016; Spring 2017
+  markdown: |
+    Jean-Claude worked with the Theory in Practice group as a junior. He is now a
+    senior co-op student double majoring in computer science and mathematics.
+    He also plays in the NC State marching band.
