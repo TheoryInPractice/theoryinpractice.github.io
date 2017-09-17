@@ -20,8 +20,8 @@ angular.module('theory-in-practice').directive('events', [function() {
 
             scope.upcoming = UPCOMING in attrs;
             scope.items = scope.contents.filter(function(item) {
+                var start = new Date(item.start);
                 if (scope.upcoming) {
-                    var start = new Date(item.start);
                     return start > now && start < horizon;
                 }
                 else {
