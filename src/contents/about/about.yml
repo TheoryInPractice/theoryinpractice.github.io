@@ -23,23 +23,19 @@ researchInterests:
 teaching:
   image: src/images/teach.jpg
   markdown: |
-    * CSC801/295: Special Topics in Theoretical Computer Science (CS Theory Reading Group), Fall 2016
-    * CSC801/295: Special Topics in Theoretical Computer Science (CS Theory Reading Group), Spring 2016
-    * CSC333: Automata, Grammars, and Computability, Fall 2015
-    * CSC333: Automata, Grammars, and Computability, Fall 2014
-    * CSC707: Theory of Computation, Fall 2014
-    * CSC226: Discrete Mathematics for Computer Scientists, Spring 2014
+    * CSC791/495: [Parameterized Algorithms and Complexity](https://github.com/bdsullivan/ParameterizedAlgorithms-Fall2017); Fall 2017
+    * CSC801/295: CS Theory Reading Group; Spring 2016; Fall 2016, Spring 2017
+    * CSC333: Automata, Grammars, and Computability; Fall 2014, Fall 2015
+    * CSC707: Theory of Computation; Fall 2014
+    * CSC226: Discrete Mathematics for Computer Scientists; Spring 2014
 service:
   image: src/images/service.jpg
   markdown: |
+    * Program Committee, [ALENEX 2018](http://www.siam.org/meetings/alenex18/)
+    * Steering Committee, [SIAM Workshop on Network Science], 2016 - present
+    * Program Committee, [SIAM Conference on Discrete Mathematics](http://www.siam.org/meetings/dm16/), 2016
     * Co-Chair, Program Committee, [SIAM Workshop on Network Science (NS16)](http://www.siam.org/meetings/ns16/), 2016
-    * Program Committee, [SIAM Conference on Discrete Mathematics](http://www.siam.org/meetings/dm16/), 2016.
-    * Organizer, [NCSU CS Theory Seminar](http://www.csc2.ncsu.edu/theoryseminar/), 2013 - present.
-    * Program Committee, [SIAM Workshop on Network Science (NS15)](http://www.siam.org/meetings/ns15/), May 2015
-    * Organizer, Special Session on Graphs and Algorithms,
-      [AWM Research Symposium](https://sites.google.com/site/awmmath/home/awm-research-symposium-2015), April 2015
-    * Research Cluster Organizer (with E. Demaine, D. Marx):
-      "[Towards Efficient Algorithms Exploiting Graph Structure](http://icerm.brown.edu/sp-s14)", ICERM, April 2014
+    * Organizer, [NCSU CS Theory Seminar](http://www.csc2.ncsu.edu/theoryseminar/), 2013 - present
 awards:
   image: src/images/award.jpg
   markdown: |
@@ -52,6 +48,7 @@ awards:
       [Video interview](http://vimeo.com/97542477).
 funding:
   markdown: |
+    * Principal Investigator (with E. Demaine, MIT), Algorithms for Exploiting Approximate Network Structure, US Army Research Office, 2017-2020.
     * Co-PI (with D. Janies and X.Shi, UNCC), Risk Mitigation of Infectious Diseases via Network Modeling and Mining,
       North Carolina Data Science & Analytics Initiative, 2015-2017.
     * Moore Investigator in Data-Driven Discovery. Gordon & Betty Moore Foundation, 2014-2019.
@@ -67,13 +64,11 @@ funding:
       U.S. Dept. of Energy (DOE) Office of Advanced Scientific Computing Research (ASCR), 2009-2012.
 talks:
   markdown: |
-    * NIEHS Data Science Seminar Series, Research Triangle Park, NC, April 17, 2015
-    * SIAM Workshop on Network Science, Snowbird, UT, May 16, 2015. Recording
-      [available](https://www.pathlms.com/siam/courses/1284).
-    * NetSci15, Zaragoza, ES, June 4, 2015.
-    * ICERM Workshop on the Mathematics of Data Science, Providence, RI, July, 2015.
-    * Mathematical Biosciences Institute Workshop on Generalized Network Structures and Dynamics, Columbus,
-      OH, March 2016
+    * ICERM Workshop on the Mathematics of Data Science, Providence, RI, July, 2015
+    * MBI Workshop on Generalized Network Structures and Dynamics, Columbus, OH, March 2016
     * Kennesaw State University Infinite Horizons Series, Atlanta, GA, April 2016
-    * SIAM Conference on Discrete Mathematics and Applications, "The Mathematics behind Big Data Analysis"
-      minisymposium, Atlanta, GA, June 2016
+    * SIAM Discrete Math, The Mathematics behind Big Data Analysis Minisymposium, Atlanta, GA, June 2016
+    * Duke Network Analysis Center Seminar, Durham, NC, November 2016
+    * University of Pennsylvania Applied Topology Seminar, Philadelphia, PA, March 2017
+    * Cumberland Conference on Combinatorics, Graph Theory and Computing, Nashville, TN, May 2017
+    * _Data Institute SF (DSCO17), San Francisco, CA, October 2017_
