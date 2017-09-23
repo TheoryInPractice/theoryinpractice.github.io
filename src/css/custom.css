@@ -26,3 +26,8 @@ img.thumbnail {
 #featured {
     padding-right: 1em;
 }
+
+/* Unset list style to override theme suppression */
+ul {
+    list-style: unset;
+}
