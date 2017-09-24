@@ -5,7 +5,7 @@
 
         <p ng-if="!items.length">There are no events to display.</p>
 
-        <ul class="style">
+        <ul class="style suppress-list-style">
 
             <li ng-repeat="item in items">
                 <p class="posted">{{ item.start }} <span ng-if="item.end">- {{ item.end }}</span></p>
