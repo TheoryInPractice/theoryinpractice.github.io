@@ -31,3 +31,6 @@ img.thumbnail {
 ul {
     list-style: unset;
 }
+ul.suppress-list-style {
+    list-style: none;
+}
