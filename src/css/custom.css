@@ -34,3 +34,8 @@ ul {
 ul.suppress-list-style {
     list-style: none;
 }
+
+/* Height of an element which can contain two lines of text */
+.height-two-lines {
+    height: 2em;
+}
