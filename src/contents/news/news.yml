@@ -1,3 +1,8 @@
+- posted: October 11, 2017
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper [A practical fpt algorithm for Flow Decomposition and transcript assembly](https://arxiv.org/abs/1706.07851) is accepted to ALENEX 2018!
 - posted: August 31, 2017
   image: src/images/students.jpg
   featured: true
