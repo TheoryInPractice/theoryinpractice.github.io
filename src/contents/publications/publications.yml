@@ -5,11 +5,13 @@
       Complex Networks: Random Graph Models and Linear Algorithms. _**(Under Review)**_. Available
       [on ArXiv](http://arxiv.org/abs/1406.2587).
   - markdown: |
-      K. Kloster, P. Kuinke, M. P. O'Brien, F. Reidl, B. D. Sullivan, A. van der Poel.  A practical algorithm for Flow Decomposition and transcript assembly. _**(Under Review)**_. Available
-      [on ArXiv](http://arxiv.org/abs/1706.07851).
-  - markdown: |
       K. Kloster, D. Král', B. D. Sullivan.  Walk entropy and walk-regularity. _**(Under Review)**_. Available
       [on ArXiv](https://arxiv.org/abs/1708.09700).
+- year: 2018
+  publications:
+  - markdown: |
+        K. Kloster, P. Kuinke, M. P. O'Brien, F. Reidl, B. D. Sullivan, A. van der Poel.  A practical algorithm for Flow Decomposition and transcript assembly. _**To appear in the Proceedings of the 2018 Meeting on Algorithm Engineering and Experiments**_. Available
+        [on ArXiv](http://arxiv.org/abs/1706.07851).
 - year: 2017
   publications:
   - markdown: |
