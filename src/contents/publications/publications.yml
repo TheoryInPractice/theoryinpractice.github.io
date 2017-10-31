@@ -16,6 +16,8 @@
   publications:
   - markdown: |
       I. Muzi, M. P. O'Brien, F. Reidl, B. D. Sullivan.  Being even slightly shallow makes life hard.  _**MFCS 2017**_.  Available [on ArXiv](https://arxiv.org/abs/1705.06796).
+  - markdown: |
+      T. D. Goodrich, M. Farrell, N. Lemons, F. Reidl, P. Rossmanith, F. Sanchez Villaamil, B. D. Sullivan. Hyperbolicity, degeneracy, and expansion of random intersection graphs. _**Journal of Internet Mathematics**_. Journal version [here](http://dx.doi.org/10.24166/im.06.2017).
 - year: 2016
   publications:
   - markdown: |
