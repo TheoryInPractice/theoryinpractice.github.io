@@ -1,7 +1,7 @@
 <div>
     <h5>{{ contents.year }}</h5><br/>
     <div>
-        <ul>
+        <ul class="suppress-list-style">
             <li ng-repeat="publication in contents.publications">
                 <markdown contents="publication.markdown"></markdown>
             </li>
