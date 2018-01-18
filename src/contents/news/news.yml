@@ -5,7 +5,7 @@
     Welcome to our **Spring 2018 undergraduate researcher**: Trey Woodlief!
     (now on the <a ui-sref="people">People</a> page.)
 - posted: December 20, 2017
-  image: src/images/papers_thumb.jpg
+  image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
       A preprint of our paper evaluating [CONCUSS](https://github.com/TheoryInPractice/CONCUSS) to count subgraph isomorphisms is available on [ArXiv](http://arxiv.org/abs/1712.06690).
