@@ -79,6 +79,11 @@ undergraduates:
   date: Fall 2017
   markdown: |
     Andrew is a junior majoring in Mathematics and Computer Science. He enjoys well typeset documents and long walks on the beach.
+- image: src/images/people/adwoodli.jpg
+  name: Trey Woodlief
+  date: Spring 2018
+  markdown: |
+    Trey is a junior majoring in Electrical and Computer Engineering and Computer Science. He spends most of his time working with robots, either on campus with the IEEE Robotics team or off campus volunteering with FIRST.
 alumni:
 - image: src/images/people/ajchin.jpg
   name: Alex Chin
