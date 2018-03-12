@@ -3,6 +3,11 @@
   featured: true
   markdown: |
       A preprint of our paper that investigates a new low-treedepth coloring is available on [ArXiv](http://arxiv.org/abs/1802.09665).
+- posted: February 27, 2018
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper [Walk entropy and walk-regularity](https://arxiv.org/abs/1708.09700) was published in Linear Algebra and its Applications!
 - posted: January 16, 2018
   image: src/images/thumb/comingsoon_thumb.png
   featured: true
