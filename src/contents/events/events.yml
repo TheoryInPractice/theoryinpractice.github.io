@@ -1,3 +1,11 @@
+- start: April 6, 2018
+  image: src/images/thumb/ts_tiny.jpg
+  markdown: |
+    Dr. [David Kempe](www-bcf.usc.edu/~dkempe/) will be speaking at the [NC State Theory Seminar](https://www.csc2.ncsu.edu/theoryseminar/) on A Framework for Interactive Learning.
+- start: February 16, 2018
+  image: src/images/thumb/ts_tiny.jpg
+  markdown: |
+    Dr. Marcin Pilipczuk will be speaking at the [NC State Theory Seminar](https://www.csc2.ncsu.edu/theoryseminar/) on Recent Progress in Distance and Cut Sparsifiers.
 - start: November 20, 2017
   image: src/images/thumb/ts_tiny.jpg
   markdown: |
