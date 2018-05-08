@@ -1,12 +1,32 @@
 <div>
-	<div class="row">
-		<div class="12u">
-			<section>
-				<header><h1>Software</h1></header>
-			</section>
+
+	<div ng-if="featuredSoftware.length">
+		<div class="row">
+			<div class="12u">
+				<section>
+					<header><h1>Featured Software</h1></header>
+				</section>
+			</div>
+		</div>
+		<div ng-repeat="item in featuredSoftware" class="row">
+			<software contents="item"></software>
 		</div>
 	</div>
-	<div ng-repeat="item in software" class="row">
-		<software contents="item"></software>
+
+
+	<div ng-if="software.length">
+		<div class="row">
+			<div class="12u">
+				<section>
+					<header><h1>All Software</h1></header>
+				</section>
+			</div>
+		</div>
+		<div class="row">
+			<div class="4u" ng-repeat="item in software" class="clear" ng-class="{clear: !($index % 3)}">
+				<software contents="item"></software>
+			</div>
+		</div>
 	</div>
+
 </div>
