@@ -50,14 +50,6 @@ gradstudents:
     href: WWW
   markdown: |
     Brian is a first-year Ph.D. student doing an independent study with TiP on local search in structurally sparse graphs.  He graduated from Duke University and enjoys following soccer and playing boardgames.
-- image: src/images/people/mpobrien.jpg
-  name: Michael P. O'Brien
-  email: mpobrie3(at)ncsu(dot)edu
-  about:
-    href: http://www4.ncsu.edu/~mpobrie3/
-  markdown: |
-    Mike is a fifth-year Ph.D. student interested in improving the practicality of parameterized algorithms for graph analytics.
-    He graduated from University of Notre Dame and enjoys producing music in his free time.
 - image: src/images/people/ajvanderpoel.jpg
   name: Drew van der Poel
   email: ajvande4(at)ncsu(dot)edu
@@ -73,7 +65,7 @@ undergraduates:
   date: Fall 2017
   markdown: |
     Allison is a senior majoring in Computer Science with a minor in Cognitive Science.  She is also a Peer Mentor for the
-    CSC department's Freshman Peer Mentoring Program. 
+    CSC department's Freshman Peer Mentoring Program.
 - image: src/images/people/alwright.jpg
   name: Andrew Wright
   date: Fall 2017
@@ -128,3 +120,9 @@ alumni:
     Jean-Claude worked with the Theory in Practice group as a junior. He is now a
     senior co-op student double majoring in computer science and mathematics.
     He also plays in the NC State marching band.
+- image: src/images/people/mpobrien.jpg
+  name: Michael P. O'Brien
+  date: Fall 2013 - Spring 2018
+  markdown: |
+    Mike completed his PhD advised by Dr. Sullivan in 2018.
+    Upon graduating he took a job at Google.
