@@ -1,3 +1,11 @@
+- image: src/images/spiderdonuts_logo.png
+  name: Spider Donuts
+  shortDescription: Analyzing node walk structure and centrality
+  fullDescription:
+    markdown: |
+      Spider Donuts is a Python software tool that implements tests for whether network nodes are structurally different and whether they can be ranked similarly by popular centrality measures for some parameter regimes. It includes generators for graphs with inhomogeneous walk structure.
+  link:
+    href: https://github.com/TheoryInPractice/spiderdonuts
 - image: src/images/concuss_logo.png
   name: CONCUSS
   shortDescription: Combatting Network Complexity Using Structural Sparsity
@@ -34,12 +42,25 @@
   link:
     href: https://github.com/bdsullivan/inddgo
 
+- image: src/images/spacegraphcats_logo.png
+  name: spacegraphcats
+  shortDescription: Scalable Metagenome Querying
+  fullDescription:
+    markdown: |
+      spacegraphcats is a Python tool for constructing a hierarchical data structure, the CAtlas, that summarizes
+      the neighborhood structure of a sparse graph at multiple resolutions.  It also includes functionality for
+      fast extraction of the neighborhood around a set of query vertices.  The target use case for spacegraphcats
+      is organize de Bruijn graphs of large metagenomic sequence data and query the CAtlas to enhance binning and
+      detect strain variants.
+  link:
+    href: https://github.com/spacegraphcats/spacegraphcats
+
 - image: src/images/comingsoon_logo.png
   name: Toboggan
   shortDescription: Decomposes Flows on DAGs into Minimal Number of Paths
   fullDescription:
     markdown: |
-       Toboggan is a research tool for decomposing a flow on a directed acyclic graph into a minimal number of paths,
-       a problem that commonly occurs in transcript and metagenomic assembly.
+      Toboggan is a research tool for decomposing a flow on a directed acyclic graph into a minimal number of paths,
+      a problem that commonly occurs in transcript and metagenomic assembly.
   link:
     href: https://github.com/TheoryInPractice/toboggan

@@ -15,7 +15,7 @@
             </div>
         </div>
 
-        <ul ng-if="!horizontal" class="style">
+        <ul ng-if="!horizontal" class="style suppress-list-style">
             <li ng-repeat="item in contents | limitTo:limit">
                 <p class="posted">{{ item.posted }}</p>
                 <img square class="image thumbnail" ng-src="{{ item.image }}" alt="" />

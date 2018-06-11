@@ -1,4 +1,15 @@
-
+- start: April 6, 2018
+  image: src/images/thumb/ts_tiny.jpg
+  markdown: |
+    Dr. [David Kempe](www-bcf.usc.edu/~dkempe/) will be speaking at the [NC State Theory Seminar](https://www.csc2.ncsu.edu/theoryseminar/) on A Framework for Interactive Learning.
+- start: February 16, 2018
+  image: src/images/thumb/ts_tiny.jpg
+  markdown: |
+    Dr. Marcin Pilipczuk will be speaking at the [NC State Theory Seminar](https://www.csc2.ncsu.edu/theoryseminar/) on Recent Progress in Distance and Cut Sparsifiers.
+- start: November 20, 2017
+  image: src/images/thumb/ts_tiny.jpg
+  markdown: |
+    Dr. Maria Klawe, President of [Harvey Mudd College](http://www.hmc.edu), will be speaking on Broadening Participation in Computing as part of the [TCSDLS](http://cs.unc.edu/tcsdls/), [Fidelity Investments Speaker Series](https://www.csc.ncsu.edu/corporate_relations/fidelity-investments-speaker-series.php), and [NC State Theory Seminar](https://www.csc2.ncsu.edu/theoryseminar/).
 - start: October 15, 2017
   end: October 17, 2017
   image: src/images/data.jpg
@@ -9,7 +20,7 @@
   image: src/images/ams.jpg
   markdown: |
     Dr. Sullivan will be speaking in the Special Session on Structural Graph Theory at the [AMS Southeastern Sectional Meeting](http://www.ams.org/meetings/sectional/2246_program.html) at UCF in Orlando, FL.
-- posted: July 14, 2017
+- start: July 14, 2017
   image: src/images/siam.jpg
   markdown: |
     Ph.D. student Mike O'Brien is giving a talk at [SIAM NS 17](http://www.siam.org/meetings/ns17/) about the [spacegraphcats](https://github.com/spacegraphcats/spacegraphcats) project for querying metagenomic De Bruijn graphs.
@@ -19,6 +30,11 @@
   markdown: |
     Theory in Practice will be at the [Cumberland Conference](https://my.vanderbilt.edu/29cc2017/) at Vanderbilt University,
     come talk to us!
+- start: May 11, 2017
+  image: src/images/barn.jpg
+  markdown: |
+    Theory in Practice members Eric Horton and Brandon Mork have graduated with their Bachelor of Science in
+    Computer Science.
 - start: July 15, 2016
   end: July 16, 2016
   image: src/images/siam.jpg
@@ -40,7 +56,7 @@
     [Barnraising for Data-Intensive Discovery](https://mdibl.org/course/barnraising/) at the MDI Biological Laboratory
     in Bar Harbor, Maine (co-organized by Dr. Sullivan)
 - start: April 26, 2016
-  image: src/images/thumbnails/concuss_thumb.png
+  image: src/images/thumb/concuss_thumb.png
   markdown: |
     The Theory in Practice Senior Design Team is presenting at CSC's Annual
     [Posters & Pies](https://www.csc.ncsu.edu/news/1868) (10:30 am - 1:00 pm at the Hunt Library)!
@@ -50,12 +66,12 @@
     Dr. Sullivan is speaking in the Infinite Horizons Lecture Series at Kennesaw State University (Marietta Campus).
 - start: April 11, 2016
   end: April 15, 2016
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     Irene Muzi of the University of Rome "La Sapienza" is visiting Theory In Practice, and speaking in the
     CS Theory Seminar (3:00 pm on April 13 in EBII 3211).
 - start: March 28, 2016
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     [David Gleich](https://www.cs.purdue.edu/homes/dgleich/) of Purdue University will lecture on localization
     of matrix functions in the CS Theory Seminar (11:00 am in EBII 3211).
@@ -71,7 +87,7 @@
     Dr. Sullivan will be speaking at Mathematical Biosciences Institute (MBI) on March 24 as part of the
     [Workshop on Generalized Network Structures and Dynamics](https://mbi.osu.edu/event/?id=898).
 - start: February 22, 2016
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     [Aaron Clauset](http://www.structureandstrangeness.com) of the University of Colorado, Boulder is talking about
     Gender, Productivity, & Prestige in Computer Science Faculty Hiring Networks in the CS Theory Seminar
@@ -82,17 +98,17 @@
     Postdoc Felix Reidl is giving a lightning talk on our work at the NC State Data Science Initiative's
     [Winter Symposium](https://research.ncsu.edu/dsi/winter-symposium/)
 - start: January 11, 2016
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     [Elizabeth Munch](http://elizabethmunch.com) of SUNY Albany is talking about the Reeb graph interleaving distance
     in the CS Theory Seminar (11:00 am in EBII 3211).
 - start: November 23, 2015
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     [Claire Monteleoni](http://faculty.cs.gwu.edu/~cmontel/C._Monteleoni.html) of GWU is informing us about Climate
     Informatics in the CS Theory Seminar (11:00 am in EBII 3211) [Rescheduled from April 2015].
 - start: November 2, 2015
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     [Jeremy Kun](http://homepages.math.uic.edu/~jkun2/) of [Math (intersects) Programming](http://jeremykun.com) fame
     is talking on resilient graph colorings in the CS Theory Seminar (11:00 am in EBII 3211).
@@ -109,12 +125,12 @@
     Undergraduate Yang Ho will present a poster on our work (with Dr. Katherine Saul, MAE, NCSU) analyzing fat content
     in the supraspinatus at the [BMES Annual Meeting 2015](http://bmes.org/annualmeeting) in Tampa, FL
 - start: October 5, 2015
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     [Dana Randall](http://people.math.gatech.edu/~randall/) of Georgia Tech graces the Theory Seminar with her presence
     (and a great talk) at 11:00 am in EBII 3211.
 - start: August 1, 2015
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     NC State Theory Seminar returns for its third year! Speakers tentatively include Dana Randall, Aaron Clauset,
     David Bader, and Claire Monteleoni. _August talk cancelled_. Detailed schedule to be posted ASAP.
@@ -139,7 +155,7 @@
     Want to hear about awesome women doing computer science at NC State (or talk about your own work)? Check out the
     _[WiCS](http://ncsu.orgsync.com/org/wics/) Symposium_!
 - start: April 20, 2015
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     _Michael Langston_ wraps up the 2014-2015 Theory Seminar with a talk at 11:00 am in EBII 3211.
 - start: April 17, 2015
@@ -162,7 +178,7 @@
     Dr. Sullivan is speaking at the [_Capital Area Theory Seminar_](https://wiki.cs.umd.edu/theory/index.php?title=CATS)
     at the University of Maryland, Baltimore, MD.
 - start: April 6, 2015
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     _RESCHEDULED: Claire Monteleoni_ of GWU is informing us about Climate Informatics in the CS Theory Seminar
     (11:00 am in EBII 3211).
@@ -171,7 +187,7 @@
   markdown: |
     Dr. Sullivan is speaking at the _Duke Theory Lunch_, Durham, NC.
 - start: March 18, 2015
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     _Johan Ugander_ moves the Theory Seminar to Wednesday (11:00 am in EBII 3211).
 - start: February 23, 2015
@@ -179,7 +195,7 @@
   markdown: |
     Dr. Sullivan is giving the _PACM Colloquium at Princeton University_, Princeton, NJ.
 - start: February 20, 2015
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     _Henry Cohn_ talks about sparse graph limits in a special Friday-edition of the Theory Seminar
     (10:30 am in EBII 3211).
@@ -190,7 +206,7 @@
     Dr. Sullivan will be in Atlanta -- come hear about our work at the _[ARC](http://arc.gatech.edu) Colloquium at
     Georgia Institute of Technology_ on Feb 16 or the _Computer Science Seminar at Emory University_ on Feb. 17.
 - start: January 21, 2015
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     _Peter Winkler_ kicks off Spring 2015 CS Theory Seminar **on a Wednesday!** (10:30 am in EBII 3211).
 - start: January 10, 2015
@@ -204,7 +220,7 @@
   markdown: |
     Mike O'Brien is presenting our paper on local k-core estimation at _ICDM 2014_, Shenzen, China.
 - start: November 17, 2014
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     _Mason Porter_ tells us (There's) Something About Networks at 10:30 am in EBII 3211.
 - start: November 11, 2014
@@ -217,7 +233,7 @@
     Dr. Sullivan is an invited speaker in the Special Session on Recent Developments in Graph Theory and Hypergraph
     Theory, _AMS Southeastern Fall Sectional Meeting_, Greensboro, NC.
 - start: November 3, 2014
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     _Felix Reidl and Fernando Sanchez Villaamil_ attempt to win over converts to parameterized complexity at 10:30 am
     in EBII 3211.
@@ -226,6 +242,6 @@
   markdown: |
     Dr. Sullivan is giving an invited talk at the _Atlanta Lecture Series in Combinatorics_, Atlanta, GA.
 - start: October 20, 2014
-  image: src/images/ts_tiny.jpg
+  image: src/images/thumb/ts_tiny.jpg
   markdown: |
     _Travis Humble_ kicks off the 2014-2015 Theory Seminar with a talk on quantum computing at 10:30 am in EBII 3211.

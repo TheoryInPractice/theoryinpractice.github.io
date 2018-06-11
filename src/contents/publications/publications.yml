@@ -5,21 +5,33 @@
       Complex Networks: Random Graph Models and Linear Algorithms. _**(Under Review)**_. Available
       [on ArXiv](http://arxiv.org/abs/1406.2587).
   - markdown: |
-      K. Kloster, P. Kuinke, M. P. O'Brien, F. Reidl, B. D. Sullivan, A. van der Poel.  A practical algorithm for Flow Decomposition and transcript assembly. _**(Under Review)**_. Available
-      [on ArXiv](http://arxiv.org/abs/1706.07851).
+      M. P. O'Brien, B. D. Sullivan.  An Experimental Evaluation of a Bounded Expansion Algorithmic Pipeline. _**(Under Review)**_. Available
+        [on ArXiv](http://arxiv.org/abs/1712.06690).
+
+- year: 2018
+  publications:
   - markdown: |
-      K. Kloster, D. Král', B. D. Sullivan.  Walk entropy and walk-regularity. _**(Under Review)**_. Available
-      [on ArXiv](https://arxiv.org/abs/1708.09700).
+      J. Kun, M. P. O'Brien, B. D. Sullivan.  Treedepth Bounds in Linear Colorings. _**To Appear in the 44th International Workshop on Graph-Theoretic Concepts in Computer Science (WG)**_. Available
+      [on ArXiv](http://arxiv.org/abs/1802.09665).
+  - markdown: |
+        K. Kloster, D. Král, B. D. Sullivan.  Walk entropy and walk-regularity. _**Linear Algebra and its Applications**_. Available
+        [on ArXiv](https://arxiv.org/abs/1708.09700).
+  - markdown: |
+        K. Kloster, P. Kuinke, M. P. O'Brien, F. Reidl, B. D. Sullivan, A. van der Poel.  A practical algorithm for Flow Decomposition and transcript assembly. _**To appear in the Proceedings of the 2018 Meeting on Algorithm Engineering and Experiments (ALENEX)**_. Available [on ArXiv](http://arxiv.org/abs/1706.07851).
 - year: 2017
   publications:
   - markdown: |
       I. Muzi, M. P. O'Brien, F. Reidl, B. D. Sullivan.  Being even slightly shallow makes life hard.  _**MFCS 2017**_.  Available [on ArXiv](https://arxiv.org/abs/1705.06796).
+  - markdown: |
+      T. D. Goodrich, M. Farrell, N. Lemons, F. Reidl, P. Rossmanith, F. Sanchez Villaamil, B. D. Sullivan. Hyperbolicity, degeneracy, and expansion of random intersection graphs. _**Journal of Internet Mathematics**_. Journal version [here](http://dx.doi.org/10.24166/im.06.2017).
 - year: 2016
   publications:
   - markdown: |
       A. J. Chin, T. D. Goodrich, M. P. O'Brien, F. Reidl, B. D. Sullivan, A. van der Poel. Asymptotic Analysis of Equivalences and Core-Structures in Kronecker-Style Graph Models. _**Proceedings of 2016 IEEE International
       Conference on Data Mining (ICDM'16)**_, 2016. Proceedings version
       [here](http://ieeexplore.ieee.org/document/7837911/); also available [on ArXiv](https://arxiv.org/abs/1609.05081).
+  - markdown: |
+      R. Bridges, J. Collins, E. Ferragut, J. Laska, B. D. Sullivan. A multi-level anomaly detection algorithm for time-varying graphdata with interactive visualization. _**Social Network Analysis and Mining**_, 6:99, 2016. Available [on SpringerLink](http://rdcu.be/w3dS).
   - markdown: |
       B. D. Sullivan, A. van der Poel. A Fast Parameterized Algorithm for Co-Path Set. _**[IPEC 2016](http://conferences.au.dk/algo16/ipec/)**_. Available [on ArXiv](http://arxiv.org/abs/1603.04376).
   - markdown: |

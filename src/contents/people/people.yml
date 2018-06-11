@@ -15,8 +15,9 @@ postdocs:
   about:
     href: http://www4.ncsu.edu/~kakloste/
   markdown: |
-    Kyle joined Theory In Practice as a postdoctoral researcher in June 2016. He completed his Ph.D. in the
-    Mathematics Department at Purdue University under the supervision of David Gleich.
+    Kyle joined Theory In Practice as a postdoctoral researcher in June 2016. He completed his Ph.D. in
+    Mathematics at Purdue University under the supervision of David Gleich.
+    In his free time he enjoys vaporwave, frisbee, and making things fast.
 gradstudents:
 - image: src/images/people/tdgoodrich.jpg
   name: Timothy Goodrich
@@ -35,10 +36,13 @@ gradstudents:
 - image: src/images/people/ewhorton.jpg
   name: Eric Horton
   email: ewhorton(at)ncsu(dot)edu
+  date: Fall 2016 - Fall 2017
   about:
-      href: WWW
+      href: http://erichorton.me
   markdown: |
-      Description Goes Here. (U/G in 2016/17;  Eric is a senior, as well as a MS student in the Accelerated Bachelors-Masters (ABM) program).
+    Eric is a first year MS student participating in the Accelerated Bachelors-Masters (ABM) program. He performed
+    undergraduate research on graph structure and continues to work with the lab as a software engineer. He enjoys
+    table-top gaming, science fiction, and playing his violin.
 - image: src/images/people/blavallee.jpg
   name: Brian Lavallee
   email: blavall(at)ncsu(dot)edu
@@ -68,12 +72,18 @@ undergraduates:
   name: Allison Fisher
   date: Fall 2017
   markdown: |
-    Description Goes Here.
+    Allison is a senior majoring in Computer Science with a minor in Cognitive Science.  She is also a Peer Mentor for the
+    CSC department's Freshman Peer Mentoring Program. 
 - image: src/images/people/alwright.jpg
   name: Andrew Wright
   date: Fall 2017
   markdown: |
-    Description Goes Here.
+    Andrew is a junior majoring in Mathematics and Computer Science. He enjoys well typeset documents and long walks on the beach.
+- image: src/images/people/adwoodli.jpg
+  name: Trey Woodlief
+  date: Spring 2018
+  markdown: |
+    Trey is a junior majoring in Electrical and Computer Engineering and Computer Science. He spends most of his time working with robots, either on campus with the IEEE Robotics team or off campus volunteering with FIRST.
 alumni:
 - image: src/images/people/ajchin.jpg
   name: Alex Chin
