@@ -273,6 +273,9 @@ Software:
       link:
         description: A link to a software repo for the package
         schema: link
+      featured:
+        type: boolean
+        description: If the software package should be given prominent display as a featured item
 ```
 
 ### Date
