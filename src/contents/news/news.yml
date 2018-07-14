@@ -3,6 +3,11 @@
   featured: true
   markdown: |
       A preprint of our paper introducing the concept of structural rounding is available on [ArXiv](https://arxiv.org/abs/1806.02771).
+- posted: May 2, 2018
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+    A preprint of our paper on practical graph bipartization is available on [ArXiv](https://arxiv.org/pdf/1805.01041.pdf).
 - posted: April 27, 2018
   image: src/images/thumb/papers_thumb.jpg
   featured: true
