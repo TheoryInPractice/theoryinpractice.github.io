@@ -1,3 +1,12 @@
+- image: src/images/software/oct.svg
+  name: Practical OCT
+  shortDescription: Compare algorithms for Odd Cycle Traversal.
+  fullDescription:
+    markdown: |
+      Practical OCT is a suite of pre-processing routines, heuristics, solvers, and harnesses used to compare algorithms
+      for Odd Cycle Traversal (graph bipartization) based either on their runtime or the size of a discovered OCT set.
+  link:
+    href: https://github.com/TheoryInPractice/practical-oct
 - image: src/images/spiderdonuts_logo.png
   name: Spider Donuts
   shortDescription: Analyzing node walk structure and centrality
