@@ -1,17 +1,28 @@
 - year: Currently Under Review
   publications:
   - markdown: |
+      T. D. Goodrich, E. Horton, B. D. Sullivan. Practical Graph Bipartization with Applications in Near-Term Quantum
+      Computing. _**(Under Review)**_. Available [on ArXiv](https://arxiv.org/pdf/1805.01041.pdf).
+  - markdown: |
       E. Demaine, F. Reidl, P. Rossmanith, F. Sanchez Villaamil, S. Sikdar, B. D. Sullivan. Structural Sparsity of
       Complex Networks: Random Graph Models and Linear Algorithms. _**(Under Review)**_. Available
       [on ArXiv](http://arxiv.org/abs/1406.2587).
   - markdown: |
-      K. Kloster, D. Král', B. D. Sullivan.  Walk entropy and walk-regularity. _**(Under Review)**_. Available
-      [on ArXiv](https://arxiv.org/abs/1708.09700).
+      M. P. O'Brien, B. D. Sullivan.  An Experimental Evaluation of a Bounded Expansion Algorithmic Pipeline. _**(Under Review)**_. Available
+        [on ArXiv](http://arxiv.org/abs/1712.06690).
+  - markdown: |
+      E. D. Demaine, T. D. Goodrich, K. Kloster, B. Lavallee, Q. Liu, B. D. Sullivan, A. Vakilian, A. van der Poel.  Structural Rounding: Approximation Algorithms for Graphs Near an Algorithmically Tractable Class. _**(Under Review)**_. Available [on ArXiv](https://arxiv.org/abs/1806.02771).
+
 - year: 2018
   publications:
   - markdown: |
-        K. Kloster, P. Kuinke, M. P. O'Brien, F. Reidl, B. D. Sullivan, A. van der Poel.  A practical algorithm for Flow Decomposition and transcript assembly. _**To appear in the Proceedings of the 2018 Meeting on Algorithm Engineering and Experiments (ALENEX)**_. Available
-        [on ArXiv](http://arxiv.org/abs/1706.07851).
+      J. Kun, M. P. O'Brien, B. D. Sullivan.  Treedepth Bounds in Linear Colorings. _**To Appear in the 44th International Workshop on Graph-Theoretic Concepts in Computer Science (WG)**_. Available
+      [on ArXiv](http://arxiv.org/abs/1802.09665).
+  - markdown: |
+        K. Kloster, D. Král, B. D. Sullivan.  Walk entropy and walk-regularity. _**Linear Algebra and its Applications**_. Available
+        [on ArXiv](https://arxiv.org/abs/1708.09700).
+  - markdown: |
+        K. Kloster, P. Kuinke, M. P. O'Brien, F. Reidl, B. D. Sullivan, A. van der Poel.  A practical algorithm for Flow Decomposition and transcript assembly. _**To appear in the Proceedings of the 2018 Meeting on Algorithm Engineering and Experiments (ALENEX)**_. Available [on ArXiv](http://arxiv.org/abs/1706.07851).
 - year: 2017
   publications:
   - markdown: |

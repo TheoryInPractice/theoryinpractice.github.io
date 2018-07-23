@@ -1,3 +1,53 @@
+- posted: June 11, 2018
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      A preprint of our paper introducing the concept of structural rounding is available on [ArXiv](https://arxiv.org/abs/1806.02771).
+- posted: May 2, 2018
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+    A preprint of our paper on practical graph bipartization is available on [ArXiv](https://arxiv.org/pdf/1805.01041.pdf).
+- posted: April 27, 2018
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper [Treedepth Bounds in Linear Colorings](https://arxiv.org/abs/1802.09665) was accepted for publication at WG 2018!
+- posted: April 18, 2018
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      A preprint of our paper exploring when centrality measures can fool us is available on [ArXiv](https://arxiv.org/abs/1804.05966).
+- posted: March 15, 2018
+  image: src/images/students.jpg
+  markdown: |
+      Congratulations to Dr. Mike O'Brien for successfully defending his disseration!
+- posted: February 28, 2018
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      A preprint of our paper that investigates a new low-treedepth coloring is available on [ArXiv](http://arxiv.org/abs/1802.09665).
+- posted: February 27, 2018
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper [Walk entropy and walk-regularity](https://arxiv.org/abs/1708.09700) was published in Linear Algebra and its Applications!
+- posted: January 16, 2018
+  image: src/images/thumb/comingsoon_thumb.png
+  featured: true
+  markdown: |
+    Welcome to our **Spring 2018 undergraduate researcher**: Trey Woodlief!
+    (now on the <a ui-sref="people">People</a> page.)
+- posted: December 20, 2017
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      A preprint of our paper evaluating [CONCUSS](https://github.com/TheoryInPractice/CONCUSS) to count subgraph isomorphisms is available on [ArXiv](http://arxiv.org/abs/1712.06690).
+- posted: November 16, 2017
+  image: src/images/ncsu.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan is now Associate Faculty in the [NC State Mathematics Department](http://www.math.ncsu.edu).
 - posted: October 11, 2017
   image: src/images/thumb/papers_thumb.jpg
   featured: true

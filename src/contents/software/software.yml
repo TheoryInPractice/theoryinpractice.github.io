@@ -1,3 +1,20 @@
+- image: src/images/software/oct.svg
+  name: Practical OCT
+  shortDescription: Compare algorithms for Odd Cycle Traversal.
+  fullDescription:
+    markdown: |
+      Practical OCT is a suite of pre-processing routines, heuristics, solvers, and harnesses used to compare algorithms
+      for Odd Cycle Traversal (graph bipartization) based either on their runtime or the size of a discovered OCT set.
+  link:
+    href: https://github.com/TheoryInPractice/practical-oct
+- image: src/images/spiderdonuts_logo.png
+  name: Spider Donuts
+  shortDescription: Analyzing node walk structure and centrality
+  fullDescription:
+    markdown: |
+      Spider Donuts is a Python software tool that implements tests for whether network nodes are structurally different and whether they can be ranked similarly by popular centrality measures for some parameter regimes. It includes generators for graphs with inhomogeneous walk structure.
+  link:
+    href: https://github.com/TheoryInPractice/spiderdonuts
 - image: src/images/concuss_logo.png
   name: CONCUSS
   shortDescription: Combatting Network Complexity Using Structural Sparsity
