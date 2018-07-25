@@ -1,3 +1,8 @@
+- posted: July 12, 2018
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      A preprint of our paper evaluating contraction sequence algorithms for tensor networks is available on [ArXiv](https://arxiv.org/abs/1807.04599).
 - posted: June 11, 2018
   image: src/images/thumb/papers_thumb.jpg
   featured: true
