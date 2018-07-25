@@ -1,6 +1,8 @@
 - year: Currently Under Review
   publications:
   - markdown: |
+      E. F. Dumitrescu, A. L. Fisher, T. D. Goodrich, T. S. Humble, B. D. Sullivan, A. L. Wright. Benchmarking treewidth as a practical component of tensor-network--based quantum simulation. _**(Under Review)**_. Available [on ArXiv](https://arxiv.org/abs/1807.04599).
+  - markdown: |
       T. D. Goodrich, E. Horton, B. D. Sullivan. Practical Graph Bipartization with Applications in Near-Term Quantum
       Computing. _**(Under Review)**_. Available [on ArXiv](https://arxiv.org/pdf/1805.01041.pdf).
   - markdown: |
