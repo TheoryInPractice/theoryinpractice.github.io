@@ -19,13 +19,6 @@ postdocs:
     Mathematics at Purdue University under the supervision of David Gleich.
     In his free time he enjoys vaporwave, frisbee, and making things fast.
 gradstudents:
-- image: src/images/people/tdgoodrich.jpg
-  name: Timothy Goodrich
-  email: tdgoodri(at)ncsu(dot)edu
-  about:
-    href: http://www4.ncsu.edu/~tdgoodri/
-  markdown: |
-    Timothy is a fourth-year Ph.D. student researching graph editing problems with applications in near-term quantum computing. He graduated from Valparaiso University and enjoys spending time with his wife, Katie.
 - image: src/images/people/ahaque.jpg
   name: Abida Haque
   email: ahaque3(at)ncsu(dot)edu
@@ -83,6 +76,13 @@ alumni:
   markdown: |
     Alex graduated from NC State with BS degrees in Mathematics and Economics in Spring 2014, and is now pursuing a
     PhD in Statistics at Stanford University.
+- image: src/images/people/tdgoodrich.jpg
+  name: Timothy Goodrich
+  email: tdgoodri(at)ncsu(dot)edu
+  about:
+    href: https://tdgoodrich.github.io/
+  markdown: |
+    Timothy worked with the Theory in Practice group on random graph models and algorithms with applications in quantum computing. He is now concluding his dissertation with Dr. Stallmann in experimental algorithmics.
 - image: src/images/people/cghobbs.jpg
   name: Clayton Hobbs
   date: Spring, Summer 2015; Spring 2016
