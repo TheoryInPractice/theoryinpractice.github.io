@@ -17,7 +17,7 @@
 - year: 2018
   publications:
   - markdown: |
-     T. D. Goodrich, T. S. Humble, B. D. Sullivan.  Optimizing Adiabatic Quantum Program Compilation using a Graph-Theoretic Framework. **Quantum Information Processing**_, 17:118, 2018. Available
+     T. D. Goodrich, T. S. Humble, B. D. Sullivan.  Optimizing Adiabatic Quantum Program Compilation using a Graph-Theoretic Framework. _**Quantum Information Processing**_, 17:118, 2018. Available
     [on ArXiv](https://arxiv.org/abs/1704.01996).
   - markdown: |
       J. Kun, M. P. O'Brien, B. D. Sullivan.  Treedepth Bounds in Linear Colorings. _**To Appear in the 44th International Workshop on Graph-Theoretic Concepts in Computer Science (WG)**_. Available
