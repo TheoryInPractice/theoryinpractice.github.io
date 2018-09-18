@@ -17,7 +17,7 @@ postdocs:
   markdown: |
     Kyle joined Theory In Practice as a postdoctoral researcher in June 2016. He completed his Ph.D. in
     Mathematics at Purdue University under the supervision of David Gleich.
-    In his free time he enjoys vaporwave, frisbee, and making things fast.
+    He is interested in topics from sparse and structured graph theory and linear algebra, including graph analysis primitives like ranking and link prediction, and solving hard optimization problems.
 gradstudents:
 - image: src/images/people/ahaque.jpg
   name: Abida Haque
