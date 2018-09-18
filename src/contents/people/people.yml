@@ -51,6 +51,7 @@ gradstudents:
   markdown: |
     Drew is a fifth-year Ph.D. student whose research currently focuses on problems pertaining to graph editing. He graduated from The College of Saint Rose, and enjoys playing and watching sports
     and spending time outdoors.
+
 - image: src/images/people/mjsuggs.jpg
   name: Michael Suggs
   email: mjsuggs(at)ncsu(dot)edu
@@ -63,7 +64,6 @@ gradstudents:
   email: mjbreenm(at)ncsu(dot)edu
   about:
     href: WWW
-  markdown: |
     Mike is a fourth year Ph.D. student in the math department and is working on an independent study with TiP this semester. He graduated from UNC Asheville and spends far too much of his free time playing disc golf and cooking. 
 undergraduates:
 - image: src/images/people/anfisher.jpg
