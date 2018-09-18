@@ -52,6 +52,13 @@ gradstudents:
     Drew is a fourth-year Ph.D. student whose research currently focuses on designing faster FPT algorithms for NP-Hard
     graph optimization problems. He graduated from The College of Saint Rose, and enjoys playing and watching sports
     and spending time outdoors.
+- image: src/images/people/mjsuggs.jpg
+  name: Michael Suggs
+  email: mjsuggs(at)ncsu(dot)edu
+  about:
+    href: http://michaelsuggs.com
+  markdown: |
+    Michael is a first year Ph.D. student currently working with TiP on graph coloring. He graduated with degrees in Computer Science and Mathematics from UNC-Wilmington and fancies the playing the piano and lifting weights, though preferably not at the same time!
 undergraduates:
 - image: src/images/people/anfisher.jpg
   name: Allison Fisher
