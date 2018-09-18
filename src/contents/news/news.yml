@@ -1,3 +1,9 @@
+- posted: September 18, 2018
+  image: src/images/thumb/comingsoon_thumb.png
+  featured: true
+  markdown: |
+    Welcome to our **Fall 2019 undergraduate researcher**: Hayley Russell!
+    (now on the <a ui-sref="people">People</a> page.)
 - posted: July 12, 2018
   image: src/images/thumb/papers_thumb.jpg
   featured: true
