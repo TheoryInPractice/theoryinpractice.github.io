@@ -58,6 +58,13 @@ gradstudents:
     href: http://michaelsuggs.com
   markdown: |
     Michael is a first year Ph.D. student currently working with TiP on graph coloring. He graduated with degrees in Computer Science and Mathematics from UNC-Wilmington and fancies the playing the piano and lifting weights, though preferably not at the same time!
+- image: src/images/people/mjbreenm.jpg
+  name: Michael Breen-McKay
+  email: mjbreenm(at)ncsu(dot)edu
+  about:
+    href: WWW
+  markdown: |
+    Mike is a fourth year Ph.D. student in the math department and is working on an independent study with TiP this semester. He graduated from UNC Asheville and spends far too much of his free time playing disc golf and cooking. 
 undergraduates:
 - image: src/images/people/anfisher.jpg
   name: Allison Fisher
