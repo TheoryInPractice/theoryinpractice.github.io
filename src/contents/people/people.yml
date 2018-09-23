@@ -75,6 +75,11 @@ undergraduates:
   date: Spring 2018
   markdown: |
     Trey is a senior majoring in Electrical and Computer Engineering and Computer Science. He spends most of his time working with robots, either on campus with the IEEE Robotics team or off campus volunteering with FIRST.
+- image: src/images/people/hsrussel.jpg
+  name: Hayley Russell
+  date: Fall 2018
+  markdown: |
+    Hayley is a senior majoring in Mathematics and Computer Science. In her free time, she enjoys watching Disney animated movies, creating intricate doodles, and formatting resumes.
 alumni:
 - image: src/images/people/ajchin.jpg
   name: Alex Chin

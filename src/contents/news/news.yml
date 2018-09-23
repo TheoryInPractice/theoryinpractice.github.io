@@ -1,3 +1,10 @@
+- posted: September 18, 2018
+  image: src/images/thumb/comingsoon_thumb.png
+  featured: true
+  markdown: |
+    We're delighted to announce our new members joining Theory In Practice in Fall 2018: 
+    **Ph.D. students** Michael Suggs and Michael Breen-McKay, and **undergraduate researcher** Hayley Russell!
+    (now on the <a ui-sref="people">People</a> page.)
 - posted: July 12, 2018
   image: src/images/thumb/papers_thumb.jpg
   featured: true
