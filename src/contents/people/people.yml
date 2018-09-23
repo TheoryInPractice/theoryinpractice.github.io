@@ -15,17 +15,10 @@ postdocs:
   about:
     href: http://www4.ncsu.edu/~kakloste/
   markdown: |
-    Kyle joined Theory In Practice as a postdoctoral researcher in June 2016. He completed his Ph.D. in
-    Mathematics at Purdue University under the supervision of David Gleich.
+    Kyle joined Theory In Practice as a postdoctoral researcher in June 2016.
+    He completed his Ph.D. in Mathematics at Purdue University under the supervision of David Gleich.
     He is interested in topics from sparse and structured graph theory and linear algebra, including graph analysis primitives like ranking and link prediction, and solving hard optimization problems.
 gradstudents:
-- image: src/images/people/ahaque.jpg
-  name: Abida Haque
-  email: ahaque3(at)ncsu(dot)edu
-  about:
-    href: WWW
-  markdown: |
-    Abida is a first-year Ph.D. student doing an independent study with TiP. She enjoys juggling and playing flute.
 - image: src/images/people/ewhorton.jpg
   name: Eric Horton
   email: ewhorton(at)ncsu(dot)edu
@@ -66,17 +59,6 @@ gradstudents:
   markdown: |
     Mike is a fourth year Ph.D. student in the math department and is working on an independent study with TiP this semester. He graduated from UNC Asheville and spends far too much of his free time playing disc golf and cooking. 
 undergraduates:
-- image: src/images/people/anfisher.jpg
-  name: Allison Fisher
-  date: Fall 2017
-  markdown: |
-    Allison is a senior majoring in Computer Science with a minor in Cognitive Science.  She is also a Peer Mentor for the
-    CSC department's Freshman Peer Mentoring Program.
-- image: src/images/people/alwright.jpg
-  name: Andrew Wright
-  date: Fall 2017
-  markdown: |
-    Andrew is a junior majoring in Mathematics and Computer Science. He enjoys well typeset documents and long walks on the beach.
 - image: src/images/people/adwoodli.jpg
   name: Trey Woodlief
   date: Spring 2018
@@ -134,11 +116,23 @@ alumni:
     completing a PhD at RWTH Aachen University. He is currently a postdoc at Royal Holloway University in London.
 - image: src/images/comingsoon.png
   name: Jean-Claude Shore
-  date: Fall 2016; Spring 2017
+  date: Fall 2016 - Spring 2017
   markdown: |
     Jean-Claude worked with the Theory in Practice group as a junior. He is now a
     senior co-op student double majoring in computer science and mathematics.
     He also plays in the NC State marching band.
+- image: src/images/people/anfisher.jpg
+  name: Allison Fisher
+  date: Fall 2017 - Spring 2018
+  markdown: |
+    Allison worked with the Theory in Practice group as a senior majoring in Computer Science with a minor in Cognitive Science.
+    She is also a Peer Mentor for the CSC department's Freshman Peer Mentoring Program.
+- image: src/images/people/alwright.jpg
+  name: Andrew Wright
+  date: Fall 2017 - Spring 2018
+  markdown: |
+    Andrew worked with the Theory in Practice group as a junior majoring in Mathematics and Computer Science.
+    He enjoys well typeset documents and long walks on the beach.
 - image: src/images/people/mpobrien.jpg
   name: Michael P. O'Brien
   date: Fall 2013 - Spring 2018
@@ -146,3 +140,10 @@ alumni:
     Mike completed his doctoral dissertation "A Multifaceted Approach to Improving
     the Practicality of Structural Graph Algorithms" advised by Dr. Sullivan in 2018.
     Upon graduating he took a job at Google.
+- image: src/images/people/ahaque.jpg
+  name: Abida Haque
+  date: Fall 2017
+  markdown: |
+    Abida did an independent study with the Theory in Practice group as a first-year Ph.D. student.
+    Currently she works with Professor Scarfuro in cryptography.
+    She enjoys juggling and playing flute.
