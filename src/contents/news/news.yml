@@ -6,17 +6,17 @@
     **Ph.D. students** Michael Suggs and Michael Breen-McKay, and **undergraduate researcher** Hayley Russell!
     (now on the <a ui-sref="people">People</a> page.)
 - posted: July 12, 2018
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
       A preprint of our paper evaluating contraction sequence algorithms for tensor networks is available on [ArXiv](https://arxiv.org/abs/1807.04599).
 - posted: June 11, 2018
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
       A preprint of our paper introducing the concept of structural rounding is available on [ArXiv](https://arxiv.org/abs/1806.02771).
 - posted: May 2, 2018
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
     A preprint of our paper on practical graph bipartization is available on [ArXiv](https://arxiv.org/pdf/1805.01041.pdf).
@@ -26,7 +26,7 @@
   markdown: |
       Our paper [Treedepth Bounds in Linear Colorings](https://arxiv.org/abs/1802.09665) was accepted for publication at WG 2018!
 - posted: April 18, 2018
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
       A preprint of our paper exploring when centrality measures can fool us is available on [ArXiv](https://arxiv.org/abs/1804.05966).
@@ -40,7 +40,7 @@
   markdown: |
       Congratulations to Dr. Mike O'Brien for successfully defending his disseration!
 - posted: February 28, 2018
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
       A preprint of our paper that investigates a new low-treedepth coloring is available on [ArXiv](http://arxiv.org/abs/1802.09665).
@@ -56,7 +56,7 @@
     Welcome to our **Spring 2018 undergraduate researcher**: Trey Woodlief!
     (now on the <a ui-sref="people">People</a> page.)
 - posted: December 20, 2017
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
       A preprint of our paper evaluating [CONCUSS](https://github.com/TheoryInPractice/CONCUSS) to count subgraph isomorphisms is available on [ArXiv](http://arxiv.org/abs/1712.06690).
@@ -76,7 +76,7 @@
   markdown: |
     TiP has lots of new faces this fall! Find out more about PhD students Abida Haque and Brian Lavallee, and undergraduates Allison Fisher and Andrew Wright on the <a ui-sref="people">People</a> page.
 - posted: June 28, 2017
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   markdown: |
     A preprint of our paper on using [Toboggan](https://github.com/TheoryInPractice/toboggan) to solve flow decompositions for transcript assembly is available on [ArXiv](https://arxiv.org/abs/1706.07851).
 - posted: June 12, 2017
@@ -133,7 +133,7 @@
     We're delighted to announce that **Kyle Kloster** from Purdue University will be joining Theory In Practice
     as a postdoc in June 2016.
 - posted: March 14, 2016
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   markdown: |
     **New preprint** with Ph.D. student A. van der Poel posted to ArXiv:
     [A Fast Parameterized Algorithm for Co-Path Set](http://arxiv.org/abs/1603.04376).
@@ -143,7 +143,7 @@
     Come check out what's going on with data at the NC State Data Science Initiative's
     [2016 Winter Symposium](https://research.ncsu.edu/dsi/winter-symposium/).
 - posted: January 15, 2016
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/ncsu.jpg
   markdown: |
     The new CS Theory Reading Group is up and running for Spring 2016 (with 16 regular attendees!)
     Check out the [papers we're reading](src/docs/readings_spring16.pdf).
@@ -212,7 +212,7 @@
     Welcome to our **summer undergraduate researchers**: Yang Ho, Clayton Hobbs, and Nishant Rodrigues!
     (now on the <a ui-sref="people">People</a> page.)
 - posted: May 4, 2015
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   markdown: |
     **New preprint** posted to ArXiv: [On the Threshold of Intractability](http://arxiv.org/abs/1505.00612).
 - posted: April 14, 2015
@@ -256,7 +256,7 @@
     [apply to participate!](http://icerm.brown.edu/topical_workshops/tw15-6-mds)
     (Dr. Sullivan is one of the invited speakers)
 - posted: November 7, 2014
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   markdown: |
     **New preprint** posted to ArXiv: [Tree decompositions and social graphs](http://arxiv.org/abs/1411.1546)
 - posted: October 23, 2014<
@@ -277,7 +277,7 @@
     Super excited to start work on our new *DARPA GRAPHS* project, PARSiNG: Parameterized Algorithms Respecting
     Structure in Noisy Graphs!
 - posted: September 30, 2014
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   markdown: |
     **New preprint** posted to ArXiv:
     [Hyperbolicity, Degeneracy, & Expansion of Random Intersection Graphs](http://arxiv.org/abs/1409.8196).
