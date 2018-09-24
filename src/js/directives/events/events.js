@@ -17,8 +17,8 @@ angular.module('theory-in-practice').directive('events', [function() {
 
             var recent = new Date();
             var horizon = new Date();
-            horizon.setMonth(now.getMonth() + MONTHS);
-            recent.setMonth(now.getMonth() - PREVMONTHS);
+            horizon.setMonth(horizon.getMonth() + MONTHS);
+            recent.setMonth(recent.getMonth() - PREVMONTHS);
 
             scope.upcoming = UPCOMING in attrs;
             scope.items = scope.contents.filter(function(item) {
