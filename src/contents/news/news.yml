@@ -6,7 +6,7 @@
     **Ph.D. students** Michael Suggs and Michael Breen-McKay, and **undergraduate researcher** Hayley Russell!
     (now on the <a ui-sref="people">People</a> page.)
 - posted: July 23, 2018
-  image: src/images/thumb/software.jpg
+  image: src/images/thumb/software.png
   featured: true
   markdown: |
       New open source release! Our package [ConSequences](https://github.com/TheoryInPractice/practical-oct) provides a framework for running contraction sequence algorithms for tensor network simulations, including Dockerized versions of PACE treewidth solvers.
