@@ -1,15 +1,15 @@
+- start: October 1, 2018
+  image: src/images/thumb/ts_tiny.jpg
+  markdown: |
+    (rescheduled from Sept. 17 due to Hurricane Florence) Dr. [Jack Snoeyink](https://www.cs.unc.edu/~snoeyink/) will be speaking at the [NC State Theory Seminar](https://www.csc2.ncsu.edu/theoryseminar/) on Changing the problem: Robust geometric computations for neutron tracking.
 - start: September 20, 2018
   image: src/images/thumb/talk.jpg
   markdown: |
-    Dr. Sullivan will giving the [Mathematics Department Colloquium](https://math.gatech.edu/seminars-colloquia/series/school-mathematics-colloquium/blair-sullivan-20180920) at Georgia Tech.
+    Dr. Sullivan will be giving the [Mathematics Department Colloquium](https://math.gatech.edu/seminars-colloquia/series/school-mathematics-colloquium/blair-sullivan-20180920) at Georgia Tech.
 - start: September 19, 2018
   image: src/images/thumb/talk.jpg
   markdown: |
-    Dr. Sullivan will giving a [Research Horizons Seminar](https://math.gatech.edu/seminars-colloquia/series/research-horizons-seminar/blair-sullivan-20180919) in the Mathematics Department at Georgia Tech.
-- start: September 17, 2018
-  image: src/images/thumb/ts_tiny.jpg
-  markdown: |
-    Dr. [Jack Snoeyink](https://www.cs.unc.edu/~snoeyink/) will be speaking at the [NC State Theory Seminar](https://www.csc2.ncsu.edu/theoryseminar/) on Changing the problem: Robust geometric computations for neutron tracking.
+    Dr. Sullivan will be giving a [Research Horizons Seminar](https://math.gatech.edu/seminars-colloquia/series/research-horizons-seminar/blair-sullivan-20180919) in the Mathematics Department at Georgia Tech.
 - start: September 11, 2018
   image: src/images/thumb/ncsu.jpg
   markdown: |
