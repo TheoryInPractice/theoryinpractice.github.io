@@ -1,3 +1,11 @@
+- start: November 4, 2018
+  image: src/images/thumb/doccourse.jpg
+  markdown: |
+    Dr. Sullivan will lecturing at the [Sparsity DocCourse](https://iuuk.mff.cuni.cz/events/doccourse2018/) at Charles University in Prague (exact dates TBA); Ph.D. student Brian Lavallee will be participating in the program, which runs November 4 - December 15.
+- start: October 19, 2018
+  image: src/images/thumb/talk.jpg
+  markdown: |
+    Dr. Sullivan will be giving the Mathematics Department Colloquium at the University of Central Florida.
 - start: October 1, 2018
   image: src/images/thumb/ts_tiny.jpg
   markdown: |
