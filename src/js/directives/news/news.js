@@ -6,7 +6,8 @@
 angular.module('theory-in-practice').directive('news', [function() {
 
     // Number of items to display if recent is specified
-    const RECENT_LIMIT = 4;
+    const RECENT_LIMIT = 6;
+    const FEATURED_LIMIT = 4;
 
     // Recent attribute
     const RECENT = 'recent';
@@ -26,7 +27,7 @@ angular.module('theory-in-practice').directive('news', [function() {
             if (scope.featured) {
                 scope.contents = scope.contents.filter(function(item) {
                     return item.featured;
-                }).slice(0, RECENT_LIMIT);
+                }).slice(0, FEATURED_LIMIT);
             }
 
         }
