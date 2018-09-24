@@ -2,9 +2,7 @@
   image: src/images/thumb/comingsoon_thumb.png
   featured: true
   markdown: |
-    We're delighted to announce our new members joining Theory In Practice in Fall 2018:
-    **Ph.D. students** Michael Suggs and Michael Breen-McKay, and **undergraduate researcher** Hayley Russell!
-    (now on the <a ui-sref="people">People</a> page.)
+    TiP has lots of new faces this fall! Find out more about **Ph.D. students** Michael Suggs and Michael Breen-McKay, and **undergraduate researcher** Hayley Russell on the <a ui-sref="people">People</a> page.
 - posted: July 23, 2018
   image: src/images/thumb/software.png
   featured: true
@@ -49,7 +47,7 @@
   markdown: |
       Dr. Sullivan has been elected Vice-Chair of the SIAM Activity Group on Discrete Mathematics (SIAGDM)!
 - posted: March 15, 2018
-  image: src/images/thumb/student.jpg
+  image: src/images/thumb/students.jpg
   featured: true
   markdown: |
       Congratulations to Dr. Mike O'Brien for successfully defending his dissertation!
@@ -85,7 +83,7 @@
   markdown: |
       Our paper [A practical fpt algorithm for Flow Decomposition and transcript assembly](https://arxiv.org/abs/1706.07851) is accepted to ALENEX 2018!
 - posted: August 31, 2017
-  image: src/images/thumb/students.jpg
+  image: src/images/thumb/student.png
   featured: true
   markdown: |
     TiP has lots of new faces this fall! Find out more about PhD students Abida Haque and Brian Lavallee, and undergraduates Allison Fisher and Andrew Wright on the <a ui-sref="people">People</a> page.
