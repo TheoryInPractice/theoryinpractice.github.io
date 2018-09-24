@@ -6,7 +6,7 @@
 angular.module('theory-in-practice').directive('news', [function() {
 
     // Number of items to display if recent is specified
-    const RECENT_LIMIT = 4;
+    const RECENT_LIMIT = 6;
 
     // Recent attribute
     const RECENT = 'recent';
