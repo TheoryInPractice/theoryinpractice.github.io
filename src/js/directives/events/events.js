@@ -15,14 +15,13 @@ angular.module('theory-in-practice').directive('events', [function() {
         scope: { contents: '=' },
         link: function(scope, element, attrs) {
 
-            var recent = new Date();
-            var horizon = new Date();
-            horizon.setMonth(horizon.getMonth() + MONTHS);
-            recent.setMonth(recent.getMonth() - PREVMONTHS);
+            let now = new Date();
+            let recent = new Date(now.getFullYear(), now.getMonth() - PREVMONTHS, now.getDate());
+            let horizon = new Date(now.getFullYear(), now.getMonth() + MONTHS, now.getDate());
 
             scope.upcoming = UPCOMING in attrs;
             scope.items = scope.contents.filter(function(item) {
-                var start = new Date(item.start);
+                let start = new Date(item.start);
                 if (scope.upcoming) {
                     return start > recent && start < horizon;
                 }
