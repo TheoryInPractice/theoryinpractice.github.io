@@ -1,10 +1,10 @@
-- image: src/images/software/consequences.svg
+- image: src/images/software/consequences.png
   name: ConSequences
   shortDescription: A code framework for contraction sequence algorithms.
   fullDescription:
     markdown: |
       Consequences provides a common interface for all existing algorithms for computing
-      contraction sequences for tensor networks. The framework includes container-based (Docker) wrappers for both treewidth-based and domain-specific solvers, as well as Python-based utilities supporting data conversions, command-line usage, and batch experiments.      
+      contraction sequences for tensor networks. The framework includes container-based (Docker) wrappers for both treewidth-based and domain-specific solvers, as well as Python-based utilities supporting data conversions, command-line usage, and batch experiments.
   link:
     href: https://github.com/TheoryInPractice/ConSequences
 - image: src/images/software/oct.svg
