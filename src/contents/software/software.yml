@@ -16,7 +16,7 @@
       for Odd Cycle Traversal (graph bipartization) based either on their runtime or the size of a discovered OCT set.
   link:
     href: https://github.com/TheoryInPractice/practical-oct
-- image: src/images/spiderdonuts_logo.png
+- image: src/images/software/spiderdonuts_logo.png
   name: Spider Donuts
   shortDescription: Analyzing node walk structure and centrality
   fullDescription:
@@ -24,7 +24,7 @@
       Spider Donuts is a Python software tool that implements tests for whether network nodes are structurally different and whether they can be ranked similarly by popular centrality measures for some parameter regimes. It includes generators for graphs with inhomogeneous walk structure.
   link:
     href: https://github.com/TheoryInPractice/spiderdonuts
-- image: src/images/concuss_logo.png
+- image: src/images/software/concuss_logo.png
   name: CONCUSS
   shortDescription: Combatting Network Complexity Using Structural Sparsity
   fullDescription:
@@ -47,7 +47,7 @@
       enables exploration of new coloring heuristics via detailed visualization of each step of the coloring stage.
   link:
     href: https://github.com/theoryinpractice/beavr
-- image: src/images/inddgo_logo.png
+- image: src/images/software/inddgo_logo.png
   name: INDDGO
   shortDescription: Integrated Network Decompositions & Dynamic programming for Graph Optimization
   fullDescription:
@@ -60,7 +60,7 @@
   link:
     href: https://github.com/bdsullivan/inddgo
 
-- image: src/images/spacegraphcats_logo.png
+- image: src/images/software/spacegraphcats_logo.png
   name: spacegraphcats
   shortDescription: Scalable Metagenome Querying
   fullDescription:
