@@ -5,6 +5,11 @@
     We're delighted to announce our new members joining Theory In Practice in Fall 2018:
     **Ph.D. students** Michael Suggs and Michael Breen-McKay, and **undergraduate researcher** Hayley Russell!
     (now on the <a ui-sref="people">People</a> page.)
+- posted: July 23, 2018
+  image: src/images/thumb/software.jpg
+  featured: true
+  markdown: |
+      New open source release! Our package [ConSequences](https://github.com/TheoryInPractice/practical-oct) provides a framework for running contraction sequence algorithms for tensor network simulations, including Dockerized versions of PACE treewidth solvers.
 - posted: July 12, 2018
   image: src/images/thumb/arxiv.jpg
   featured: true
@@ -15,6 +20,11 @@
   featured: true
   markdown: |
       A preprint of our paper introducing the concept of structural rounding is available on [ArXiv](https://arxiv.org/abs/1806.02771).
+- posted: May 2, 2018
+  image: src/images/thumb/software.png
+  featured: true
+  markdown: |
+    New open source release! Our package [PracticalOCT](https://github.com/TheoryInPractice/practical-oct) provides a suite of pre-processing routines, heuristic solvers, and harnesses for comparing algorithms for Odd Cycle Transversal (graph bipartization).
 - posted: May 2, 2018
   image: src/images/thumb/arxiv.jpg
   featured: true
