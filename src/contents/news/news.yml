@@ -14,12 +14,12 @@
   image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
-      A preprint of our paper evaluating contraction sequence algorithms for tensor networks is available on [ArXiv](https://arxiv.org/abs/1807.04599).
+      New preprint with Ph.D. students Timothy Goodrich and Eric Horton on evaluating contraction sequence algorithms for tensor networks now available on ArXiv: [Practical Graph Bipartization with Applications in Near-Term Quantum Computing](https://arxiv.org/abs/1807.04599).
 - posted: June 11, 2018
   image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
-      A preprint of our paper introducing the concept of structural rounding is available on [ArXiv](https://arxiv.org/abs/1806.02771).
+      New preprint _Structural Rounding: Approximation Algorithms for Graphs Near an Algorithmically Tractable Class_ now available on [ArXiv](https://arxiv.org/abs/1806.02771).
 - posted: May 2, 2018
   image: src/images/thumb/software.png
   markdown: |
@@ -28,7 +28,7 @@
   image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
-    A preprint of our paper on practical graph bipartization is available on [ArXiv](https://arxiv.org/pdf/1805.01041.pdf).
+    New preprint with Ph.D. student Timothy Goodrich and undergrad researchers Alison Fisher and Andrew Wright now on ArXiv: [Benchmarking treewidth as a practical component of tensor-network-based quantum simulation](https://arxiv.org/pdf/1805.01041.pdf).
 - posted: April 27, 2018
   image: src/images/thumb/papers_thumb.jpg
   featured: true
