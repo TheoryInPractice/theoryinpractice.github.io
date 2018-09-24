@@ -7,7 +7,7 @@ angular.module('theory-in-practice').directive('events', [function() {
 
     const UPCOMING = 'upcoming';
     const MONTHS = 3;
-    const PREVMONTHS = -1;
+    const PREVMONTHS = 1;
 
     return {
         restrict: 'E',
@@ -18,7 +18,7 @@ angular.module('theory-in-practice').directive('events', [function() {
             var recent = new Date();
             var horizon = new Date();
             horizon.setMonth(now.getMonth() + MONTHS);
-            recent.setMonth(now.getMonth() + PREVMONTHS);
+            recent.setMonth(now.getMonth() - PREVMONTHS);
 
             scope.upcoming = UPCOMING in attrs;
             scope.items = scope.contents.filter(function(item) {
