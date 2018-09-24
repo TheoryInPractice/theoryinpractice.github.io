@@ -23,6 +23,7 @@ researchInterests:
 teaching:
   image: src/images/teach.jpg
   markdown: |
+    * CSC565: Graph Theory; Spring 2019
     * CSC791/495: [Parameterized Algorithms and Complexity](https://github.com/bdsullivan/ParameterizedAlgorithms-Fall2017); Fall 2017
     * CSC801/295: CS Theory Reading Group; Spring 2016; Fall 2016, Spring 2017
     * CSC333: Automata, Grammars, and Computability; Fall 2014, Fall 2015
@@ -31,8 +32,10 @@ teaching:
 service:
   image: src/images/service.jpg
   markdown: |
+    * Vice-Chair, SIAM Activity Group on Discrete Mathematics (SIAGDM), 2017-2019
+    * Program Committee, [Complex Networks 2018](https://www.complexnetworks.org)
     * Program Committee, [ALENEX 2018](http://www.siam.org/meetings/alenex18/)
-    * Steering Committee, [SIAM Workshop on Network Science], 2016 - present
+    * Steering Committee, SIAM Workshop on Network Science, 2016 - present
     * Program Committee, [SIAM Conference on Discrete Mathematics](http://www.siam.org/meetings/dm16/), 2016
     * Co-Chair, Program Committee, [SIAM Workshop on Network Science (NS16)](http://www.siam.org/meetings/ns16/), 2016
     * Organizer, [NCSU CS Theory Seminar](http://www.csc2.ncsu.edu/theoryseminar/), 2013 - present
