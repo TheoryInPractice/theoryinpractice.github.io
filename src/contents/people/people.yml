@@ -25,9 +25,10 @@ gradstudents:
   about:
       href: http://erichorton.me
   markdown: |
-    Eric is a first-year MS student participating in the Accelerated Bachelors-Masters (ABM) program. He performed
-    undergraduate research on graph structure and continues to work with the lab as a software engineer. He enjoys
-    table-top gaming, science fiction, and playing his violin.
+    Eric is a first-year PhD student focusing on software engineering. He currently works with TiP to improve
+    coloring algorithms and implementations. As an undergraduate student, he worked with the lab to research
+    graph structure. As an MCS student, he worked on comparing solutions for Odd Cycle Transversal in a
+    quantum computing context. Eric enjoys table-top gaming, science fiction, and playing violin.
 - image: src/images/people/blavallee.jpg
   name: Brian Lavallee
   email: blavall(at)ncsu(dot)edu
