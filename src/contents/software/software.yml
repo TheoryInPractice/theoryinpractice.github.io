@@ -33,7 +33,7 @@
   link:
     href: https://github.com/theoryinpractice/concuss
 
-- image: src/images/software/toboggan_logo.png
+- image: src/images/software/toboggan_logo.svg
   name: Toboggan
   shortDescription: Decomposes Flows on DAGs into Minimal Number of Paths
   fullDescription:
@@ -62,7 +62,7 @@
   link:
     href: https://github.com/TheoryInPractice/spiderdonuts
 
-- image: src/images/software/beavr_logo.png
+- image: src/images/software/beavr_logo.svg
   name: BEAVr
   shortDescription: Bounded Expansion Algorithm Visualizer
   fullDescription:
