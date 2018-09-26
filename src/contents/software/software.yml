@@ -11,7 +11,7 @@
   link:
     href: https://github.com/spacegraphcats/spacegraphcats
 
-- image: src/images/software/oct.svg
+- image: src/images/software/oct_logo.svg
   name: Practical OCT
   shortDescription: Compare algorithms for Odd Cycle Traversal.
   fullDescription:
@@ -33,7 +33,7 @@
   link:
     href: https://github.com/theoryinpractice/concuss
 
-- image: src/images/comingsoon_logo.png
+- image: src/images/toboggan_logo.png
   name: Toboggan
   shortDescription: Decomposes Flows on DAGs into Minimal Number of Paths
   fullDescription:
@@ -62,7 +62,7 @@
   link:
     href: https://github.com/TheoryInPractice/spiderdonuts
 
-- image: src/images/comingsoon_logo.png
+- image: src/images/beavr_logo.png
   name: BEAVr
   shortDescription: Bounded Expansion Algorithm Visualizer
   fullDescription:
@@ -74,7 +74,7 @@
       enables exploration of new coloring heuristics via detailed visualization of each step of the coloring stage.
   link:
     href: https://github.com/theoryinpractice/beavr
-    
+
 - image: src/images/software/inddgo_logo.png
   name: INDDGO
   shortDescription: Integrated Network Decompositions & Dynamic programming for Graph Optimization
