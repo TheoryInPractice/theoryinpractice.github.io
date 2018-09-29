@@ -33,8 +33,9 @@ teaching:
 service:
   image: src/images/service.jpg
   markdown: |
-    * Vice-Chair, SIAM Activity Group on Discrete Mathematics (SIAGDM), 2017-2019
+    * Theory Focus Group Lead, NC State Computer Science, 2018 - present
     * Program Committee, [Complex Networks 2018](https://www.complexnetworks.org)
+    * Vice-Chair, SIAM Activity Group on Discrete Mathematics (SIAGDM), 2017-2019
     * Program Committee, [ALENEX 2018](http://www.siam.org/meetings/alenex18/)
     * Steering Committee, SIAM Workshop on Network Science, 2016 - present
     * Program Committee, [SIAM Conference on Discrete Mathematics](http://www.siam.org/meetings/dm16/), 2016
@@ -64,7 +65,7 @@ funding:
       Program, 2012-2014.
 talks:
   markdown: |
-    * _Data Science Lunch and Learn_, Research Triangle Institute (RTI), RTP, NC, December 2018 
+    * _Data Science Lunch and Learn_, Research Triangle Institute (RTI), RTP, NC, December 2018
     * _Mathematics Colloquium_, University of Central Florida, Orlando, FL, October 2018
     * Mathematics Colloquium, Georgia Institute of Technology, Atlanta, GA, September 2018
     * Workshop on Structural Sparsity, Logic, and Algorithms, University of Warwick, UK, July 2018
