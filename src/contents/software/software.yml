@@ -43,9 +43,18 @@
   link:
     href: https://github.com/TheoryInPractice/toboggan
 
+- image: src/images/software/aqc-embed_logo.png
+  name: AQC-Virtual-Embedding
+  shortDescription: Graph minor embedding into quantum annealing hardware.
+  fullDescription:
+    markdown: |
+       Framework for structured graph minor embeddings of optimization problems into quantum annealing hardware. Supports several embedding algorithms and reduction routines, including an approach using bipartite virtual hardware and odd cycle transversals to improve compilation into the D-Wave Chimera architecture.
+  link:
+    href: https://github.com/TheoryInPractice/AQC-Virtual-Embedding
+
 - image: src/images/software/consequences.png
   name: ConSequences
-  shortDescription: A code framework for contraction sequence algorithms.
+  shortDescription: Framework for tensor network contraction sequence algorithms.
   fullDescription:
     markdown: |
       Consequences provides a common interface for all existing algorithms for computing
