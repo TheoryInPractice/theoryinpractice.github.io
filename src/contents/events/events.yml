@@ -5,7 +5,11 @@
 - start: October 23, 2018
   image: src/images/thumb/video_thumb.jpg
   markdown: |
-    Dr. Sullivan will join representatives from RTI and SAS on a Data Science panel for the R-Ladies RTP Meetup. RSVP [here](https://www.meetup.com/R-Ladies-RTP/events/254509052/) and join us!
+    Dr. Sullivan will join representatives from RTI and SAS on a Data Science panel for the R-Ladies RTP Meetup at 6pm. RSVP [here](https://www.meetup.com/R-Ladies-RTP/events/254509052/) and join us!
+- start: October 23, 2018
+  image: src/images/thumb/talk.jpg
+  markdown: |
+    Dr. Sullivan is presenting on "Won't You Be My Neighbor? (how graph neighborhoods can improve metagenomic sequence analysis)" in the RTI Data Science Lunch & Learn Series.
 - start: October 19, 2018
   image: src/images/thumb/talk.jpg
   markdown: |

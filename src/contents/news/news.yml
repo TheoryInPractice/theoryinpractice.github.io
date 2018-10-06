@@ -1,8 +1,13 @@
+- posted: October 8, 2018
+  image: src/images/thumb/arxiv.jpg
+  featured: false
+  markdown: |
+      Major revision to our [manuscript](https://arxiv.org/abs/1406.2587) on structural sparsity in complex networks finally posted! 
 - posted: September 18, 2018
   image: src/images/thumb/comingsoon_thumb.png
   featured: true
   markdown: |
-    TiP has lots of new faces this fall! Find out more about **Ph.D. students** Michael Suggs and Michael Breen-McKay, and **undergraduate researcher** Hayley Russell on the <a ui-sref="people">People</a> page.
+      TiP has lots of new faces this fall! Find out more about **Ph.D. students** Michael Suggs and Michael Breen-McKay, and **undergraduate researcher** Hayley Russell on the <a ui-sref="people">People</a> page.
 - posted: July 23, 2018
   image: src/images/thumb/software.png
   featured: true
