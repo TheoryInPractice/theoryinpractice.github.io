@@ -15,17 +15,9 @@ postdocs:
   about:
     href: http://www4.ncsu.edu/~kakloste/
   markdown: |
-    Kyle joined Theory In Practice as a postdoctoral researcher in June 2016. He completed his Ph.D. in
-    Mathematics at Purdue University under the supervision of David Gleich.
-    In his free time he enjoys vaporwave, frisbee, and making things fast.
+    Kyle joined Theory In Practice as a postdoctoral researcher in June 2016.
+    He completed his Ph.D. in Mathematics at Purdue University under the supervision of David Gleich. He is interested in topics from sparse and structured graph theory and linear algebra, including graph analysis primitives like ranking and link prediction, and solving hard optimization problems.
 gradstudents:
-- image: src/images/people/ahaque.jpg
-  name: Abida Haque
-  email: ahaque3(at)ncsu(dot)edu
-  about:
-    href: WWW
-  markdown: |
-    Abida is a first-year Ph.D. student doing an independent study with TiP. She enjoys juggling and playing flute.
 - image: src/images/people/ewhorton.jpg
   name: Eric Horton
   email: ewhorton(at)ncsu(dot)edu
@@ -33,16 +25,17 @@ gradstudents:
   about:
       href: http://erichorton.me
   markdown: |
-    Eric is a first year MS student participating in the Accelerated Bachelors-Masters (ABM) program. He performed
-    undergraduate research on graph structure and continues to work with the lab as a software engineer. He enjoys
-    table-top gaming, science fiction, and playing his violin.
+    Eric is a first-year PhD student focusing on software engineering. He currently works with TiP to improve
+    coloring algorithms and implementations. As an undergraduate student, he worked with the lab to research
+    graph structure. As an MCS student, he worked on comparing solutions for Odd Cycle Transversal in a
+    quantum computing context. Eric enjoys table-top gaming, science fiction, and playing violin.
 - image: src/images/people/blavallee.jpg
   name: Brian Lavallee
   email: blavall(at)ncsu(dot)edu
   about:
     href: WWW
   markdown: |
-    Brian is a first-year Ph.D. student doing an independent study with TiP on local search in structurally sparse graphs.  He graduated from Duke University and enjoys following soccer and playing boardgames.
+    Brian is a second-year Ph.D. student working with TiP on local search and specialized coloring algorithms in structurally sparse graphs.  He graduated from Duke University and enjoys following soccer and playing boardgames.
 - image: src/images/people/ajvanderpoel.jpg
   name: Drew van der Poel
   email: ajvande4(at)ncsu(dot)edu
@@ -51,30 +44,45 @@ gradstudents:
   markdown: |
     Drew is a fifth-year Ph.D. student whose research currently focuses on problems pertaining to graph editing. He graduated from The College of Saint Rose, and enjoys playing and watching sports
     and spending time outdoors.
+- image: src/images/people/mjsuggs.jpg
+  name: Michael Suggs
+  email: mjsuggs(at)ncsu(dot)edu
+  about:
+    href: http://michaelsuggs.com
+  markdown: |
+    Michael is a first year Ph.D. student currently working with TiP on graph coloring. He graduated with degrees in Computer Science and Mathematics from UNC-Wilmington and fancies the playing the piano and lifting weights, though preferably not at the same time!
+- image: src/images/people/mjbreenm.jpg
+  name: Michael Breen-McKay
+  email: mjbreenm(at)ncsu(dot)edu
+  about:
+    href: WWW
+  markdown: |
+    Mike is a fourth year Ph.D. student in the math department and is working on an independent study with TiP this semester. He graduated from UNC Asheville and spends far too much of his free time playing disc golf and cooking.
 undergraduates:
-- image: src/images/people/anfisher.jpg
-  name: Allison Fisher
-  date: Fall 2017
-  markdown: |
-    Allison is a senior majoring in Computer Science with a minor in Cognitive Science.  She is also a Peer Mentor for the
-    CSC department's Freshman Peer Mentoring Program.
-- image: src/images/people/alwright.jpg
-  name: Andrew Wright
-  date: Fall 2017
-  markdown: |
-    Andrew is a junior majoring in Mathematics and Computer Science. He enjoys well typeset documents and long walks on the beach.
 - image: src/images/people/adwoodli.jpg
   name: Trey Woodlief
   date: Spring 2018
   markdown: |
-    Trey is a junior majoring in Electrical and Computer Engineering and Computer Science. He spends most of his time working with robots, either on campus with the IEEE Robotics team or off campus volunteering with FIRST.
-alumni:
-- image: src/images/people/ajchin.jpg
-  name: Alex Chin
-  date: Spring 2014
+    Trey is a senior majoring in Electrical and Computer Engineering and Computer Science. He spends most of his time working with robots, either on campus with the IEEE Robotics team or off campus volunteering with FIRST.
+- image: src/images/people/hsrussel.jpg
+  name: Hayley Russell
+  date: Fall 2018
   markdown: |
-    Alex graduated from NC State with BS degrees in Mathematics and Economics in Spring 2014, and is now pursuing a
-    PhD in Statistics at Stanford University.
+    Hayley is a senior majoring in Mathematics and Computer Science. In her free time, she enjoys watching Disney animated movies, creating intricate doodles, and formatting resumes.
+alumni:
+- image: src/images/people/freidl.jpg
+  name: Felix Reidl
+  date: January 2016 - April 2017
+  markdown: |
+    Felix was a postdoctoral researcher with Theory in Practice in 2016-17 who came to us after
+    completing a PhD at RWTH Aachen University. After completing a second postdoc at Royal Holloway University, he joined Birkbeck University in London as a Lecturer in Fall 2018.
+- image: src/images/people/mpobrien.jpg
+  name: Michael P. O'Brien
+  date: Fall 2013 - Spring 2018
+  markdown: |
+    Mike completed his doctoral dissertation "A Multifaceted Approach to Improving
+    the Practicality of Structural Graph Algorithms" advised by Dr. Sullivan in 2018.
+    Upon graduating he took a job at Google.
 - image: src/images/people/tdgoodrich.jpg
   name: Timothy Goodrich
   date: Fall 2014 - Spring 2018
@@ -83,47 +91,53 @@ alumni:
     href: https://tdgoodrich.github.io/
   markdown: |
     Timothy worked with the Theory in Practice group on random graph models and algorithms with applications in quantum computing. He is now concluding his dissertation with Dr. Stallmann in experimental algorithmics.
-- image: src/images/people/cghobbs.jpg
-  name: Clayton Hobbs
-  date: Spring, Summer 2015; Spring 2016
+- image: src/images/people/ahaque.jpg
+  name: Abida Haque
+  date: Fall 2017
   markdown: |
-    Clay graduated from NC State with a BS in Computer Science in Spring 2016.
+    Abida did an independent study with the Theory in Practice group as a first-year Ph.D. student.
+- image: src/images/people/anfisher.jpg
+  name: Allison Fisher
+  date: Fall 2017 - Spring 2018
+  markdown: |
+    Allison worked with Theory in Practice group on using treewidth in tensor network simulations. She is currently completing her B.S. in Computer Science at NC State.
+- image: src/images/people/alwright.jpg
+  name: Andrew Wright
+  date: Fall 2017 - Spring 2018
+  markdown: |
+    Andrew worked with Theory in Practice group on using treewidth in tensor network simulations. He is currently completing his B.S. in Mathematics and Computer Science at NC State.
+- image: src/images/comingsoon.png
+  name: Jean-Claude Shore
+  date: Fall 2016 - Spring 2017
+  markdown: |
+    Jean-Claude completed his NC State Honors Capstone ``Detecting Dense Structure in Sparse Graphs with Spectral Analysis'' with Theory in Practice. After graduating (as a Valedictorian) with a BS in Computer Science in Spring 2018, he took a job with Pendo.io. 
+- image: src/images/people/nrodrig.jpg
+  name: Nishant Rodrigues
+  date: Summer, Fall 2015; Spring 2016
+  markdown: |
+    Nishant graduated with a BS in Computer Science in Spring 2016, and is now pursuing a PhD in Computer Science at
+    the University of Maryland, College Park, where he is working in cryptography.
+- image: src/images/people/bpmork.jpg
+  name: Brandon Mork
+  date: Spring, Fall 2015; Spring 2016
+  markdown: |
+    Brandon worked with the Theory in Practice group on BEAVr. He graduated
+    with a BS in Computer Science in Spring 2017 and is now a software developer
+    with Sageworks.
 - image: src/images/people/yho.jpg
   name: Yang Ho
   date: Summer, Fall 2015; Spring 2016
   markdown: |
     Yang graduated with BS degrees in Computer Science and Physics in Spring 2016, and is continuing his career at NC
     State as a CSC MS student in the Accelerated Bachelors-Masters program.
-- image: src/images/people/bpmork.jpg
-  name: Brandon Mork
-  date: Spring, Fall 2015; Spring 2016
+- image: src/images/people/cghobbs.jpg
+  name: Clayton Hobbs
+  date: Spring, Summer 2015; Spring 2016
   markdown: |
-    Brandon worked with the Theory in Practice group as a sophomore/junior. He graduated
-    with a BS in Computer Science in Spring 2017 and is now a software developer
-    with Sageworks.
-- image: src/images/people/nrodrig.jpg
-  name: Nishant Rodrigues
-  date: Summer, Fall 2015; Spring 2016
+    Clay graduated from NC State with a BS in Computer Science in Spring 2016 and started in the Computer Science Ph.D. program at UNC Chapel Hill in Fall 2018.
+- image: src/images/people/ajchin.jpg
+  name: Alex Chin
+  date: Spring 2014
   markdown: |
-    Nishant graduated with a BS in Computer Science in Spring 2016, and is now pursuing a PhD in Computer Science at
-    the University of Maryland, College Park, where he is currently interested in cryptography.
-- image: src/images/people/freidl.jpg
-  name: Felix Reidl
-  date: January 2016 - April 2017
-  markdown: |
-    Felix was a postdoctoral researcher with Theory in Practice in 2016-17 who came to us after
-    completing a PhD at RWTH Aachen University. He is currently a postdoc at Royal Holloway University in London.
-- image: src/images/comingsoon.png
-  name: Jean-Claude Shore
-  date: Fall 2016; Spring 2017
-  markdown: |
-    Jean-Claude worked with the Theory in Practice group as a junior. He is now a
-    senior co-op student double majoring in computer science and mathematics.
-    He also plays in the NC State marching band.
-- image: src/images/people/mpobrien.jpg
-  name: Michael P. O'Brien
-  date: Fall 2013 - Spring 2018
-  markdown: |
-    Mike completed his doctoral dissertation "A Multifaceted Approach to Improving
-    the Practicality of Structural Graph Algorithms" advised by Dr. Sullivan in 2018.
-    Upon graduating he took a job at Google.
+    Alex worked with Theory in Practice on random intersection graphs. He graduated from NC State with BS degrees in Mathematics and Economics in Spring 2014, and is now pursuing a
+    PhD in Statistics at Stanford University working with Johan Ugander.

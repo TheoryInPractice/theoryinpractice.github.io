@@ -1,57 +1,4 @@
-- image: src/images/software/oct.svg
-  name: Practical OCT
-  shortDescription: Compare algorithms for Odd Cycle Traversal.
-  fullDescription:
-    markdown: |
-      Practical OCT is a suite of pre-processing routines, heuristics, solvers, and harnesses used to compare algorithms
-      for Odd Cycle Traversal (graph bipartization) based either on their runtime or the size of a discovered OCT set.
-  link:
-    href: https://github.com/TheoryInPractice/practical-oct
-- image: src/images/spiderdonuts_logo.png
-  name: Spider Donuts
-  shortDescription: Analyzing node walk structure and centrality
-  fullDescription:
-    markdown: |
-      Spider Donuts is a Python software tool that implements tests for whether network nodes are structurally different and whether they can be ranked similarly by popular centrality measures for some parameter regimes. It includes generators for graphs with inhomogeneous walk structure.
-  link:
-    href: https://github.com/TheoryInPractice/spiderdonuts
-- image: src/images/concuss_logo.png
-  name: CONCUSS
-  shortDescription: Combatting Network Complexity Using Structural Sparsity
-  fullDescription:
-    markdown: |
-      CONCUSS is a Python software tool for large scale graph analytics whose efficiency and scalability come from
-      exploiting the underlying "structural sparsity" of the data. Current modules use low-treedepth colorings
-      (guaranteed in graph classes of bounded expansion) and allow users to count the number of occurrences of a
-      specific pattern within a graph (i.e. subgraph isomorphism counting).
-  link:
-    href: https://github.com/theoryinpractice/concuss
-- image: src/images/comingsoon_logo.png
-  name: BEAVr
-  shortDescription: Bounded Expansion Algorithm Visualizer
-  fullDescription:
-    markdown: |
-      BEAVr is a Python tool offering interactive visualization of the algorithmic pipeline for counting subgraph
-      isomorphisms in graph classes of bounded expansion, as implemented in CONCUSS. BEAVr visually represents the data
-      transformations and information in each stage of the pipeline (p-centered colorings, tree-depth decompositions,
-      dynamic programming with k-patterns, and final counts via inclusion-exclusion). For researchers, BEAVr also
-      enables exploration of new coloring heuristics via detailed visualization of each step of the coloring stage.
-  link:
-    href: https://github.com/theoryinpractice/beavr
-- image: src/images/inddgo_logo.png
-  name: INDDGO
-  shortDescription: Integrated Network Decompositions & Dynamic programming for Graph Optimization
-  fullDescription:
-    markdown: |
-      The INDDGO software package offers a set of tools for finding exact solutions to graph optimization problems via
-      tree decompositions and dynamic programming algorithms. Currently the C++/MPI framework offers serial and
-      parallel (distributed memory) algorithms for finding tree decompositions and solving the maximum weighted
-      independent set problem. The parallel dynamic programming algorithm is implemented on top of the MADNESS
-      task-based runtime. This software is no longer under active development.
-  link:
-    href: https://github.com/bdsullivan/inddgo
-
-- image: src/images/spacegraphcats_logo.png
+- image: src/images/software/spacegraphcats_logo.png
   name: spacegraphcats
   shortDescription: Scalable Metagenome Querying
   fullDescription:
@@ -64,7 +11,29 @@
   link:
     href: https://github.com/spacegraphcats/spacegraphcats
 
-- image: src/images/comingsoon_logo.png
+- image: src/images/software/oct_logo.svg
+  name: Practical OCT
+  shortDescription: Compare algorithms for Odd Cycle Traversal.
+  fullDescription:
+    markdown: |
+      Practical OCT is a suite of pre-processing routines, heuristics, solvers, and harnesses used to compare algorithms
+      for Odd Cycle Traversal (graph bipartization) based either on their runtime or the size of a discovered OCT set.
+  link:
+    href: https://github.com/TheoryInPractice/practical-oct
+
+- image: src/images/software/concuss_logo.png
+  name: CONCUSS
+  shortDescription: Combatting Network Complexity Using Structural Sparsity
+  fullDescription:
+    markdown: |
+      CONCUSS is a Python software tool for large scale graph analytics whose efficiency and scalability come from
+      exploiting the underlying "structural sparsity" of the data. Current modules use low-treedepth colorings
+      (guaranteed in graph classes of bounded expansion) and allow users to count the number of occurrences of a
+      specific pattern within a graph (i.e. subgraph isomorphism counting).
+  link:
+    href: https://github.com/theoryinpractice/concuss
+
+- image: src/images/software/toboggan_logo.svg
   name: Toboggan
   shortDescription: Decomposes Flows on DAGs into Minimal Number of Paths
   fullDescription:
@@ -73,3 +42,57 @@
       a problem that commonly occurs in transcript and metagenomic assembly.
   link:
     href: https://github.com/TheoryInPractice/toboggan
+
+- image: src/images/software/aqc-embed_logo.png
+  name: AQC-Virtual-Embedding
+  shortDescription: Graph minor embedding into quantum annealing hardware.
+  fullDescription:
+    markdown: |
+       Framework for structured graph minor embeddings of optimization problems into quantum annealing hardware. Supports several embedding algorithms and reduction routines, including an approach using bipartite virtual hardware and odd cycle transversals to improve compilation into the D-Wave Chimera architecture.
+  link:
+    href: https://github.com/TheoryInPractice/AQC-Virtual-Embedding
+
+- image: src/images/software/consequences.png
+  name: ConSequences
+  shortDescription: Framework for tensor network contraction sequence algorithms.
+  fullDescription:
+    markdown: |
+      Consequences provides a common interface for all existing algorithms for computing
+      contraction sequences for tensor networks. The framework includes container-based (Docker) wrappers for both treewidth-based and domain-specific solvers, as well as Python-based utilities supporting data conversions, command-line usage, and batch experiments.
+  link:
+    href: https://github.com/TheoryInPractice/ConSequences
+
+- image: src/images/software/spiderdonuts_logo.png
+  name: Spider Donuts
+  shortDescription: Analyzing node walk structure and centrality
+  fullDescription:
+    markdown: |
+      Spider Donuts is a Python software tool that implements tests for whether network nodes are structurally different and whether they can be ranked similarly by popular centrality measures for some parameter regimes. It includes generators for graphs with inhomogeneous walk structure.
+  link:
+    href: https://github.com/TheoryInPractice/spiderdonuts
+
+- image: src/images/software/beavr_logo.svg
+  name: BEAVr
+  shortDescription: Bounded Expansion Algorithm Visualizer
+  fullDescription:
+    markdown: |
+      BEAVr is a Python tool offering interactive visualization of the algorithmic pipeline for counting subgraph
+      isomorphisms in graph classes of bounded expansion, as implemented in CONCUSS. BEAVr visually represents the data
+      transformations and information in each stage of the pipeline (p-centered colorings, tree-depth decompositions,
+      dynamic programming with k-patterns, and final counts via inclusion-exclusion). For researchers, BEAVr also
+      enables exploration of new coloring heuristics via detailed visualization of each step of the coloring stage.
+  link:
+    href: https://github.com/theoryinpractice/beavr
+
+- image: src/images/software/inddgo_logo.png
+  name: INDDGO
+  shortDescription: Integrated Network Decompositions & Dynamic programming for Graph Optimization
+  fullDescription:
+    markdown: |
+      The INDDGO software package offers a set of tools for finding exact solutions to graph optimization problems via
+      tree decompositions and dynamic programming algorithms. Currently the C++/MPI framework offers serial and
+      parallel (distributed memory) algorithms for finding tree decompositions and solving the maximum weighted
+      independent set problem. The parallel dynamic programming algorithm is implemented on top of the MADNESS
+      task-based runtime. This software is no longer under active development.
+  link:
+    href: https://github.com/bdsullivan/inddgo

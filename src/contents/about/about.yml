@@ -3,15 +3,16 @@ overview:
   markdown: |
     ### Dr. Blair D. Sullivan
 
-    * **Associate Professor**, Department of Computer Science, North Carolina State University
+    * **Associate Professor**, [Department of Computer Science](http://www.csc.ncsu.edu), North Carolina State University
     * _Chancellor's Faculty Excellence Program_,
       [Data-Driven Science Cluster](http://workthatmatters.ncsu.edu/data-driven-science/)
-    * **Joint Faculty**, Computer Science and Mathematics Division, Oak Ridge National Laboratory
+    * **Associate Faculty**, [Department of Mathematics](http://www.math.ncsu.edu), North Carolina State University
+    * **Joint Faculty**, Complex Systems Group, Oak Ridge National Laboratory
 
 
     _**Contact Information:**_
 
-    * 890 Oval Drive, 3280 EBII
+    * 890 Oval Drive, 3280 EBII (Lab: 3233)
     * Raleigh, NC 27606
     * _**Email:**_ blair_sullivan(at)ncsu(dot)edu
     * _**Phone:**_ 919.513.0453
@@ -23,6 +24,7 @@ researchInterests:
 teaching:
   image: src/images/teach.jpg
   markdown: |
+    * CSC565: Graph Theory; Spring 2019
     * CSC791/495: [Parameterized Algorithms and Complexity](https://github.com/bdsullivan/ParameterizedAlgorithms-Fall2017); Fall 2017
     * CSC801/295: CS Theory Reading Group; Spring 2016; Fall 2016, Spring 2017
     * CSC333: Automata, Grammars, and Computability; Fall 2014, Fall 2015
@@ -31,8 +33,11 @@ teaching:
 service:
   image: src/images/service.jpg
   markdown: |
+    * Theory Focus Group Lead, NC State Computer Science, 2018 - present
+    * Program Committee, [Complex Networks 2018](https://www.complexnetworks.org)
+    * Vice-Chair, SIAM Activity Group on Discrete Mathematics (SIAGDM), 2017-2019
     * Program Committee, [ALENEX 2018](http://www.siam.org/meetings/alenex18/)
-    * Steering Committee, [SIAM Workshop on Network Science], 2016 - present
+    * Steering Committee, SIAM Workshop on Network Science, 2016 - present
     * Program Committee, [SIAM Conference on Discrete Mathematics](http://www.siam.org/meetings/dm16/), 2016
     * Co-Chair, Program Committee, [SIAM Workshop on Network Science (NS16)](http://www.siam.org/meetings/ns16/), 2016
     * Organizer, [NCSU CS Theory Seminar](http://www.csc2.ncsu.edu/theoryseminar/), 2013 - present
@@ -58,17 +63,14 @@ funding:
       Seed Fund, 2014.
     * Principal Investigator, SPARTN: Sparse Projections Achieving Randomization in Tree-like Networks. DARPA GRAPHS
       Program, 2012-2014.
-    * Principal Investigator, Connecting Combinatorial and Geometric Tree-Like Structure in Complex Networks. ORNL
-      LDRD SEED Fund, 2011-2012.
-    * Principal Investigator, Scalable Graph Decomposition and Algorithms to Support the Analysis of Petascale Data.
-      U.S. Dept. of Energy (DOE) Office of Advanced Scientific Computing Research (ASCR), 2009-2012.
 talks:
   markdown: |
-    * ICERM Workshop on the Mathematics of Data Science, Providence, RI, July, 2015
-    * MBI Workshop on Generalized Network Structures and Dynamics, Columbus, OH, March 2016
-    * Kennesaw State University Infinite Horizons Series, Atlanta, GA, April 2016
-    * SIAM Discrete Math, The Mathematics behind Big Data Analysis Minisymposium, Atlanta, GA, June 2016
-    * Duke Network Analysis Center Seminar, Durham, NC, November 2016
-    * University of Pennsylvania Applied Topology Seminar, Philadelphia, PA, March 2017
+    * _Data Science Lunch and Learn_, Research Triangle Institute (RTI), RTP, NC, December 2018
+    * _Mathematics Colloquium_, University of Central Florida, Orlando, FL, October 2018
+    * Mathematics Colloquium, Georgia Institute of Technology, Atlanta, GA, September 2018
+    * Workshop on Structural Sparsity, Logic, and Algorithms, University of Warwick, UK, July 2018
+    * Data Institute SF (DSCO17), San Francisco, CA, October 2017
     * Cumberland Conference on Combinatorics, Graph Theory and Computing, Nashville, TN, May 2017
-    * _Data Institute SF (DSCO17), San Francisco, CA, October 2017_
+    * Duke Network Analysis Center Seminar, Durham, NC, November 2016
+    * SIAM Discrete Math, The Mathematics behind Big Data Analysis Minisymposium, Atlanta, GA, June 2016
+    * ICERM Workshop on the Mathematics of Data Science, Providence, RI, July, 2015

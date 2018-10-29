@@ -3,29 +3,42 @@
   featured: true
   markdown: |
       A preprint of our paper on using OCT sets to enumerate maximal induced bicliques is available on [ArXiv](https://arxiv.org/abs/1810.11421).
+- posted: September 18, 2018
+  image: src/images/thumb/comingsoon_thumb.png
+  featured: true
+  markdown: |
+    TiP has lots of new faces this fall! Find out more about **Ph.D. students** Michael Suggs and Michael Breen-McKay, and **undergraduate researcher** Hayley Russell on the <a ui-sref="people">People</a> page.
+- posted: July 23, 2018
+  image: src/images/thumb/software.png
+  featured: true
+  markdown: |
+      New open source release! Our package [ConSequences](https://github.com/TheoryInPractice/practical-oct) provides a framework for running contraction sequence algorithms for tensor network simulations, including Dockerized versions of PACE treewidth solvers.
 - posted: July 12, 2018
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
-      A preprint of our paper evaluating contraction sequence algorithms for tensor networks is available on [ArXiv](https://arxiv.org/abs/1807.04599).
+      New preprint with Ph.D. students Timothy Goodrich and Eric Horton on evaluating contraction sequence algorithms for tensor networks now available on ArXiv: [Practical Graph Bipartization with Applications in Near-Term Quantum Computing](https://arxiv.org/abs/1807.04599).
 - posted: June 11, 2018
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
-      A preprint of our paper introducing the concept of structural rounding is available on [ArXiv](https://arxiv.org/abs/1806.02771).
+      New preprint _Structural Rounding: Approximation Algorithms for Graphs Near an Algorithmically Tractable Class_ now available on [ArXiv](https://arxiv.org/abs/1806.02771).
 - posted: May 2, 2018
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/software.png
+  markdown: |
+    New open source release! Our package [PracticalOCT](https://github.com/TheoryInPractice/practical-oct) provides a suite of pre-processing routines, heuristic solvers, and harnesses for comparing algorithms for Odd Cycle Transversal (graph bipartization).
+- posted: May 2, 2018
+  image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
-    A preprint of our paper on practical graph bipartization is available on [ArXiv](https://arxiv.org/pdf/1805.01041.pdf).
+    New preprint with Ph.D. student Timothy Goodrich and undergrad researchers Alison Fisher and Andrew Wright now on ArXiv: [Benchmarking treewidth as a practical component of tensor-network-based quantum simulation](https://arxiv.org/pdf/1805.01041.pdf).
 - posted: April 27, 2018
   image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
       Our paper [Treedepth Bounds in Linear Colorings](https://arxiv.org/abs/1802.09665) was accepted for publication at WG 2018!
 - posted: April 18, 2018
-  image: src/images/thumb/papers_thumb.jpg
-  featured: true
+  image: src/images/thumb/arxiv.jpg
   markdown: |
       A preprint of our paper exploring when centrality measures can fool us is available on [ArXiv](https://arxiv.org/abs/1804.05966).
 - posted: April 15, 2018
@@ -33,12 +46,18 @@
   featured: true
   markdown: |
       Our paper [Optimizing Adiabatic Quantum Program Compilation using a Graph-Theoretic Framework][ArXiv](https://arxiv.org/abs/1704.01996) was published in Quantum Information Processing!
-- posted: March 15, 2018
-  image: src/images/students.jpg
+- posted: March 30, 2018
+  image: src/images/thumb/siam.jpg
+  featured: true
   markdown: |
-      Congratulations to Dr. Mike O'Brien for successfully defending his disseration!
+      Dr. Sullivan has been elected Vice-Chair of the SIAM Activity Group on Discrete Mathematics (SIAGDM)!
+- posted: March 15, 2018
+  image: src/images/thumb/students.jpg
+  featured: true
+  markdown: |
+      Congratulations to Dr. Mike O'Brien for successfully defending his dissertation!
 - posted: February 28, 2018
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
       A preprint of our paper that investigates a new low-treedepth coloring is available on [ArXiv](http://arxiv.org/abs/1802.09665).
@@ -54,12 +73,12 @@
     Welcome to our **Spring 2018 undergraduate researcher**: Trey Woodlief!
     (now on the <a ui-sref="people">People</a> page.)
 - posted: December 20, 2017
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   featured: true
   markdown: |
       A preprint of our paper evaluating [CONCUSS](https://github.com/TheoryInPractice/CONCUSS) to count subgraph isomorphisms is available on [ArXiv](http://arxiv.org/abs/1712.06690).
 - posted: November 16, 2017
-  image: src/images/ncsu.jpg
+  image: src/images/thumb/ncsu.jpg
   featured: true
   markdown: |
       Dr. Sullivan is now Associate Faculty in the [NC State Mathematics Department](http://www.math.ncsu.edu).
@@ -69,12 +88,12 @@
   markdown: |
       Our paper [A practical fpt algorithm for Flow Decomposition and transcript assembly](https://arxiv.org/abs/1706.07851) is accepted to ALENEX 2018!
 - posted: August 31, 2017
-  image: src/images/students.jpg
+  image: src/images/thumb/student.png
   featured: true
   markdown: |
     TiP has lots of new faces this fall! Find out more about PhD students Abida Haque and Brian Lavallee, and undergraduates Allison Fisher and Andrew Wright on the <a ui-sref="people">People</a> page.
 - posted: June 28, 2017
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   markdown: |
     A preprint of our paper on using [Toboggan](https://github.com/TheoryInPractice/toboggan) to solve flow decompositions for transcript assembly is available on [ArXiv](https://arxiv.org/abs/1706.07851).
 - posted: June 12, 2017
@@ -88,12 +107,12 @@
   markdown: |
       Our new [Army Research Office grant](https://www.csc.ncsu.edu/news/2026) will support work on new algorithms for noisy networks. Looking forward to collaborating with [Erik Demaine's](http://erikdemaine.org) team at MIT on this project!
 - posted: April 2, 2017
-  image: src/images/software.png
+  image: src/images/thumb/software.png
   featured: true
   markdown: |
     New open source release! Our package [Toboggan](https://github.com/TheoryInPractice/toboggan) computes optimal flow decompositions, useful for transcript and metagenomic assembly.
 - posted: October 17, 2016
-  image: src/images/students.jpg
+  image: src/images/thumb/students.jpg
   markdown: |
     Congrats to Ph.D. student Timothy Goodrich on passing his written preliminary exam (890)!
 - posted: August 1, 2016
@@ -109,19 +128,19 @@
     Joint paper with Ph.D. student Andrew van der Poel "A Fast Parameterized Algorithm for Co-Path Set"
     accepted at IPEC 2016!
 - posted: July 17, 2016
-  image: src/images/siam.jpg
+  image: src/images/thumb/siam.jpg
   featured: true
   markdown: |
     [#SIAMNS16](http://www.siam.org/meetings/ns16/) had a record number of submissions -- and attendees!
     Members of Theory in Practice had five accepted abstracts (2 posters, 2 talks, 1 IGNITE).
 - posted: May 15, 2016
-  image: src/images/students.jpg
+  image: src/images/thumb/students.jpg
   featured: true
   markdown: |
     Ph.D. student Timothy Goodrich has been awarded a
     [NASA/NC Space Grant Graduate Research Fellowship](http://www.ncspacegrant.org) for Summer 2016
 - posted: April 5, 2016
-  image: src/images/students.jpg
+  image: src/images/thumb/students.jpg
   markdown: |
     Ph.D. student Timothy Goodrich has been awarded a 2016
     [National Defense Science & Engineering Graduate (NDSEG) Fellowship!](https://ndseg.asee.org)
@@ -131,17 +150,17 @@
     We're delighted to announce that **Kyle Kloster** from Purdue University will be joining Theory In Practice
     as a postdoc in June 2016.
 - posted: March 14, 2016
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   markdown: |
     **New preprint** with Ph.D. student A. van der Poel posted to ArXiv:
     [A Fast Parameterized Algorithm for Co-Path Set](http://arxiv.org/abs/1603.04376).
 - posted: February 5, 2016
-  image: src/images/clusters.jpg
+  image: src/images/thumb/clusters.jpg
   markdown: |
     Come check out what's going on with data at the NC State Data Science Initiative's
     [2016 Winter Symposium](https://research.ncsu.edu/dsi/winter-symposium/).
 - posted: January 15, 2016
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/ncsu.jpg
   markdown: |
     The new CS Theory Reading Group is up and running for Spring 2016 (with 16 regular attendees!)
     Check out the [papers we're reading](src/docs/readings_spring16.pdf).
@@ -152,7 +171,7 @@
     <a ui-sref="people">undergraduates</a> have greatly improved efficiency - be sure to grab the latest version from
     [github](https://www.github.com/theoryinpractice/concuss).
 - posted: October 30, 2015
-  image: src/images/jobs.jpg
+  image: src/images/thumb/jobs.jpg
   markdown: |
     We have a **new postdoc opening** (anticipated start date in June 2016)! Details on the <a ui-sref="people">People</a> page
     ([official ad](https://jobs.ncsu.edu/postings/59947)).
@@ -167,11 +186,11 @@
     Paper [Hyperbolicity, degeneracy, and expansion of random intersection graphs](http://arxiv.org/abs/)
     accepted at [WAW 2015](https://www.cs.purdue.edu/waw2015/)!
 - posted: September 4, 2015
-  image: src/images/students.jpg
+  image: src/images/thumb/students.jpg
   markdown: |
     Congrats to Ph.D. student Drew van der Poel on passing his written preliminary exam (890)!
 - posted: September 2, 2015
-  image: src/images/software.png
+  image: src/images/thumb/software.png
   markdown: |
     New open source release! Check out CONCUSS: Combatting Network Complexity Using Structural Sparsity
     [on github](https://www.github.com/theoryinpractice/concuss).
@@ -187,7 +206,7 @@
     Paper [Multi-Level Anomaly Detection on Time-Varying Graph Data](http://arxiv.org/abs/1410.4355) accepted at
     [ASONAM 2015](http://asonam.cpsc.ucalgary.ca/2015/)!
 - posted: July 15, 2015
-  image: src/images/siam.jpg
+  image: src/images/thumb/siam.jpg
   markdown: |
     Dr. Sullivan is co-chairing the 2016 SIAM Workshop on Network Science!
 - posted: July 1, 2015
@@ -196,37 +215,37 @@
     Paper [On the Threshold of Intractability](http://arxiv.org/abs/1505.00612) accepted at
     [ESA 2015](http://algo2015.upatras.gr/esa/)!
 - posted: June 15, 2015
-  image: src/images/clusters.jpg
+  image: src/images/thumb/clusters.jpg
   markdown: |
     Dr. Sullivan selected for the NC State Chancellor's Faculty Excellence Program as a member of the
     [Data-Driven Science Cluster](http://workthatmatters.ncsu.edu/data-driven-science)
 - posted: June 3, 2015
-  image: src/images/siam.jpg
+  image: src/images/thumb/siam.jpg
   markdown: |
     Talk from SIAM Workshop on Network Science is now [online!](https://www.pathlms.com/siam/courses/1284)
 - posted: June 1, 2015
-  image: src/images/ncsu.jpg
+  image: src/images/thumb/ncsu.jpg
   markdown: |
     Welcome to our **summer undergraduate researchers**: Yang Ho, Clayton Hobbs, and Nishant Rodrigues!
     (now on the <a ui-sref="people">People</a> page.)
 - posted: May 4, 2015
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   markdown: |
     **New preprint** posted to ArXiv: [On the Threshold of Intractability](http://arxiv.org/abs/1505.00612).
 - posted: April 14, 2015
-  image: src/images/poster.png
+  image: src/images/thumb/poster.png
   markdown: |
     Undergrad researchers Brandon Mork and Clayton Hobbs presented posters at the NC State Undergraduate Research Symposium.
 - posted: April 1, 2015
-  image: src/images/twitter.png
+  image: src/images/thumb/twitter.png
   markdown: |
     We're on Twitter [**@BlairDSullivan**](https://twitter.com/BlairDSullivan) (despite the date, this is no joke).
 - posted: March 27, 2015
-  image: src/images/netsci.jpg
+  image: src/images/thumb/netsci.jpg
   markdown: |
     Abstract selected for talk (from a record 415 submissions!) at [NetSci 2015](http://www.netsci2015.net)!
 - posted: February 26, 2015
-  image: src/images/SIAM.jpg
+  image: src/images/thumb/SIAM.jpg
   markdown: |
     Abstract selected for presentation at [SIAM Workshop on Network Science](http://www.siam.org/meetings/ns15/)
 - posted: February 6, 2015
@@ -239,30 +258,30 @@
     Dr. Sullivan joined other [**Moore Investigators in Data-Driven Discovery** 12-2pm Pacific](http://bit.ly/DDDinvestigators)
     in hosting a [Reddit Science](http://www.reddit.com/r/science/) AMA
 - posted: January 20, 2015
-  image: src/images/ncsu.jpg
+  image: src/images/thumb/ncsu.jpg
   markdown: |
     Welcome to our **new undergraduate researchers**, Brandon Mork and Clayton Hobbs! (now on the
     <a ui-sref="people">People</a> page!)
 - posted: January 2, 2015
-  image: src/images/jobs.jpg
+  image: src/images/thumb/jobs.jpg
   markdown: |
     **Postdoc Position Available!** More information [available here](src/docs/postdoc_2015.pdf).
 - posted: December 15, 2014
-  image: src/images/icerm.png
+  image: src/images/thumb/icerm.png
   markdown: |
     ICERM is hosting a Workshop on the Mathematics in Data Science in July 2015 -
     [apply to participate!](http://icerm.brown.edu/topical_workshops/tw15-6-mds)
     (Dr. Sullivan is one of the invited speakers)
 - posted: November 7, 2014
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   markdown: |
     **New preprint** posted to ArXiv: [Tree decompositions and social graphs](http://arxiv.org/abs/1411.1546)
 - posted: October 23, 2014<
-  image: src/images/zznl.jpg
+  image: src/images/thumb/zznl.jpg
   markdown: |
     **New preprint** posted to ArXiv: [Zig-Zag Numberlink is NP-Complete](http://arxiv.org/abs/1410.5845)
 - posted: October 17, 2014
-  image: src/images/football.jpg
+  image: src/images/thumb/football.jpg
   markdown: |
     **New preprint** posted to ArXiv: [Multi-Level Anomaly Detection on Streaming Graph Data](http://arxiv.org/abs/1410.4355)
 - posted: October 2, 2014
@@ -275,12 +294,12 @@
     Super excited to start work on our new *DARPA GRAPHS* project, PARSiNG: Parameterized Algorithms Respecting
     Structure in Noisy Graphs!
 - posted: September 30, 2014
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/arxiv.jpg
   markdown: |
     **New preprint** posted to ArXiv:
     [Hyperbolicity, Degeneracy, & Expansion of Random Intersection Graphs](http://arxiv.org/abs/1409.8196).
 - posted: September 19, 2014
-  image: src/images/kcore3.jpg
+  image: src/images/thumb/kcore3.jpg
   markdown: |
     **Paper accepted** to ICDM 2014: Locally Estimating Core Numbers (M. P. O'Brien and B. D. Sullivan)
 - posted: September 5, 2014
@@ -289,6 +308,6 @@
     Fun (5-minute) **RTP 180&deg talk now [on Youtube!](http://youtu.be/dBLE9ESpUIo)**.
     Associated slides available [on the NCDS blog](http://data2discovery.org/2014/09/big-data-a-big-topic-at-rtp-180/).
 - posted: August 15, 2014
-  image: src/images/students.jpg
+  image: src/images/thumb/students.jpg
   markdown: |
     Welcome to our **new Ph.D. students**, Timothy Goodrich and Drew van der Poel!
