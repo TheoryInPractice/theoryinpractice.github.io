@@ -19,8 +19,8 @@ overview:
 researchInterests:
   markdown: |
     Research interests include parameterized algorithms, structural graph theory, applied discrete mathematics,
-    random graphs, parallel algorithm design, and combinatorial scientific computing. Recent work focuses on
-    integrating tools and techniques from structural graph theory into tools for scalable network analysis.
+    random graphs, and combinatorial scientific computing. Recent work focuses on
+    integrating techniques from structural graph theory into tools for scalable network analysis.
 teaching:
   image: src/images/teach.jpg
   markdown: |
@@ -39,6 +39,7 @@ service:
     * Program Committee, [ALENEX 2018](http://www.siam.org/meetings/alenex18/)
     * Steering Committee, SIAM Workshop on Network Science, 2016 - present
     * Program Committee, [SIAM Conference on Discrete Mathematics](http://www.siam.org/meetings/dm16/), 2016
+    * Steering Committee, Data Science Initiative, NC State University, 2016 - present
     * Co-Chair, Program Committee, [SIAM Workshop on Network Science (NS16)](http://www.siam.org/meetings/ns16/), 2016
     * Organizer, [NCSU CS Theory Seminar](http://www.csc2.ncsu.edu/theoryseminar/), 2013 - present
 awards:
@@ -65,8 +66,9 @@ funding:
       Program, 2012-2014.
 talks:
   markdown: |
-    * _Data Science Lunch and Learn_, Research Triangle Institute (RTI), RTP, NC, October 2018
-    * _Mathematics Colloquium_, University of Central Florida, Orlando, FL, October 2018
+    * _Conference on Combinatorial Optimization and Applications (COCOA) Keynote_, Atlanta, GA, December 2018
+    * Data Science Lunch and Learn, Research Triangle Institute (RTI), RTP, NC, October 2018
+    * Mathematics Colloquium, University of Central Florida, Orlando, FL, October 2018
     * Mathematics Colloquium, Georgia Institute of Technology, Atlanta, GA, September 2018
     * Workshop on Structural Sparsity, Logic, and Algorithms, University of Warwick, UK, July 2018
     * Data Institute SF (DSCO17), San Francisco, CA, October 2017
