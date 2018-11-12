@@ -1,7 +1,11 @@
+- start: December 16, 2018
+  image: src/images/thumb/talk.jpg
+  markdown: |
+    Dr. Sullivan is giving a keynote at [COCOA'18](http://spacl.kennesaw.edu/cocoa2018/) in Atlanta, GA.
 - start: November 4, 2018
   image: src/images/thumb/doccourse.jpg
   markdown: |
-    Dr. Sullivan will lecturing at the [Sparsity DocCourse](https://iuuk.mff.cuni.cz/events/doccourse2018/) at Charles University in Prague (exact dates TBA); Ph.D. student Brian Lavallee will be participating in the program, which runs November 4 - December 15.
+    Dr. Sullivan will be lecturing at the [Sparsity DocCourse](https://iuuk.mff.cuni.cz/events/doccourse2018/) at Charles University in Prague (Nov 26/27, Dec 7); Ph.D. student Brian Lavallee will be participating in the program, which runs November 4 - December 15.
 - start: October 23, 2018
   image: src/images/thumb/video_thumb.jpg
   markdown: |
