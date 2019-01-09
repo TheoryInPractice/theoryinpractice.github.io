@@ -17,10 +17,10 @@
 - year: 2019
   publications:
   - markdown: |
-      K. Kloster, B. D. Sullivan, A. van der Poel. Mining Maximal Induced Bicliques using Odd Cycle Transversals. To appear at SIAM Data Mining (SDM) 2019. Available [on ArXiv](https://arxiv.org/abs/1810.11421).
+      K. Kloster, B. D. Sullivan, A. van der Poel. Mining Maximal Induced Bicliques using Odd Cycle Transversals. _**To appear at SIAM Data Mining (SDM) 2019**_. Available [on ArXiv](https://arxiv.org/abs/1810.11421).
 - year: 2018
   publications:
-    - markdown: |
+  - markdown: |
       E. F. Dumitrescu, A. L. Fisher, T. D. Goodrich, T. S. Humble, B. D. Sullivan, A. L. Wright. Benchmarking treewidth as a practical component of tensor-network-based quantum simulation. _**PLOS ONE**_, [13(12):e0207827](https://doi.org/10.1371/journal.pone.0207827), 2018. Also available [on ArXiv](https://arxiv.org/abs/1807.04599).
   - markdown: |
       T. D. Goodrich, T. S. Humble, B. D. Sullivan.  Optimizing Adiabatic Quantum Program Compilation using a Graph-Theoretic Framework. _**Quantum Information Processing**_, 17:118, 2018. Available [on ArXiv](https://arxiv.org/abs/1704.01996).
