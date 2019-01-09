@@ -9,26 +9,15 @@ principal:
     and Applied Mathematics from the Georgia Institute of Technology. Prior to moving to NC State in Fall 2013, she was
     a Research Scientist in the Computer Science and Mathematics Division at Oak Ridge National Laboratory.
 postdocs:
-- image: src/images/people/kkloster.jpg
-  name: Kyle Kloster
-  email: kakloste(at)ncsu(dot)edu
+- image: src/images/comingsoon.png
+  name: Lalla Moutadid
+  email: TBD(at)ncsu(dot)edu
   about:
-    href: http://www4.ncsu.edu/~kakloste/
+    href: http://www.cs.toronto.edu/~lalla/
   markdown: |
-    Kyle joined Theory In Practice as a postdoctoral researcher in June 2016.
-    He completed his Ph.D. in Mathematics at Purdue University under the supervision of David Gleich. He is interested in topics from sparse and structured graph theory and linear algebra, including graph analysis primitives like ranking and link prediction, and solving hard optimization problems.
+    Lalla will be joining Theory In Practice as a postdoctoral researcher in March 2019.
+    She completed her Ph.D. in Computer Science at the University of Toronto under the supervision of Derek Corneil and Allan Borodin.
 gradstudents:
-- image: src/images/people/ewhorton.jpg
-  name: Eric Horton
-  email: ewhorton(at)ncsu(dot)edu
-  date: Fall 2016 - Fall 2017
-  about:
-      href: http://erichorton.me
-  markdown: |
-    Eric is a first-year PhD student focusing on software engineering. He currently works with TiP to improve
-    coloring algorithms and implementations. As an undergraduate student, he worked with the lab to research
-    graph structure. As an MCS student, he worked on comparing solutions for Odd Cycle Transversal in a
-    quantum computing context. Eric enjoys table-top gaming, science fiction, and playing violin.
 - image: src/images/people/blavallee.jpg
   name: Brian Lavallee
   email: blavall(at)ncsu(dot)edu
@@ -44,20 +33,13 @@ gradstudents:
   markdown: |
     Drew is a fifth-year Ph.D. student whose research currently focuses on problems pertaining to graph editing. He graduated from The College of Saint Rose, and enjoys playing and watching sports
     and spending time outdoors.
-- image: src/images/people/mjsuggs.jpg
-  name: Michael Suggs
-  email: mjsuggs(at)ncsu(dot)edu
-  about:
-    href: http://michaelsuggs.com
-  markdown: |
-    Michael is a first year Ph.D. student currently working with TiP on graph coloring. He graduated with degrees in Computer Science and Mathematics from UNC-Wilmington and fancies the playing the piano and lifting weights, though preferably not at the same time!
 - image: src/images/people/mjbreenm.jpg
   name: Michael Breen-McKay
   email: mjbreenm(at)ncsu(dot)edu
   about:
     href: WWW
   markdown: |
-    Mike is a fourth year Ph.D. student in the math department and is working on an independent study with TiP this semester. He graduated from UNC Asheville and spends far too much of his free time playing disc golf and cooking.
+    Mike is a fourth year Ph.D. student in the math department and is working on an independent study with TiP this year. He graduated from UNC Asheville and spends far too much of his free time playing disc golf and cooking.
 undergraduates:
 - image: src/images/people/adwoodli.jpg
   name: Trey Woodlief
@@ -70,6 +52,11 @@ undergraduates:
   markdown: |
     Hayley is a senior majoring in Mathematics and Computer Science. In her free time, she enjoys watching Disney animated movies, creating intricate doodles, and formatting resumes.
 alumni:
+- image: src/images/people/kkloster.jpg
+  name: Kyle Kloster
+  date: June 2016 - October 2017.
+  markdown: |
+    Kyle was a postdoctoral researcher with Theory in Practice in 2016-17 who came to us after completing a PhD in Mathematics at Purdue University with David Gleich.
 - image: src/images/people/freidl.jpg
   name: Felix Reidl
   date: January 2016 - April 2017
@@ -83,6 +70,16 @@ alumni:
     Mike completed his doctoral dissertation "A Multifaceted Approach to Improving
     the Practicality of Structural Graph Algorithms" advised by Dr. Sullivan in 2018.
     Upon graduating he took a job at Google.
+- image: src/images/people/ewhorton.jpg
+  name: Eric Horton
+  date: Fall 2016 - Fall 2018
+  markdown: |
+    Eric worked with TiP as an undergraduate (on walk-regularity), a MCS student (on odd cycle transversal algorithms for quantum computing), and a first-year PhD student (on improving coloring algorithms and the CONCUSS implementation). He is currently continuing his PhD at NC State, focused on software engineering.
+- image: src/images/people/mjsuggs.jpg
+  name: Michael Suggs
+  date: Fall 2018
+  markdown: |
+    Michael did an independent study with the Theory in Practice group as a first-year Ph.D. student.
 - image: src/images/people/tdgoodrich.jpg
   name: Timothy Goodrich
   date: Fall 2014 - Spring 2018
@@ -100,7 +97,7 @@ alumni:
   name: Allison Fisher
   date: Fall 2017 - Spring 2018
   markdown: |
-    Allison worked with Theory in Practice group on using treewidth in tensor network simulations. She is currently completing her B.S. in Computer Science at NC State.
+    Allison worked with Theory in Practice group on using treewidth in tensor network simulations. She will graduate with her B.S. in Computer Science at NC State in Spring 2019 and take a job with Harris Corporation.
 - image: src/images/people/alwright.jpg
   name: Andrew Wright
   date: Fall 2017 - Spring 2018
@@ -110,7 +107,7 @@ alumni:
   name: Jean-Claude Shore
   date: Fall 2016 - Spring 2017
   markdown: |
-    Jean-Claude completed his NC State Honors Capstone ``Detecting Dense Structure in Sparse Graphs with Spectral Analysis'' with Theory in Practice. After graduating (as a Valedictorian) with a BS in Computer Science in Spring 2018, he took a job with Pendo.io. 
+    Jean-Claude completed his NC State Honors Capstone ``Detecting Dense Structure in Sparse Graphs with Spectral Analysis'' with Theory in Practice. After graduating (as a Valedictorian) with a BS in Computer Science in Spring 2018, he took a job with Pendo.io.
 - image: src/images/people/nrodrig.jpg
   name: Nishant Rodrigues
   date: Summer, Fall 2015; Spring 2016

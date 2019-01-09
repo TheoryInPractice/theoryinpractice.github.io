@@ -1,9 +1,24 @@
+- posted: January 7, 2019
+  image: src/images/thumb/siam.png
+  featured: true
+  markdown: |
+       Dr. Sullivan has been named Vice Chair of the new SIAM Activity Group on Applied and Computational Discrete Algorithms!
+- posted: December 22, 2018
+  image: src/images/thumb/papers_thumb.png
+  featured: true
+  markdown: |
+       Our paper [Mining Maximal Induced Bicliques using Odd Cycle Transversals](https://arxiv.org/abs/1810.11421) was accepted for publication at SIAM Data Mining (SDM) 2019!
+- posted: December 19, 2018
+  image: src/images/thumb/papers_thumb.png
+  featured: true
+  markdown: |
+       Our paper [Benchmarking treewidth as a practical component of tensor network simulations](https://doi.org/10.1371/journal.pone.0207827) with undergraduate researchers Allison Fisher and Andrew Wright has been published in PLOS ONE!
 - posted: November 5, 2018
   image: src/images/thumb/spaceship.png
   featured: true
   markdown: |
        Our long-awaited preprint on what [SpaceGraphCats](https://www.github.com/spacegraphcats/spacegraphcats)
-       can do for metagenomics is now on bioRxiv: [Exploring neighborhoods in large metagenome assembly graphs reveals hidden strain diversity](link).
+       can do for metagenomics is now on bioRxiv: [Exploring neighborhoods in large metagenome assembly graphs reveals hidden strain diversity](https://doi.org/10.1101/462788).
 - posted: October 8, 2018
   image: src/images/thumb/arxiv.jpg
   featured: false
