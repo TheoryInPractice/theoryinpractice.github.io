@@ -1,15 +1,15 @@
 - posted: January 7, 2019
-  image: src/images/thumb/siam.png
+  image: src/images/thumb/siam.jpg
   featured: true
   markdown: |
        Dr. Sullivan has been named Vice Chair of the new SIAM Activity Group on Applied and Computational Discrete Algorithms!
 - posted: December 22, 2018
-  image: src/images/thumb/papers_thumb.png
+  image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
        Our paper [Mining Maximal Induced Bicliques using Odd Cycle Transversals](https://arxiv.org/abs/1810.11421) was accepted for publication at SIAM Data Mining (SDM) 2019!
 - posted: December 19, 2018
-  image: src/images/thumb/papers_thumb.png
+  image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
        Our paper [Benchmarking treewidth as a practical component of tensor network simulations](https://doi.org/10.1371/journal.pone.0207827) with undergraduate researchers Allison Fisher and Andrew Wright has been published in PLOS ONE!
