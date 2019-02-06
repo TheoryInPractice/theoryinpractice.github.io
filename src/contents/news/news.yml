@@ -1,3 +1,13 @@
+- posted: February 6, 2019
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+       Our paper [Walk-regularity and subgraph centrality](https://arxiv.org/abs/1804.05966v2) has been accepted for publication in Linear Algebra and Applications (LAA)!
+- posted: February 4, 2019
+  image: src/images/thumb/dagstuhl.png
+  featured: true
+  markdown: |
+       Dr. Sullivan will be co-organizing a Dagstuhl seminar on Sparsity in Algorithms, Combinatorics and Logic in March 2020!
 - posted: January 7, 2019
   image: src/images/thumb/siam.jpg
   featured: true
