@@ -16,7 +16,6 @@
   publications:
   - markdown: |
       E. Horton, K. Kloster, B. D. Sullivan.  Subgraph centrality and Walk-regularity. _**To appear in Linear Algebra & Applications (LAA), 2019**_. Available [on ArXiv](http://arxiv.org/abs/1804.05966).
-
   - markdown: |
       K. Kloster, B. D. Sullivan, A. van der Poel. Mining Maximal Induced Bicliques using Odd Cycle Transversals. _**To appear at SIAM Data Mining (SDM) 2019**_. Available [on ArXiv](https://arxiv.org/abs/1810.11421).
 - year: 2018
