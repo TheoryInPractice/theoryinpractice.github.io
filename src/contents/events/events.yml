@@ -2,6 +2,10 @@
   image: src/images/thumb/ts_tiny.jpg
   markdown: |
     Dr. [Jakub Gajarsky](http://logic.las.tu-berlin.de/Members/Gajarsky/) will be visiting Theory in Practice for two weeks (and giving a CS Theory Seminar; date/time TBA).
+- start: February 11, 2019
+  image: src/images/thumb/talk.jpg
+  markdown: |
+    Dr. Sullivan is giving a colloqium talk at the University of Utah [School of Computing](http://www.cs.utah.edu/calendar/colloquium-blair-sullivan/) in Salt Lake City, UT.
 - start: December 16, 2018
   image: src/images/thumb/talk.jpg
   markdown: |
