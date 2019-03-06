@@ -2,6 +2,11 @@
   image: src/images/thumb/ts_tiny.jpg
   markdown: |
     Dr. [Jakub Gajarsky](http://logic.las.tu-berlin.de/Members/Gajarsky/) will be visiting Theory in Practice for two weeks (and giving a CS Theory Seminar; date/time TBA).
+- start: March 16, 2019
+  end: March 17, 2019
+  image: src/images/thumb/ams.jpg
+  markdown: |
+    Drew van der Poel will be speaking in the Special Session on Recent Developments in Graph Theory at the [AMS Southeastern Sectional Meeting](http://www.ams.org/meetings/sectional/2261_program.html) at Auburn University in Auburn, AL.
 - start: February 11, 2019
   image: src/images/thumb/talk.jpg
   markdown: |
