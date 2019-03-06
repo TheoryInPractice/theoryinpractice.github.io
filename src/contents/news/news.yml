@@ -44,7 +44,6 @@
   featured: false
   markdown: |
       Major revision to our [manuscript](https://arxiv.org/abs/1406.2587) on structural sparsity in complex networks finally posted!
->>>>>>> upstream/master
 - posted: September 18, 2018
   image: src/images/thumb/comingsoon_thumb.png
   featured: true
