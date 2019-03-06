@@ -1,13 +1,50 @@
-- posted: October 29, 2018
+- posted: February 6, 2019
   image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
-      A preprint of our paper on using OCT sets to enumerate maximal induced bicliques is available on [ArXiv](https://arxiv.org/abs/1810.11421).
+       Our paper [Walk-regularity and subgraph centrality](https://arxiv.org/abs/1804.05966v2) has been accepted for publication in Linear Algebra and Applications (LAA)!
+- posted: February 4, 2019
+  image: src/images/thumb/dagstuhl.png
+  featured: true
+  markdown: |
+       Dr. Sullivan will be co-organizing a Dagstuhl seminar on Sparsity in Algorithms, Combinatorics and Logic in March 2020!
+- posted: January 7, 2019
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+       Dr. Sullivan has been named Vice Chair of the new SIAM Activity Group on Applied and Computational Discrete Algorithms!
+- posted: December 22, 2018
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+       Our paper [Mining Maximal Induced Bicliques using Odd Cycle Transversals](https://arxiv.org/abs/1810.11421) was accepted for publication at SIAM Data Mining (SDM) 2019!
+- posted: December 19, 2018
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+       Our paper [Benchmarking treewidth as a practical component of tensor network simulations](https://doi.org/10.1371/journal.pone.0207827) with undergraduate researchers Allison Fisher and Andrew Wright has been published in PLOS ONE!
+- posted: November 5, 2018
+  image: src/images/thumb/spaceship.png
+  featured: true
+  markdown: |
+       Our long-awaited preprint on what [SpaceGraphCats](https://www.github.com/spacegraphcats/spacegraphcats)
+       can do for metagenomics is now on bioRxiv: [Exploring neighborhoods in large metagenome assembly graphs reveals hidden strain diversity](https://doi.org/10.1101/462788).
+- posted: October 8, 2018
+  image: src/images/thumb/arxiv.jpg
+  featured: false
+  markdown: |
+      It's a preprint frenzy! New work with Ph.D. student Drew van der Poel and (departing) postdoc Kyle Kloster on a fun enumeration problem: [Mining Maximal Induced Bicliques using Odd Cycle Transversals](https://arxiv.org/abs/1810.11421). A fresh look at walk entropy and subgraph centrality with Kyle and Ph.D. student Eric Horton: [Walk-regularity and subgraph centrality](https://arxiv.org/abs/1804.05966v2). And a bonus update to our work on experimentally evaluating OCT algorithms adding data from random graph generators to beef up the quantum benchmark: [Practical Graph Bipartization with Applications in Near-Term Quantum Computing](https://arxiv.org/abs/1807.04599v2). Associated software packages [MI-Bicliques](https://www.github.com/theoryinpractice/MI-bicliques) and [Practical-OCT](https://www.github.com/theoryinpractice/Practical-OCT) are on Github.
+- posted: October 8, 2018
+  image: src/images/thumb/arxiv.jpg
+  featured: false
+  markdown: |
+      Major revision to our [manuscript](https://arxiv.org/abs/1406.2587) on structural sparsity in complex networks finally posted!
+>>>>>>> upstream/master
 - posted: September 18, 2018
   image: src/images/thumb/comingsoon_thumb.png
   featured: true
   markdown: |
-    TiP has lots of new faces this fall! Find out more about **Ph.D. students** Michael Suggs and Michael Breen-McKay, and **undergraduate researcher** Hayley Russell on the <a ui-sref="people">People</a> page.
+      TiP has lots of new faces this fall! Find out more about **Ph.D. students** Michael Suggs and Michael Breen-McKay, and **undergraduate researcher** Hayley Russell on the <a ui-sref="people">People</a> page.
 - posted: July 23, 2018
   image: src/images/thumb/software.png
   featured: true

@@ -1,11 +1,27 @@
+- start: March 18, 2019
+  image: src/images/thumb/ts_tiny.jpg
+  markdown: |
+    Dr. [Jakub Gajarsky](http://logic.las.tu-berlin.de/Members/Gajarsky/) will be visiting Theory in Practice for two weeks (and giving a CS Theory Seminar; date/time TBA).
+- start: February 11, 2019
+  image: src/images/thumb/talk.jpg
+  markdown: |
+    Dr. Sullivan is giving a colloqium talk at the University of Utah [School of Computing](http://www.cs.utah.edu/calendar/colloquium-blair-sullivan/) in Salt Lake City, UT.
+- start: December 16, 2018
+  image: src/images/thumb/talk.jpg
+  markdown: |
+    Dr. Sullivan is giving a keynote at [COCOA'18](http://spacl.kennesaw.edu/cocoa2018/) in Atlanta, GA.
 - start: November 4, 2018
   image: src/images/thumb/doccourse.jpg
   markdown: |
-    Dr. Sullivan will lecturing at the [Sparsity DocCourse](https://iuuk.mff.cuni.cz/events/doccourse2018/) at Charles University in Prague (exact dates TBA); Ph.D. student Brian Lavallee will be participating in the program, which runs November 4 - December 15.
+    Dr. Sullivan will be lecturing at the [Sparsity DocCourse](https://iuuk.mff.cuni.cz/events/doccourse2018/) at Charles University in Prague (Nov 26/27, Dec 7); Ph.D. student Brian Lavallee will be participating in the program, which runs November 4 - December 15.
 - start: October 23, 2018
   image: src/images/thumb/video_thumb.jpg
   markdown: |
-    Dr. Sullivan will join representatives from RTI and SAS on a Data Science panel for the R-Ladies RTP Meetup. RSVP [here](https://www.meetup.com/R-Ladies-RTP/events/254509052/) and join us!
+    Dr. Sullivan will join representatives from RTI and SAS on a Data Science panel for the R-Ladies RTP Meetup at 6pm. RSVP [here](https://www.meetup.com/R-Ladies-RTP/events/254509052/) and join us!
+- start: October 23, 2018
+  image: src/images/thumb/talk.jpg
+  markdown: |
+    Dr. Sullivan is presenting on "Won't You Be My Neighbor? (how graph neighborhoods can improve metagenomic sequence analysis)" in the RTI Data Science Lunch & Learn Series.
 - start: October 19, 2018
   image: src/images/thumb/talk.jpg
   markdown: |

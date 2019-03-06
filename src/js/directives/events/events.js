@@ -6,8 +6,8 @@
 angular.module('theory-in-practice').directive('events', [function() {
 
     const UPCOMING = 'upcoming';
-    const MONTHS = 3;
-    const PREVMONTHS = 1;
+    const MONTHS = 6;
+    const PREVMONTHS = 2;
 
     return {
         restrict: 'E',
