@@ -1,3 +1,11 @@
+- start: June 25, 2019
+  image: src/images/thumb/students.jpg
+  markdown: |
+    Undergraduate Trey Woodlief is giving a talk at [SEA^2 19](http://www.caopt.com/SEA2019/) about enumerating bicliques in near-bipartite graophs (https://github.com/TheoryInPractice/MI-bicliques).
+- start: May 3, 2019
+  image: src/images/thumb/siam.jpg
+  markdown: |
+    Ph.D. student Drew van der Poel is giving a talk at [SDM 19](http://www.siam.org/Conferences/CM/Conference/sdm19) about enumerating bicliques in near-bipartite graophs (https://github.com/TheoryInPractice/MI-bicliques).
 - start: March 18, 2019
   image: src/images/thumb/ts_tiny.jpg
   markdown: |
