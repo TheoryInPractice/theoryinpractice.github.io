@@ -3,19 +3,16 @@ overview:
   markdown: |
     ### Dr. Blair D. Sullivan
 
-    * **Associate Professor**, [Department of Computer Science](http://www.csc.ncsu.edu), North Carolina State University
-    * _Chancellor's Faculty Excellence Program_,
-      [Data-Driven Science Cluster](http://workthatmatters.ncsu.edu/data-driven-science/)
-    * **Associate Faculty**, [Department of Mathematics](http://www.math.ncsu.edu), North Carolina State University
-    * **Joint Faculty**, Complex Systems Group, Oak Ridge National Laboratory
-
+    * **Associate Professor**, [School of Computing](http://www.cs.utah.edu), University of Utah
+    * **Adjunct Faculty**, [Department of Computer Science](http://www.csc.ncsu.edu), North Carolina State University
+ 
 
     _**Contact Information:**_
 
-    * 890 Oval Drive, 3280 EBII (Lab: 3233)
-    * Raleigh, NC 27606
-    * _**Email:**_ blair_sullivan(at)ncsu(dot)edu
-    * _**Phone:**_ 919.513.0453
+    * 50 S Central Campus Dr., 3464 MEB 
+    * Salt Lake City, UT 84108
+    * _**Email:**_ sullivan(at)cs(dot)utah(dot)edu
+
 researchInterests:
   markdown: |
     Research interests include parameterized algorithms, structural graph theory, applied discrete mathematics,
@@ -24,6 +21,7 @@ researchInterests:
 teaching:
   image: src/images/teach.jpg
   markdown: |
+    * CS 6957/5956 Introduction to Graph Theory; Fall 2019
     * CSC565: Graph Theory; Spring 2019
     * CSC791/495: [Parameterized Algorithms and Complexity](https://github.com/bdsullivan/ParameterizedAlgorithms-Fall2017); Fall 2017
     * CSC801/295: CS Theory Reading Group; Spring 2016; Fall 2016, Spring 2017
@@ -33,10 +31,11 @@ teaching:
 service:
   image: src/images/service.jpg
   markdown: |
-    * Theory Focus Group Lead, NC State Computer Science, 2018 - present
-    * Program Committee, [Complex Networks 2018](https://www.complexnetworks.org)
-    * Vice-Chair, SIAM Activity Group on Discrete Mathematics (SIAGDM), 2017-2019
+    * Founding Vice-Chair, SIAM Activity Group on Applied & Computational Discrete Algorithms (SIAGACDA), 2019-2021
+    * Program Committee, [Complex Networks 2018, 2019](https://www.complexnetworks.org)
+    * Theory Focus Group Lead, NC State Computer Science, 2018 - 2019
     * Program Committee, [ALENEX 2018](http://www.siam.org/meetings/alenex18/)
+    * Vice-Chair, SIAM Activity Group on Discrete Mathematics (SIAGDM), 2017-2020
     * Steering Committee, SIAM Workshop on Network Science, 2016 - present
     * Program Committee, [SIAM Conference on Discrete Mathematics](http://www.siam.org/meetings/dm16/), 2016
     * Steering Committee, Data Science Initiative, NC State University, 2016 - present
@@ -57,7 +56,7 @@ funding:
     * Principal Investigator (with E. Demaine, MIT), Algorithms for Exploiting Approximate Network Structure, US Army Research Office, 2017-2020.
     * Co-PI (with D. Janies and X.Shi, UNCC), Risk Mitigation of Infectious Diseases via Network Modeling and Mining,
       North Carolina Data Science & Analytics Initiative, 2015-2017.
-    * Moore Investigator in Data-Driven Discovery. Gordon & Betty Moore Foundation, 2014-2019.
+    * Moore Investigator in Data-Driven Discovery. Gordon & Betty Moore Foundation, 2014-2021.
     * Principal Investigator, PARSiNG: Parameterized Algorithms Respecting Structure in Noisy Graphs. DARPA GRAPHS
       Program, 2014-2015.
     * Co-PI (with A. Wilson), Scalable Clustering Methods for Dynamic Health Data. NCSU Research and Innovation
@@ -66,7 +65,9 @@ funding:
       Program, 2012-2014.
 talks:
   markdown: |
-    * _Conference on Combinatorial Optimization and Applications (COCOA) Keynote_, Atlanta, GA, December 2018
+    * _University of Utah Data Science Day_, Salt Lake City, UT, October 2019 
+    * Workshop on Practical Computing & Parameterized Complexity (PCPC) Plenary, Bergen, Norway, August 2019
+    * Conference on Combinatorial Optimization and Applications (COCOA) Keynote, Atlanta, GA, December 2018
     * Data Science Lunch and Learn, Research Triangle Institute (RTI), RTP, NC, October 2018
     * Mathematics Colloquium, University of Central Florida, Orlando, FL, October 2018
     * Mathematics Colloquium, Georgia Institute of Technology, Atlanta, GA, September 2018
