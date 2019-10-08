@@ -31,16 +31,13 @@ teaching:
 service:
   image: src/images/service.jpg
   markdown: |
-    * Founding Vice-Chair, SIAM Activity Group on Applied & Computational Discrete Algorithms (SIAGACDA), 2019-2021
-    * Program Committee, [Complex Networks 2018, 2019](https://www.complexnetworks.org)
-    * Theory Focus Group Lead, NC State Computer Science, 2018 - 2019
-    * Program Committee, [ALENEX 2018](http://www.siam.org/meetings/alenex18/)
-    * Vice-Chair, SIAM Activity Group on Discrete Mathematics (SIAGDM), 2017-2020
+    * Founding Vice-Chair, [SIAM Activity Group on Applied & Computational Discrete Algorithms (SIAGACDA)](https://www.siam.org/membership/activity-groups/detail/applied-and-computational-discrete-algorithms), 2019-2021
+    * Vice-Chair, [SIAM Activity Group on Discrete Mathematics (SIAGDM)](https://www.siam.org/membership/activity-groups/detail/discrete-mathematics), 2017-2020
     * Steering Committee, SIAM Workshop on Network Science, 2016 - present
     * Program Committee, [SIAM Conference on Discrete Mathematics](http://www.siam.org/meetings/dm16/), 2016
-    * Steering Committee, Data Science Initiative, NC State University, 2016 - present
+    * Steering Committee, Data Science Initiative, NC State University, 2016 - 2019
     * Co-Chair, Program Committee, [SIAM Workshop on Network Science (NS16)](http://www.siam.org/meetings/ns16/), 2016
-    * Organizer, [NCSU CS Theory Seminar](http://www.csc2.ncsu.edu/theoryseminar/), 2013 - present
+    * Organizer, [NCSU CS Theory Seminar](http://www.csc2.ncsu.edu/theoryseminar/), 2013 - 2019
 awards:
   image: src/images/award.jpg
   markdown: |
@@ -74,6 +71,5 @@ talks:
     * Workshop on Structural Sparsity, Logic, and Algorithms, University of Warwick, UK, July 2018
     * Data Institute SF (DSCO17), San Francisco, CA, October 2017
     * Cumberland Conference on Combinatorics, Graph Theory and Computing, Nashville, TN, May 2017
-    * Duke Network Analysis Center Seminar, Durham, NC, November 2016
-    * SIAM Discrete Math, The Mathematics behind Big Data Analysis Minisymposium, Atlanta, GA, June 2016
-    * ICERM Workshop on the Mathematics of Data Science, Providence, RI, July, 2015
+
+
