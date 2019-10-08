@@ -9,29 +9,21 @@ principal:
     and Applied Mathematics from the Georgia Institute of Technology. Prior to moving to NC State in Fall 2013, she was
     a Research Scientist in the Computer Science and Mathematics Division at Oak Ridge National Laboratory.
 postdocs:
-- image: src/images/comingsoon.png
-  name: Lalla Moutadid
-  email: TBD(at)ncsu(dot)edu
-  about:
-    href: http://www.cs.toronto.edu/~lalla/
-  markdown: |
-    Lalla will be joining Theory In Practice as a postdoctoral researcher in March 2019.
-    She completed her Ph.D. in Computer Science at the University of Toronto under the supervision of Derek Corneil and Allan Borodin.
 gradstudents:
 - image: src/images/people/blavallee.jpg
   name: Brian Lavallee
-  email: blavall(at)ncsu(dot)edu
+  email: brian.lavallee(at)utah(dot)edu
   about:
     href: WWW
   markdown: |
-    Brian is a second-year Ph.D. student working with TiP on local search and specialized coloring algorithms in structurally sparse graphs.  He graduated from Duke University and enjoys following soccer and playing boardgames.
+    Brian is a third-year Ph.D. student at the University of Utah working with TiP on local search and specialized coloring algorithms in structurally sparse graphs.  He graduated from Duke University and enjoys following soccer and playing boardgames.
 - image: src/images/people/ajvanderpoel.jpg
   name: Drew van der Poel
   email: ajvande4(at)ncsu(dot)edu
   about:
     href: http://www4.ncsu.edu/~ajvande4/
   markdown: |
-    Drew is a sixth-year Ph.D. student whose research focuses on problems pertaining to graph editing. He graduated from The College of Saint Rose, and enjoys playing and watching sports
+    Drew is a sixth-year Ph.D. student at NC State graduating in Fall 2019! His research focuses on problems pertaining to graph editing. He graduated from The College of Saint Rose, and enjoys playing and watching sports
     and spending time outdoors.
 - image: src/images/people/mjbreenm.jpg
   name: Michael Breen-McKay
@@ -39,24 +31,14 @@ gradstudents:
   about:
     href: WWW
   markdown: |
-    Mike is a fourth year Ph.D. student in the math department and is working on an independent study with TiP this year. He graduated from UNC Asheville and spends far too much of his free time playing disc golf and cooking.
+    Mike is a fifth-year co-advised Ph.D. student in the math department at NC State. He graduated from UNC Asheville and spends far too much of his free time playing disc golf and cooking.
 undergraduates:
-- image: src/images/people/adwoodli.jpg
-  name: Trey Woodlief
-  date: Spring 2018
-  markdown: |
-    Trey is a senior majoring in Electrical and Computer Engineering and Computer Science. He spends most of his time working with robots, either on campus with the IEEE Robotics team or off campus volunteering with FIRST.
-- image: src/images/people/hsrussel.jpg
-  name: Hayley Russell
-  date: Fall 2018
-  markdown: |
-    Hayley is a senior majoring in Mathematics and Computer Science. In her free time, she enjoys watching Disney animated movies, creating intricate doodles, and formatting resumes.
 alumni:
 - image: src/images/people/kkloster.jpg
   name: Kyle Kloster
   date: June 2016 - October 2018.
   markdown: |
-    Kyle was a postdoctoral researcher with Theory in Practice in 2016-18 who came to us after completing a PhD in Mathematics at Purdue University with David Gleich.
+    Kyle was a postdoctoral researcher with Theory in Practice in 2016-18 who came to us after completing a PhD in Mathematics at Purdue University with David Gleich. He is now a Software Engineer for Carbon.
 - image: src/images/people/freidl.jpg
   name: Felix Reidl
   date: January 2016 - April 2017
@@ -93,11 +75,21 @@ alumni:
   date: Fall 2017
   markdown: |
     Abida did an independent study with the Theory in Practice group as a first-year Ph.D. student.
+- image: src/images/people/adwoodli.jpg
+  name: Trey Woodlief
+  date: Spring 2018 - Spring 2019
+  markdown: |
+    Trey worked with Theory in Practice on enumerating bicliques in near-bipartite graphs. He graduated in Spring 2019 with BS degrees in Electrical and Computer Engineering and Computer Science, and is now pursuing a PhD in Computer Science at Virginia Tech. 
+- image: src/images/people/hsrussel.jpg
+  name: Hayley Russell
+  date: Fall 2018
+  markdown: |
+    Hayley worked with Theory in Practice on evaluating the structural rounding framework. She graduated in Spring 2019 with BS degrees in Mathematics and Computer Science, and took a position as a Software Engineer at Facebook. 
 - image: src/images/people/anfisher.jpg
   name: Allison Fisher
   date: Fall 2017 - Spring 2018
   markdown: |
-    Allison worked with Theory in Practice group on using treewidth in tensor network simulations. She will graduate with her B.S. in Computer Science at NC State in Spring 2019 and take a job with Harris Corporation.
+    Allison worked with Theory in Practice group on using treewidth in tensor network simulations. She graduated with a B.S. in Computer Science at NC State in Spring 2019 and took a job with Harris Corporation.
 - image: src/images/people/alwright.jpg
   name: Andrew Wright
   date: Fall 2017 - Spring 2018
