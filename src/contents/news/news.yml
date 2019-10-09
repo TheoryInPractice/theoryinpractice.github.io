@@ -1,3 +1,9 @@
+- posted: October 6, 2019
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+       Our paper [Approximating Vertex Cover using Structural Rounding](https://arxiv.org/abs/1909.04611) was accepted for publication at the 
+SIAM Symposium on Algorithm Engineering and Experiments (ALENEX20)!
 - posted: September 10, 2019
   image: src/images/thumb/papers_thumb.jpg
   featured: true

@@ -79,7 +79,7 @@ alumni:
   name: Trey Woodlief
   date: Spring 2018 - Spring 2019
   markdown: |
-    Trey worked with Theory in Practice on enumerating bicliques in near-bipartite graphs. He graduated in Spring 2019 with BS degrees in Electrical and Computer Engineering and Computer Science, and is now pursuing a PhD in Computer Science at Virginia Tech. 
+    Trey worked with Theory in Practice on enumerating bicliques in near-bipartite graphs. He graduated in Spring 2019 with BS degrees in Electrical and Computer Engineering and Computer Science, and is now pursuing a PhD in Computer Science at the University of Virginia. 
 - image: src/images/people/hsrussel.jpg
   name: Hayley Russell
   date: Fall 2018
@@ -94,12 +94,12 @@ alumni:
   name: Andrew Wright
   date: Fall 2017 - Spring 2018
   markdown: |
-    Andrew worked with Theory in Practice group on using treewidth in tensor network simulations. He is currently completing his B.S. in Mathematics and Computer Science at NC State.
+    Andrew worked with the Theory in Practice group on using treewidth in tensor network simulations. Upon graduating with a B.S. in Mathematics and Computer Science from NC State in Spring 2019, he took a job with Pendo.io.
 - image: src/images/comingsoon.png
   name: Jean-Claude Shore
   date: Fall 2016 - Spring 2017
   markdown: |
-    Jean-Claude completed his NC State Honors Capstone ``Detecting Dense Structure in Sparse Graphs with Spectral Analysis'' with Theory in Practice. After graduating (as a Valedictorian) with a BS in Computer Science in Spring 2018, he took a job with Pendo.io.
+    Jean-Claude completed his NC State Honors Capstone ``Detecting Dense Structure in Sparse Graphs with Spectral Analysis'' with Theory in Practice. After graduating (as a Valedictorian) with a B.S. in Computer Science in Spring 2018, he took a job with Pendo.io.
 - image: src/images/people/nrodrig.jpg
   name: Nishant Rodrigues
   date: Summer, Fall 2015; Spring 2016
