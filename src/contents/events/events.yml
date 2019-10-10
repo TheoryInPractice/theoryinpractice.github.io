@@ -1,7 +1,19 @@
+- start: March 15, 2020
+  image: src/images/thumb/dagstuhl.png
+  markdown: |
+    Dr. Sullivan is co-organizing the [Dagstuhl Seminar on Sparsity in Algorithms, Combinatorics and Logic](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=20121), scheduled for March 15-20, 2020.
 - start: October 31, 2019
   image: src/images/thumb/students.jpg
   markdown: |
     Ph.D. student Drew van der Poel is giving a talk at the [NCSU SUM Series](http://wp.math.ncsu.edu/sum/) on reductions.
+- start: October 21, 2019
+  image: src/images/thumb/students.jpg
+  markdown: |
+    Drew van der Poel is defending his Ph.D. dissertation at NC State (11 am in EB2 3211)!
+- start: August 1, 2019
+  image: src/images/thumb/talk.jpg
+  markdown: |
+    Dr. Sullivan is giving a plenary talk at the [Workshop on Parameterized Complexity and Practical Computing (PCPC)](https://www.uib.no/en/rg/algo/127995/parameterized-complexity-and-practical-computing-workshop) at the University of Bergen, Norway in August, 2019.
 - start: June 25, 2019
   image: src/images/thumb/students.jpg
   markdown: |

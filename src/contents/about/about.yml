@@ -5,11 +5,11 @@ overview:
 
     * **Associate Professor**, [School of Computing](http://www.cs.utah.edu), University of Utah
     * **Adjunct Faculty**, [Department of Computer Science](http://www.csc.ncsu.edu), North Carolina State University
- 
+
 
     _**Contact Information:**_
 
-    * 50 S Central Campus Dr., 3464 MEB 
+    * 50 S Central Campus Dr., 3464 MEB
     * Salt Lake City, UT 84108
     * _**Email:**_ sullivan(at)cs(dot)utah(dot)edu
 
@@ -32,6 +32,7 @@ service:
   image: src/images/service.jpg
   markdown: |
     * Founding Vice-Chair, [SIAM Activity Group on Applied & Computational Discrete Algorithms (SIAGACDA)](https://www.siam.org/membership/activity-groups/detail/applied-and-computational-discrete-algorithms), 2019-2021
+    * Co-Organizer, Dagstuhl Seminar on Sparsity in Algorithms, Combinatorics and Logic, 2020
     * Vice-Chair, [SIAM Activity Group on Discrete Mathematics (SIAGDM)](https://www.siam.org/membership/activity-groups/detail/discrete-mathematics), 2017-2020
     * Steering Committee, SIAM Workshop on Network Science, 2016 - present
     * Program Committee, [SIAM Conference on Discrete Mathematics](http://www.siam.org/meetings/dm16/), 2016
@@ -62,8 +63,8 @@ funding:
       Program, 2012-2014.
 talks:
   markdown: |
-    * _University of Utah Data Science Day_, Salt Lake City, UT, October 2019 
-    * Workshop on Practical Computing & Parameterized Complexity (PCPC) Plenary, Bergen, Norway, August 2019
+    * _University of Utah Data Science Day_, Salt Lake City, UT, October 2019
+    * Workshop on Parameterized Complexity & Practical Computing (PCPC) Plenary, Bergen, Norway, August 2019
     * Conference on Combinatorial Optimization and Applications (COCOA) Keynote, Atlanta, GA, December 2018
     * Data Science Lunch and Learn, Research Triangle Institute (RTI), RTP, NC, October 2018
     * Mathematics Colloquium, University of Central Florida, Orlando, FL, October 2018
@@ -71,5 +72,3 @@ talks:
     * Workshop on Structural Sparsity, Logic, and Algorithms, University of Warwick, UK, July 2018
     * Data Institute SF (DSCO17), San Francisco, CA, October 2017
     * Cumberland Conference on Combinatorics, Graph Theory and Computing, Nashville, TN, May 2017
-
-
