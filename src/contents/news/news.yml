@@ -8,6 +8,11 @@
   featured: true
   markdown: |
       A preprint of our paper on evaluating the structural rounding framework for approximation algorithms is available on [ArXiv](https://arxiv.org/abs/1909.04611).
+- posted: July 1, 2019
+  image: src/images/thumb/utah.jpg
+  featured: true
+  markdown: |
+       Theory In Practice has moved! Dr. Sullivan is now an Associate Professor in the [School of Computing](http://www.cs.utah.edu) at the [University of Utah](http://www.utah.edu)! 
 - posted: March 31, 2019
   image: src/images/thumb/papers_thumb.jpg
   featured: true
