@@ -1,7 +1,7 @@
 {
   "name": "yaml.js",
   "main": "dist/yaml.js",
-  "version": "0.2.8",
+  "version": "0.3.0",
   "homepage": "https://github.com/jeremyfa/yaml.js",
   "authors": [
     "Jeremy Faivre <contact@jeremyfa.com>"
@@ -16,11 +16,11 @@
     "node_modules",
     "bower_components"
   ],
-  "_release": "0.2.8",
+  "_release": "0.3.0",
   "_resolution": {
     "type": "version",
-    "tag": "v0.2.8",
-    "commit": "97d39b6c2bf533d33538205a399638b63f6baa66"
+    "tag": "v0.3.0",
+    "commit": "51a74dc0c39d78af7c64e12eafef2711f31abb27"
   },
   "_source": "https://github.com/jeremyfa/yaml.js.git",
   "_target": "*",
