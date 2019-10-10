@@ -1,7 +1,11 @@
+- start: October 31, 2019
+  image: src/images/thumb/students.jpg
+  markdown: |
+    Ph.D. student Drew van der Poel is giving a talk at the [NCSU SUM Series](http://wp.math.ncsu.edu/sum/) on reductions.
 - start: June 25, 2019
   image: src/images/thumb/students.jpg
   markdown: |
-    Undergraduate Trey Woodlief is giving a talk at [SEA^2 19](http://www.caopt.com/SEA2019/) about enumerating bicliques in near-bipartite graophs (https://github.com/TheoryInPractice/MI-bicliques).
+    Undergraduate Trey Woodlief is giving a talk at [SEA^2 19](http://www.caopt.com/SEA2019/) about enumerating bicliques in near-bipartite graphs (https://github.com/TheoryInPractice/MI-bicliques).
 - start: May 3, 2019
   image: src/images/thumb/siam.jpg
   markdown: |
