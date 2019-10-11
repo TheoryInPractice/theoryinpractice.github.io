@@ -15,11 +15,11 @@ featuredContent:
     link:
       state: people
     markdown: Want to know more about us? Access our CVs? Find out if we're hiring? Check this page.
-  - header: Theory Talks at NC State
-    image: src/images/seminar.jpg
+  - header: Watch This Space
+    image: src/images/comingsoon.jpg
     link:
-      href: http://www.csc2.ncsu.edu/theoryseminar/
-    markdown: We run the NC State Theory Seminar, with support from KPIT, the ePartners program, & the NC State Engineering Foundation
+      href: http://www.cs.utah.edu
+    markdown: New Featured Content from Utah Coming Soon!
   - header: News & Events
     image: src/images/news.jpg
     link:
