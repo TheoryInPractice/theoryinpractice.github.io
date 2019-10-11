@@ -10,6 +10,10 @@
   image: src/images/thumb/students.jpg
   markdown: |
     Drew van der Poel is defending his Ph.D. dissertation at NC State (11 am in EB2 3211)!
+- start: October 18, 2019
+  image: src/images/thumb/utah.png
+  markdown: |
+    Dr. Sullivan is giving a talk at the [Utah Data Science Day](http://datascience.utah.edu/dataday/2019/)! Come hear about Data Science + Metagenomics at 1:30 pm in WEB L102. 
 - start: August 1, 2019
   image: src/images/thumb/talk.jpg
   markdown: |
