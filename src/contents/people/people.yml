@@ -33,6 +33,13 @@ gradstudents:
   markdown: |
     Mike is a fifth-year co-advised Ph.D. student in the math department at NC State. He graduated from UNC Asheville and spends far too much of his free time playing disc golf and cooking.
 undergraduates:
+- image: src/images/people/jguo.jpg
+  name: Jing Guo
+  email: dev.guoj(at)gmail(dot)com
+  about:
+    href: https://guoj.org/
+  markdown: |
+    Jing is a fourth-year undergraduate at the University of Utah majoring in math and minoring in CS. He helps with improving OCT with turbo-charging FPT subroutines.
 alumni:
 - image: src/images/people/kkloster.jpg
   name: Kyle Kloster
