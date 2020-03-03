@@ -31,6 +31,8 @@ teaching:
 service:
   image: src/images/service.jpg
   markdown: |
+    * Co-Chair, SIAM Conference on Applied & Computational Discrete Algorithms, 2021
+    * Organizing Committee, [SIAM Workshop on Network Science 2020](https://www.siam.org/conferences/cm/conference/ns20), 2020
     * Founding Vice-Chair, [SIAM Activity Group on Applied & Computational Discrete Algorithms (SIAGACDA)](https://www.siam.org/membership/activity-groups/detail/applied-and-computational-discrete-algorithms), 2019-2021
     * Co-Organizer, Dagstuhl Seminar on Sparsity in Algorithms, Combinatorics and Logic, 2020
     * Vice-Chair, [SIAM Activity Group on Discrete Mathematics (SIAGDM)](https://www.siam.org/membership/activity-groups/detail/discrete-mathematics), 2017-2020
@@ -63,12 +65,13 @@ funding:
       Program, 2012-2014.
 talks:
   markdown: |
-    * _University of Utah Data Science Day_, Salt Lake City, UT, October 2019
+    * _Graph Decompositions: Small Width, Big Challenges_ Keynote Tutorial, Leiden, Netherlands, April 2020
+    * _Cumberland Conference on Combinatorics, Graph Theory and Computing_ Principal Speaker, Williamsburg, Virginia, May 2020
+    * _Discrete Mathematics Seminar_, Arizona State University, Tempe, Arizona, February 2020
+    * University of Utah Data Science Day, Salt Lake City, UT, October 2019
     * Workshop on Parameterized Complexity & Practical Computing (PCPC) Plenary, Bergen, Norway, August 2019
     * Conference on Combinatorial Optimization and Applications (COCOA) Keynote, Atlanta, GA, December 2018
     * Data Science Lunch and Learn, Research Triangle Institute (RTI), RTP, NC, October 2018
     * Mathematics Colloquium, University of Central Florida, Orlando, FL, October 2018
     * Mathematics Colloquium, Georgia Institute of Technology, Atlanta, GA, September 2018
     * Workshop on Structural Sparsity, Logic, and Algorithms, University of Warwick, UK, July 2018
-    * Data Institute SF (DSCO17), San Francisco, CA, October 2017
-    * Cumberland Conference on Combinatorics, Graph Theory and Computing, Nashville, TN, May 2017

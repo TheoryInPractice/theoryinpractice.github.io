@@ -1,13 +1,14 @@
 principal:
   image: src/images/people/bdsullivan.jpg
   name: Dr. Blair D. Sullivan
-  email: blair_sullivan(at)ncsu(dot)edu
+  email: sullivan(at)cs(dot)utah(dot)edu
   about:
     state: about
   markdown: |
     Dr. Sullivan earned her Ph.D. in Mathematics from Princeton University, and Bachelors degrees in Computer Science
-    and Applied Mathematics from the Georgia Institute of Technology. Prior to moving to NC State in Fall 2013, she was
-    a Research Scientist in the Computer Science and Mathematics Division at Oak Ridge National Laboratory.
+    and Applied Mathematics from the Georgia Institute of Technology. Prior to moving to Utah in Fall 2019, she was
+    an Associate Professor of Computer Science at NC State (2013-2019) and
+    a Research Scientist in the Computer Science and Mathematics Division at Oak Ridge National Laboratory (2008-2013).
 postdocs:
 gradstudents:
 - image: src/images/people/blavallee.jpg
@@ -17,14 +18,6 @@ gradstudents:
     href: WWW
   markdown: |
     Brian is a third-year Ph.D. student at the University of Utah working with TiP on local search and specialized coloring algorithms in structurally sparse graphs.  He graduated from Duke University and enjoys following soccer and playing boardgames.
-- image: src/images/people/ajvanderpoel.jpg
-  name: Drew van der Poel
-  email: ajvande4(at)ncsu(dot)edu
-  about:
-    href: http://www4.ncsu.edu/~ajvande4/
-  markdown: |
-    Drew is a sixth-year Ph.D. student at NC State graduating in Fall 2019! His research focuses on problems pertaining to graph editing. He graduated from The College of Saint Rose, and enjoys playing and watching sports
-    and spending time outdoors.
 - image: src/images/people/mjbreenm.jpg
   name: Michael Breen-McKay
   email: mjbreenm(at)ncsu(dot)edu
@@ -41,6 +34,12 @@ undergraduates:
   markdown: |
     Jing is a fourth-year undergraduate at the University of Utah majoring in math and minoring in CS. He helps with improving OCT with turbo-charging FPT subroutines.
 alumni:
+- image: src/images/people/ajvanderpoel.jpg
+  name: Drew van der Poel
+  date: Fall 2014 - Fall 2019.
+  markdown: |
+    Drew completed his doctoral dissertation "Approaches for Graphs Near Structural Classes" advised by Dr. Sullivan in 2019.
+    Upon graduating he took a job as teaching faculty at Northeastern University.
 - image: src/images/people/kkloster.jpg
   name: Kyle Kloster
   date: June 2016 - October 2018.
@@ -86,12 +85,12 @@ alumni:
   name: Trey Woodlief
   date: Spring 2018 - Spring 2019
   markdown: |
-    Trey worked with Theory in Practice on enumerating bicliques in near-bipartite graphs. He graduated in Spring 2019 with BS degrees in Electrical and Computer Engineering and Computer Science, and is now pursuing a PhD in Computer Science at the University of Virginia. 
+    Trey worked with Theory in Practice on enumerating bicliques in near-bipartite graphs. He graduated in Spring 2019 with BS degrees in Electrical and Computer Engineering and Computer Science, and is now pursuing a PhD in Computer Science at the University of Virginia.
 - image: src/images/people/hsrussel.jpg
   name: Hayley Russell
   date: Fall 2018
   markdown: |
-    Hayley worked with Theory in Practice on evaluating the structural rounding framework. She graduated in Spring 2019 with BS degrees in Mathematics and Computer Science, and took a position as a Software Engineer at Facebook. 
+    Hayley worked with Theory in Practice on evaluating the structural rounding framework. She graduated in Spring 2019 with BS degrees in Mathematics and Computer Science, and took a position as a Software Engineer at Facebook.
 - image: src/images/people/anfisher.jpg
   name: Allison Fisher
   date: Fall 2017 - Spring 2018
