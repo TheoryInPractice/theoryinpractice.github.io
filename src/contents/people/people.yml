@@ -33,6 +33,13 @@ undergraduates:
     href: https://guoj.org/
   markdown: |
     Jing is a fourth-year undergraduate at the University of Utah majoring in math and minoring in CS. He helps with improving OCT with turbo-charging FPT subroutines.
+- image: src/images/people/cperschon.jpg
+  name: Cole Perschon
+  email: cschon(at)cs(dot)utah(dot)edu
+  about:
+    href: http://coleperschon.com/
+  markdown: |
+    Cole is a fourth-year undergraduate at the University of Utah majoring in computer science and applied mathematics. He works on structural rounding's software package and spends his freetime following lacrosse and going skiing.
 alumni:
 - image: src/images/people/ajvanderpoel.jpg
   name: Drew van der Poel
