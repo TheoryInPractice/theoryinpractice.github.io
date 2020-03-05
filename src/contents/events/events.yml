@@ -1,9 +1,11 @@
 - start: February 28, 2020
   image: src/images/thumb/talk.jpg
+  featured: true
   markdown: |
-    Dr. Sullivan is giving a talk in the [Discrete Math Seminar](https://math.asu.edu/math-event-types/discrete-math) at Arizona State University (10 am, WXLR A546). 
+    Dr. Sullivan is giving a talk in the [Discrete Math Seminar](https://math.asu.edu/math-event-types/discrete-math) at Arizona State University (10 am, WXLR A546).
 - start: January 23, 2020
   image: src/images/thumb/students.jpg
+  featured: true
   markdown: |
     Ph.D. student Brian Lavallee is giving a talk at the [Bergen Workshop on Graph Modification](https://graphmodif.ii.uib.no) on our structural rounding work.
 - start: January 1, 2020
