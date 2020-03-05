@@ -9,7 +9,7 @@ principal:
     and Applied Mathematics from the Georgia Institute of Technology. Prior to moving to Utah in Fall 2019, she was
     an Associate Professor of Computer Science at NC State (2013-2019) and
     a Research Scientist in the Computer Science and Mathematics Division at Oak Ridge National Laboratory (2008-2013).
-postdocs:
+#postdocs:
 gradstudents:
 - image: src/images/people/blavallee.jpg
   name: Brian Lavallee
