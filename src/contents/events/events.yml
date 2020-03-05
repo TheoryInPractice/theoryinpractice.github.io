@@ -1,3 +1,16 @@
+- start: February 28, 2020
+  image: src/images/thumb/talk.jpg
+  markdown: |
+    Dr. Sullivan is giving a talk in the [Discrete Math Seminar](https://math.asu.edu/math-event-types/discrete-math) at Arizona State University (10 am, WXLR A546). 
+- start: January 23, 2020
+  image: src/images/thumb/students.jpg
+  markdown: |
+    Ph.D. student Brian Lavallee is giving a talk at the [Bergen Workshop on Graph Modification](https://graphmodif.ii.uib.no) on our structural rounding work.
+- start: January 1, 2020
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+       Dr. Sullivan and Bruce Hendrickson will be co-chairing the first SIAM Conference on Applied & Computational Discrete Algorithms! The meeting will be co-located with SIAMAN21.
 - start: March 15, 2020
   image: src/images/thumb/dagstuhl.png
   markdown: |
@@ -13,7 +26,7 @@
 - start: October 18, 2019
   image: src/images/thumb/utah.png
   markdown: |
-    Dr. Sullivan is giving a talk at the [Utah Data Science Day](http://datascience.utah.edu/dataday/2019/)! Come hear about Data Science + Metagenomics at 1:30 pm in WEB L102. 
+    Dr. Sullivan is giving a talk at the [Utah Data Science Day](http://datascience.utah.edu/dataday/2019/)! Come hear about Data Science + Metagenomics at 1:30 pm in WEB L102.
 - start: August 1, 2019
   image: src/images/thumb/talk.jpg
   markdown: |

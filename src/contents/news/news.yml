@@ -1,3 +1,13 @@
+- posted: January 31, 2020
+  image: src/images/thumb/utah.png
+  featured: true
+  markdown: |
+       Our University of Utah 1U4U Project with [Jamie Gagnon](https://www.gagnonlab.org) and [Aaron Quinlan](http://quinlanlab.org) on [Integrating Lineage Across Individuals with Phylogenetic Tree Comparison](https://1u4u.utah.edu/funded_projects/) has been funded! 
+- posted: January 16, 2020
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      A preprint of our paper on a new approach to subgraph counting in bounded expansion is available on [ArXiv](http://arxiv.org/abs/2001.05236).
 - posted: October 6, 2019
   image: src/images/thumb/siam.jpg
   featured: true
