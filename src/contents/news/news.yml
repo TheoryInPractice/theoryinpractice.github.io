@@ -1,3 +1,123 @@
+- posted: July 5, 2023
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      A preprint of our paper on Meta-analysis of metagenomes is available (on bioRxiv)[https://www.biorxiv.org/content/10.1101/2022.06.30.498290v1].
+- posted: July 3, 2023
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper on (Hetnet connectivity search provides rapid insights into how two biomedical entities are related)[https://www.biorxiv.org/content/10.1101/2023.01.05.522941] has been accepted for publication at GigaScience!
+- posted: July 1, 2023
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper on (Parameterized Complexity of Gerrymandering)[https://arxiv.org/abs/2205.06857] has been accepted for publication at The 16th International Symposium on Algorithmic Game Theory (SAGT)! It will be presented in early September at the University of London.
+- posted: May 28, 2023
+  image: src/images/thumb/arxiv.jpg
+  featured: true
+  markdown: |
+      A preprint of our paper on Edge-Colored Cluster in Hypergraphs is available [on ArXiv](https://arxiv.org/abs/2305.17598).
+- posted: May 15, 2023
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper on (Reducing Access Disparities in Networks Using Edge Augmentations)[https://arxiv.org/abs/2209.07616] has been accepted for publication at the Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23)! It will be presented at the conference in June.
+- posted: May 1, 2023
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      At the end of this month, many members of the group will be at the 2023 SIAM Conference on Applied & Computational Discrete Algorithms (SIAMACDA23). Dr. Sullivan will be giving a plenary, Schweta Jain will be giving a presentation (that will also be published to the proceedings), and there will also be two posters from our group (three from the University of Utah)!
+- posted: March 1, 2023
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be giving an invited address this month at the AMS Southeastern Sectional Meeting about generalized coloring numbers!
+- posted: January 4, 2023
+  image: src/images/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper (A Color-Avoiding Approach to Subgraph Counting in Bounded Expansion Classes)[http://arxiv.org/abs/2001.05236] has been accepted for publication at Algorithmica!
+- posted: October 1, 2022
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be giving a Keynote Tutorial at the Lorentz Center in Leiden, Netherlands as part of the Workshop on Graph Decompositions: Small Width, Big Challenges this month.
+- posted: September 1, 2022
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Yo Mizutani will be giving a talk at the SIAM Workshop on Network Science (NS22) this month about "Minimizing Congestion for Balanced Dominators".
+- posted: August 1, 2022
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+       Our paper [Improved Parameterized Complexity of Happy Set Problems](https://arxiv.org/abs/2207.06623) was accepted for publication at the International Symposium on Parameterized and Exact Computation (IPEC 2022)!
+- posted: June 1, 2022
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan is giving a talk on "The promise and perils of parameterized algorithms" at NORDITA WINQ Workshop on Complex Dynamical Networks in Stockholm, Sweden this month.
+- posted: June 1, 2022
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be giving a plenary at the 2022 SIAM Conference on Discrete Mathematics (SIAMDM) this month!
+- posted: September 17, 2021
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      A paper \([On the threshold of intractability](https://arxiv.org/abs/1505.00612)\) Dr. Sullivan worked on about Chain Editing and Threshold Editing has been accepted for publication at the Journal of Computer and System Sciences. 
+- posted: July 6, 2021
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      A preprint of our paper on Projecting genetic associations through gene expression is available (on bioRxiv)[https://www.biorxiv.org/content/10.1101/2021.07.05.450786].
+- posted: July 1, 2021
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be talking at the SIAM Annual Meeting (AN21) at a Minisymposium on Applied & Computational Discrete Algorithms this month! Additionally, Madison Cooley will be presenting at ACDA21 on [Parameterized algorithms for identifying gene co-expression modules via weighted clique decomposition](https://epubs.siam.org/doi/10.1137/1.9781611976830.11). ACDA21 is held jointly with AN21.
+- posted: June 1, 2021
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be giving a Keynote at the Symposium on Experimental Algorithms (SEA) in Nice, France this month!
+- posted: May 1, 2021
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan has been invited to present at the Women Lecture Series at the Kansas State Mathematics Department on May 6th. This will be available on [Youtube Live](https://www.youtube.com/watch?v=k5gqMwHZLxs)! 
+- posted: May 1, 2021
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+       Our paper [An Updated Experimental Evaluation of Graph Bipartization Methods](https://arxiv.org/abs/1805.01041) was accepted for publication at the ACM Journal of Experimental Algorithmics!
+- posted: October 1, 2020
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will being giving a talk at the AMS Western Sectional Meeting, Special Session on Graphs, Hypergraphs and Set Systems this month.
+- posted: August 11, 2020
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+       Our paper [Polynomial Treedepth Bounds in Linear Colorings](https://arxiv.org/abs/1802.09665) was accepted for publication at Algorithmica!
+- posted: July 1, 2020
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Madison Cooley will be giving a talk this month at the SIAM Workshop on Network Science 2020 (NS20) on structural rounding.
+- posted: May 29, 2020
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper on what [SpaceGraphCats](https://www.github.com/spacegraphcats/spacegraphcats) can do for metagenomics has been accepted for publication in Genome Biology! [Exploring neighborhoods in large metagenome assembly graphs using spacegraphcats reveals hidden sequence diversity](https://www.biorxiv.org/content/10.1101/462788v3).
+- posted: May 1, 2020
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be giving a plenary at the Cumberland Conference on Combinatorics, Graph Theory & Computing later this month!
 - posted: January 31, 2020
   image: src/images/thumb/utah.png
   featured: true
@@ -8,6 +128,11 @@
   featured: true
   markdown: |
       A preprint of our paper on a new approach to subgraph counting in bounded expansion is available on [ArXiv](http://arxiv.org/abs/2001.05236).
+- posted: January 1, 2020
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan is organizing the SIAM ACDA Online Seminar Series this year!
 - posted: October 6, 2019
   image: src/images/thumb/siam.jpg
   featured: true
