@@ -1,3 +1,73 @@
+- start: May 31-June 2, 2023
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Many members of the group will be at the 2023 SIAM Conference on Applied & Computational Discrete Algorithms (SIAMACDA23). Dr. Sullivan will be giving a plenary, Schweta Jain will be giving a presentation, and there will also be two posters from our group (three from the University of Utah)!
+- start: March 18, 2023
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be giving an invited address this month at the AMS Southeastern Sectional Meeting about generalized coloring numbers.
+- start: October 26, 2022
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be giving a Keynote Tutorial at the Lorentz Center in Leiden, Netherlands as part of the Workshop on Graph Decompositions: Small Width, Big Challenges.
+- start: September 13, 2022
+  image: src/images/thumb/students.jpg
+  featured: true
+  markdown: |
+      Yosuke Mizutani will be giving a talk at the SIAM Workshop on Network Science (NS22) this month about "Minimizing Congestion for Balanced Dominators".
+- start: September 7, 2022
+  image: src/images/thumb/students.jpg
+  featured: true
+  markdown: |
+      Ph.D. student Yosuke Mizutani will be giving a presentation on [Improved Parameterized Complexity of Happy Set Problems](https://arxiv.org/abs/2207.06623) at IPEC2022!
+- start: June 16, 2022
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be giving a plenary at the 2022 SIAM Conference on Discrete Mathematics (SIAMDM)!
+- start: June 13, 2022
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan is giving a talk on "The promise and perils of parameterized algorithms" at NORDITA WINQ Workshop on Complex Dynamical Networks in Stockholm, Sweden this month.
+- start: July 20, 2021
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Madison Cooley will be presenting at ACDA21 on [Parameterized algorithms for identifying gene co-expression modules via weighted clique decomposition](https://arxiv.org/abs/2106.00657).
+- start: July 19, 2021
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be talking at the SIAM Annual Meeting (AN21) at a Minisymposium on Applied & Computational Discrete Algorithms!
+- start: June 9, 2021
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be giving a Keynote at the Symposium on Experimental Algorithms (SEA) in Nice, France!
+- start: May 6, 2021
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan has been invited to present at the Women Lecture Series at the Kansas State Mathematics Department. This will be available on [Youtube Live](https://www.youtube.com/watch?v=k5gqMwHZLxs)! 
+- start: October 1, 2020
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will being giving a talk at the AMS Western Sectional Meeting, Special Session on Graphs, Hypergraphs and Set Systems this month.
+- start: July 10, 2020
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Madison Cooley will be giving a talk at the SIAM Workshop on Network Science 2020 (NS20) on structural rounding.
+- start: May 23, 2020
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be giving a plenary at the Cumberland Conference on Combinatorics, Graph Theory & Computing!
 - start: February 28, 2020
   image: src/images/thumb/talk.jpg
   featured: true
