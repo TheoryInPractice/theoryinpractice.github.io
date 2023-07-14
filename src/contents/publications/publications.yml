@@ -1,17 +1,48 @@
+#TODO: Consider adding in journal versions in addition to preprints
 - year: Preprints
   publications:
   - markdown: |
-      C. T. Brown, D. Moritz, M. P. O'Brien, F. Reidl, T. Reiter, B. D. Sullivan. Exploring neighborhoods in large metagenome assembly graphs reveals hidden strain diversity. Available [on bioRxiv](https://doi.org/10.1101/462788).
+      A. Crane, B. Lavallee, B. D. Sullivan, N. Veldt. Overlapping and Robust Edge-Colored Clustering in Hypergraphs. Available [on ArXiv](https://arxiv.org/abs/2305.17598).
   - markdown: |
-      T. D. Goodrich, E. Horton, B. D. Sullivan. Practical Graph Bipartization with Applications in Near-Term Quantum Computing. Available [on ArXiv](https://arxiv.org/abs/1805.01041).
+      T. E. Reiter, L. Irber, A. Gingrich, D. Haynes, N. T. Pierce-Ward, P. T. Brooks, Y. Mizutani, D. Moritz, F. Reidl, A. D. Willis, B. D. Sullivan, C. T. Brown. Meta-analysis of metagenomes via machine learning and assembly graphs reveals strain switches in Crohn's disease. Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.30.498290).
   - markdown: |
-      J. Kun, M. P. O'Brien, M. Pilipczuk, B. D. Sullivan.  Polynomial Treedepth Bounds in Linear Colorings. Available [on ArXiv](http://arxiv.org/abs/1802.09665v4).
+      M. Pividori, S. Lu, B. Li, C. Su, M. E. Johnson, W. Wei, Q. Feng, B. Namjou, K. Kiryluk, I. Kullo, Y. Luo, B. D. Sullivan, B. F. Voight, C. Skarke, M. Ritchie, S. Grant, C. S. Greene. Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms. Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.05.450786).
   - markdown: |
       M. P. O'Brien, B. D. Sullivan.  An Experimental Evaluation of a Bounded Expansion Algorithmic Pipeline. Available [on ArXiv](http://arxiv.org/abs/1712.06690).
+- year: 2023
+  publications:
+  - markdown: |
+      D. S. Himmelstein, M. Zietz, V. Rubinetti, K. Kloster, B. J. Heil, F. Alquaddoomi, D. Hu, D. N. Nicholson, Y. Hao, B. D. Sullivan, M. W. Nagle, and C. S. Greene. Hetnet connectivity search provides rapid insights into how biomedical entities are related. Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.05.522941). To appear in GigaScience, 2023.
+  - markdown: |
+      A. Fraser, B. Lavallee, B. D. Sullivan. Gerrymandering Trees: Parameterized Hardness. Available [on ArXiv](http://arxiv.org/abs/2205.06857). To appear in the 16th International Symposium on Algorithmic Game Theory (SAGT), 2023
+  - markdown: |
+      A. Bashardoust, S. Friedler, C. Scheidegger, B. D. Sullivan, S. Venkatasubramanian. Reducing Access Disparities in Networks Using Edge Augmentations. _**FAccT '23: Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency**_. Available [on ArXiv](https://arxiv.org/abs/2209.07616).
+  - markdown: |
+      F. Reidl, B. D. Sullivan. A color-avoiding approach to subgraph counting in bounded expansion classes. _**Algorithmica**_, 2023. Available [on ArXiv](http://arxiv.org/abs/2001.05236).
+  - markdown: |
+      S. Jain, Y. Mizutani, B. D. Sullivan. Faster Decomposition of Weighted Graphs into Cliques using Fisher's Inequality. _**SIAM Conference on Applied and Computational Discrete Algorithms (ACDA23)**_ Available [on ArXiv](https://arxiv.org/abs/2206.07286).
+- year: 2022
+  publications:
+  - markdown: |
+      P. Drange, M. Dregi, D. Lokshtanov, B. D. Sullivan. On the threshold of intractability. _**Journal of Computer and System Sciences (JCSS)**_, 124:1-25, 2022. Available [on ArXiv](https://arxiv.org/abs/1505.00612).
+  - markdown: |
+      Y. Mizutani, B. D. Sullivan. Improved Parameterized Complexity of Happy Set Problems. _**17th International Symposium on Parameterized and Exact Computation (IPEC 2022)**_. Available [on ArXiv](https://arxiv.org/abs/2207.06623).
+  - markdown: |
+      Y. Mizutani, A. Staker, B. D. Sullivan. Minimizing Congestion for Balanced Dominators. _**KDD '22: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining**_. Available [on ArXiv](https://arxiv.org/abs/2112.10973).
+- year: 2021
+  publications:
+  - markdown: |
+      T. D. Goodrich, E. Horton, B. D. Sullivan. An Updated Experimental Evaluation of Graph Bipartization Methods. _**ACM Journal of Experimental Algorithmics**_, 26:12, 2021. Available [on ArXiv](https://arxiv.org/abs/1805.01041).
+  - markdown: |
+      J. Kun, M. P. O'Brien, M. Pilipczuk, B. D. Sullivan. Polynomial treedepth bounds in linear colorings. _**Algorithmica**_, 83, 361–386, 2021. Available [on ArXiv](https://arxiv.org/abs/1802.09665).
+  - markdown: |
+      M. Cooley, C. Greene, D. Isaac, M. Pividori, B. D. Sullivan. Parameterized algorithms for identifying gene co-expression modules via weighted clique decomposition. _**Proceedings of the 2021 SIAM Conference on Applied and Computational Discrete Algorithms (ACDA21)**_. Available [on ArXiv](https://arxiv.org/abs/2106.00657).
 - year: 2020
   publications:
   - markdown: |
-      B. Lavallee, H. Russell, B. D. Sullivan, A. van der Poel.  Approximating Vertex Cover using Structural Rounding. _**To appear in Proceedings of the 2020 Meeting on Algorithm Engineering and Experiments (ALENEX20)**_. Available [on ArXiv](https://arxiv.org/abs/1909.04611).
+      B. Lavallee, H. Russell, B. D. Sullivan, A. van der Poel.  Approximating Vertex Cover using Structural Rounding. _**Proceedings of the 2020 Meeting on Algorithm Engineering and Experiments (ALENEX20)**_. Available [on ArXiv](https://arxiv.org/abs/1909.04611).
+  - markdown: |
+      C. T. Brown, D. O. Moritz, M. P. O'Brien, F. Reidl, T. E. Reiter, B. D. Sullivan. Exploring neighborhoods in large metagenome assembly graphs reveals hidden sequence diversity. _**Genome Biology**_, 21:164, 2020. Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/462788).
 - year: 2019
   publications:
   - markdown: |
@@ -21,7 +52,7 @@
   - markdown: |
       E. Demaine, F. Reidl, P. Rossmanith, F. Sanchez Villaamil, S. Sikdar, B. D. Sullivan. Structural Sparsity of Complex Networks: Random Graph Models and Linear Algorithms. _**Journal of Computer and System Sciences (JCSS), 2019**_. Available [on ArXiv](http://arxiv.org/abs/1406.2587).
   - markdown: |
-      E. Horton, K. Kloster, B. D. Sullivan.  Subgraph centrality and Walk-regularity. _**Linear Algebra & Applications (LAA), 2019**_. Available [on ArXiv](http://arxiv.org/abs/1804.05966).
+      E. Horton, K. Kloster, B. D. Sullivan.  Subgraph centrality and walk-regularity. _**Linear Algebra & Applications (LAA), 2019**_. Available [on ArXiv](http://arxiv.org/abs/1804.05966).
   - markdown: |
       K. Kloster, B. D. Sullivan, A. van der Poel. Mining Maximal Induced Bicliques using Odd Cycle Transversals. _**Proceedings of SIAM Data Mining (SDM) 2019**_. Available [on ArXiv](https://arxiv.org/abs/1810.11421).
 - year: 2018
