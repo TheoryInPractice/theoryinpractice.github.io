@@ -18,6 +18,11 @@
   featured: true
   markdown: |
       Our paper on (Parameterized Complexity of Gerrymandering)[https://arxiv.org/abs/2205.06857] has been accepted for publication at The 16th International Symposium on Algorithmic Game Theory (SAGT)! It will be presented in early September at the University of London.
+- posted: July 1, 2023
+  image: src/images/people/bdsullivan.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan has become a full professor at the University of Utah. Congratulations!
 - posted: May 28, 2023
   image: src/images/thumb/arxiv.jpg
   featured: true
@@ -38,6 +43,21 @@
   featured: true
   markdown: |
       Our paper (A Color-Avoiding Approach to Subgraph Counting in Bounded Expansion Classes)[http://arxiv.org/abs/2001.05236] has been accepted for publication at Algorithmica!
+- posted: January 1, 2023
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan is now the Chair for the SIAM Activity Group on Applied and Computational Discrete Algorithms from January 1, 2023 through December 31, 2024!
+- posted: November 15, 2022
+  image: src/images/people/bdsullivan.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan is now the Associate Director of Research at the (Utah Center for Data Science)[https://datascience.utah.edu/]!
+- posted: November 3, 2022
+  image: src/images/utah.phg
+  featured: true
+  markdown: |
+      Theory in Practice is now part of the newly-named Kahlert School of Computing! Thank you to the Kahlert Foundation for the very generous gift! Read more (here)[https://www.price.utah.edu/2022/11/04/school-of-computing-gets-new-name-and-gift].
 - posted: August 1, 2022
   image: src/images/thumb/papers_thumb.jpg
   featured: true
@@ -48,6 +68,11 @@
   featured: true
   markdown: |
       A paper \([On the threshold of intractability](https://arxiv.org/abs/1505.00612)\) Dr. Sullivan worked on about Chain Editing and Threshold Editing has been accepted for publication at the Journal of Computer and System Sciences. 
+- posted: July 31, 2021
+  image: src/images/comingsoon.png
+  featured: true
+  markdown: |
+      We have published some more software! It's called "Cricca", and it is an implementation of parameterized algorithms for solving edge-weighted clique cover to identify gene modules in co-expression data, based on [our paper](https://arxiv.org/abs/2106.00657). It is [available on GitHub](https://github.com/TheoryInPractice/cricca).
 - posted: July 6, 2021
   image: src/images/thumb/papers_thumb.jpg
   featured: true
@@ -73,6 +98,11 @@
   featured: true
   markdown: |
       Our paper on what [SpaceGraphCats](https://www.github.com/spacegraphcats/spacegraphcats) can do for metagenomics has been accepted for publication in Genome Biology! [Exploring neighborhoods in large metagenome assembly graphs using spacegraphcats reveals hidden sequence diversity](https://www.biorxiv.org/content/10.1101/462788v3).
+- posted: April 6, 2020
+  image: src/images/comingsoon.png
+  featured: true
+  markdown: |
+      We have published a major update to our code for Structural Rounding. See it [on GitHub](https://github.com/TheoryInPractice/structural-rounding)!
 - posted: January 31, 2020
   image: src/images/thumb/utah.png
   featured: true
