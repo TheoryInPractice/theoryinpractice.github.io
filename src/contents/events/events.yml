@@ -2,12 +2,12 @@
   image: src/images/thumb/siam.jpg
   featured: true
   markdown: |
-      Many members of the group will be at the 2023 SIAM Conference on Applied & Computational Discrete Algorithms (SIAMACDA23). Dr. Sullivan will be giving a plenary, Shweta Jain will be presenting our (paper)[https://arxiv.org/pdf/2206.07286], and there will be two posters from our group (three from the University of Utah)!
+      Many members of the group will be at the 2023 SIAM Conference on Applied & Computational Discrete Algorithms (SIAMACDA23). Dr. Sullivan will be giving a plenary, Shweta Jain will be presenting our [paper](https://arxiv.org/pdf/2206.07286), and there will be two posters from our group (three from the University of Utah)!
 - start: March 18, 2023
   image: src/images/thumb/talk.jpg
   featured: true
   markdown: |
-      Dr. Sullivan will be giving a Invited Address on generalized coloring numbers at the AMS Southeastern Sectional Meeting this month, as featured in (this article)[https://cos.gatech.edu/news/georgia-tech-host-american-mathematical-society-spring-southeastern-sectional-meeting] from the Georgia Tech College of Sciences.
+      Dr. Sullivan will be giving a Invited Address on generalized coloring numbers at the AMS Southeastern Sectional Meeting this month, as featured in [this article](https://cos.gatech.edu/news/georgia-tech-host-american-mathematical-society-spring-southeastern-sectional-meeting) from the Georgia Tech College of Sciences.
 - start: October 26, 2022
   image: src/images/thumb/talk.jpg
   featured: true
@@ -37,7 +37,7 @@
   image: src/images/thumb/siam.jpg
   featured: true
   markdown: |
-      Ph.D. student Madison Cooley will be presenting our paper [Parameterized algorithms for identifying gene co-expression modules via weighted clique decomposition](https://arxiv.org/abs/2106.00657) at (SIAM ACDA21)[https://www.siam.org/conferences/cm/conference/acda21] this month.
+      Ph.D. student Madison Cooley will be presenting our paper [Parameterized algorithms for identifying gene co-expression modules via weighted clique decomposition](https://arxiv.org/abs/2106.00657) at [SIAM ACDA21](https://www.siam.org/conferences/cm/conference/acda21) this month.
 - start: July 19, 2021
   image: src/images/thumb/siam.jpg
   featured: true
@@ -306,7 +306,7 @@
     David Bader, and Claire Monteleoni. _August talk cancelled_. Detailed schedule to be posted ASAP.
 - start: July 28, 2015
   end: July 30, 2015
-  image: src/images/thumb/icerm.png
+  image: src/images/icerm.png
   markdown: |
     Invited talk by Dr. Sullivan, and poster by Ph.D. students Timothy Goodrich, Michael O'Brien and Andrew van der Poel
     at ICERM [Workshop on the Mathematics in Data Science](http://icerm.brown.edu/topical_workshops/tw15-6-mds).
@@ -343,7 +343,7 @@
     Come hang out in College Park, do some networking, and hear about great research! **Update: some travel funding
     available for students and postdocs (as of March 23)**
 - start: April 10, 2015
-  image: src/images/talk.jpg
+  image: src/images/thumb/talk.jpg
   markdown: |
     Dr. Sullivan is speaking at the [_Capital Area Theory Seminar_](https://wiki.cs.umd.edu/theory/index.php?title=CATS)
     at the University of Maryland, Baltimore, MD.

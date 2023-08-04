@@ -2,17 +2,17 @@
   image: src/images/thumb/spaceship.png
   featured: true
   markdown: |
-      Our submission to the (2023 PACE Challenge)[https://pacechallenge.org/2023/] on twin width has placed first in the exact category as well as receiving the Theory Award! (See results)[https://pacechallenge.org/2023/results/]. Special congratulations to student co-authors Yosuke Mizutani, who led these efforts, and David Dursteler.
+      Our submission to the [2023 PACE Challenge](https://pacechallenge.org/2023/) on twin width has placed first in the exact category as well as receiving the Theory Award! [See results](https://pacechallenge.org/2023/results/). Special congratulations to student co-authors Yosuke Mizutani, who led these efforts, and David Dursteler.
 - posted: July 3, 2023
   image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
-      Our paper (Hetnet connectivity search provides rapid insights into how two biomedical entities are related)[https://www.biorxiv.org/content/10.1101/2023.01.05.522941] has been accepted for publication at GigaScience!
+      Our paper [Hetnet connectivity search provides rapid insights into how two biomedical entities are related](https://www.biorxiv.org/content/10.1101/2023.01.05.522941) has been accepted for publication at GigaScience!
 - posted: July 1, 2023
   image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
-      Our paper on (Parameterized Complexity of Gerrymandering)[https://arxiv.org/abs/2205.06857] has been accepted for publication at the 16th International Symposium on Algorithmic Game Theory (SAGT), which will be held in London in early September.
+      Our paper on [Parameterized Complexity of Gerrymandering](https://arxiv.org/abs/2205.06857) has been accepted for publication at the 16th International Symposium on Algorithmic Game Theory (SAGT), which will be held in London in early September.
 - posted: July 1, 2023
   image: src/images/people/bdsullivan.jpg
   featured: true
@@ -27,17 +27,17 @@
   image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
-      Our paper on (Reducing Access Disparities in Networks Using Edge Augmentations)[https://arxiv.org/abs/2209.07616] has been accepted for publication at the Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23)! It will be presented at the conference by our recent Ph.D. Ashkan Bashardoust in June.
+      Our paper on [Reducing Access Disparities in Networks Using Edge Augmentations](https://arxiv.org/abs/2209.07616) has been accepted for publication at the Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23)! It will be presented at the conference by our recent Ph.D. Ashkan Bashardoust in June.
 - posted: March 8, 2023
   image: src/images/thumb/siam.jpg
   featured: true
   markdown: |
       Our paper on "An Exponentially Smaller Kernel for Exact Weighted Clique Decomposition" has been accepted at the proceedings of SIAM Conference on Applied and Computational Discrete Algorithms (ACDA23).
 - posted: January 4, 2023
-  image: src/images/papers_thumb.jpg
+  image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
-      Our paper (A Color-Avoiding Approach to Subgraph Counting in Bounded Expansion Classes)[http://arxiv.org/abs/2001.05236] with former TiP postdoc Felix Reidl has been accepted for publication at Algorithmica!
+      Our paper [A Color-Avoiding Approach to Subgraph Counting in Bounded Expansion Classes](http://arxiv.org/abs/2001.05236) with former TiP postdoc Felix Reidl has been accepted for publication at Algorithmica!
 - posted: January 1, 2023
   image: src/images/thumb/siam.jpg
   featured: true
@@ -47,12 +47,12 @@
   image: src/images/people/bdsullivan.jpg
   featured: true
   markdown: |
-      Dr. Sullivan is now the Associate Director of Research at the (Utah Center for Data Science)[https://datascience.utah.edu/], and will be co-organizing the (Data Science Seminar)[http://datascience.utah.edu/seminar.html] in 2022-23. 
+      Dr. Sullivan is now the Associate Director of Research at the [Utah Center for Data Science](https://datascience.utah.edu/), and will be co-organizing the [Data Science Seminar](http://datascience.utah.edu/seminar.html) in 2022-23. 
 - posted: November 3, 2022
-  image: src/images/utah.phg
+  image: src/images/thumb/utah.png
   featured: true
   markdown: |
-      Theory in Practice is now part of the newly-named Kahlert School of Computing! Read more (here)[https://www.price.utah.edu/2022/11/04/school-of-computing-gets-new-name-and-gift].
+      Theory in Practice is now part of the newly-named Kahlert School of Computing! Read more [here](https://www.price.utah.edu/2022/11/04/school-of-computing-gets-new-name-and-gift).
 - posted: August 1, 2022
   image: src/images/thumb/papers_thumb.jpg
   featured: true
@@ -72,12 +72,12 @@
   image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
-      A preprint of our paper "Projecting genetic associations through gene expression" is available (on bioRxiv)[https://www.biorxiv.org/content/10.1101/2021.07.05.450786].
+      A preprint of our paper "Projecting genetic associations through gene expression" is available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.05.450786).
 - posted: July 5, 2022
   image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
-      A preprint of our paper "Meta-analysis of metagenomes via machine learning and assembly graphs reveals strain switches in Crohn's disease" is now available (on bioRxiv)[https://www.biorxiv.org/content/10.1101/2022.06.30.498290v1].
+      A preprint of our paper "Meta-analysis of metagenomes via machine learning and assembly graphs reveals strain switches in Crohn's disease" is now available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.30.498290v1).
 - posted: June 12, 2021
   image: src/images/thumb/siam.jpg
   featured: true
@@ -94,7 +94,7 @@
   markdown: |
        Our paper [Polynomial Treedepth Bounds in Linear Colorings](https://arxiv.org/abs/1802.09665) was accepted for publication at Algorithmica!
 - posted: May 29, 2020
-  image: src/images/software/spacegraphcats_logo.jpg
+  image: src/images/software/spacegraphcats_logo.png
   featured: true
   markdown: |
       Our paper on what [SpaceGraphCats](https://www.github.com/spacegraphcats/spacegraphcats) can do for metagenomics has been accepted for publication in Genome Biology! [Exploring neighborhoods in large metagenome assembly graphs using spacegraphcats reveals hidden sequence diversity](https://www.biorxiv.org/content/10.1101/462788v3).
@@ -448,7 +448,7 @@
   markdown: |
     **Postdoc Position Available!** More information [available here](src/docs/postdoc_2015.pdf).
 - posted: December 15, 2014
-  image: src/images/thumb/icerm.png
+  image: src/images/icerm.png
   markdown: |
     ICERM is hosting a Workshop on the Mathematics in Data Science in July 2015 -
     [apply to participate!](http://icerm.brown.edu/topical_workshops/tw15-6-mds)
