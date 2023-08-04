@@ -2,12 +2,12 @@
   image: src/images/thumb/siam.jpg
   featured: true
   markdown: |
-      Many members of the group will be at the 2023 SIAM Conference on Applied & Computational Discrete Algorithms (SIAMACDA23). Dr. Sullivan will be giving a plenary, Schweta Jain will be giving a presentation, and there will also be two posters from our group (three from the University of Utah)!
+      Many members of the group will be at the 2023 SIAM Conference on Applied & Computational Discrete Algorithms (SIAMACDA23). Dr. Sullivan will be giving a plenary, Shweta Jain will be presenting our (paper)[https://arxiv.org/pdf/2206.07286], and there will be two posters from our group (three from the University of Utah)!
 - start: March 18, 2023
   image: src/images/thumb/talk.jpg
   featured: true
   markdown: |
-      Dr. Sullivan will be giving an invited address this month at the AMS Southeastern Sectional Meeting about generalized coloring numbers.
+      Dr. Sullivan will be giving a Invited Address on generalized coloring numbers at the AMS Southeastern Sectional Meeting this month, as featured in (this article)[https://cos.gatech.edu/news/georgia-tech-host-american-mathematical-society-spring-southeastern-sectional-meeting] from the Georgia Tech College of Sciences.
 - start: October 26, 2022
   image: src/images/thumb/talk.jpg
   featured: true
@@ -22,12 +22,12 @@
   image: src/images/thumb/students.jpg
   featured: true
   markdown: |
-      Ph.D. student Yosuke Mizutani will be giving a presentation on [Improved Parameterized Complexity of Happy Set Problems](https://arxiv.org/abs/2207.06623) at IPEC2022!
+      Ph.D. student Yosuke Mizutani will be presenting our paper [Improved Parameterized Complexity of Happy Set Problems](https://arxiv.org/abs/2207.06623) at IPEC2022!
 - start: June 16, 2022
   image: src/images/thumb/siam.jpg
   featured: true
   markdown: |
-      Dr. Sullivan will be giving a plenary at the 2022 SIAM Conference on Discrete Mathematics (SIAMDM)!
+      Dr. Sullivan will be giving a plenary at the 2022 SIAM Conference on Discrete Mathematics (SIAMDM) in Pittsburgh this month!
 - start: June 13, 2022
   image: src/images/thumb/talk.jpg
   featured: true
@@ -37,17 +37,17 @@
   image: src/images/thumb/siam.jpg
   featured: true
   markdown: |
-      Madison Cooley will be presenting at ACDA21 on [Parameterized algorithms for identifying gene co-expression modules via weighted clique decomposition](https://arxiv.org/abs/2106.00657).
+      Ph.D. student Madison Cooley will be presenting our paper [Parameterized algorithms for identifying gene co-expression modules via weighted clique decomposition](https://arxiv.org/abs/2106.00657) at (SIAM ACDA21)[https://www.siam.org/conferences/cm/conference/acda21] this month.
 - start: July 19, 2021
   image: src/images/thumb/siam.jpg
   featured: true
   markdown: |
-      Dr. Sullivan will be talking at the SIAM Annual Meeting (AN21) at a Minisymposium on Applied & Computational Discrete Algorithms!
+      Dr. Sullivan will be speaking in the Minisymposium on Applied & Computational Discrete Algorithms at SIAM AN21.
 - start: June 9, 2021
   image: src/images/thumb/talk.jpg
   featured: true
   markdown: |
-      Dr. Sullivan will be giving a Keynote at the Symposium on Experimental Algorithms (SEA) in Nice, France!
+      Dr. Sullivan will be giving a (sadly virtual) Keynote at the Symposium on Experimental Algorithms (SEA) in Nice, France!
 - start: May 6, 2021
   image: src/images/thumb/talk.jpg
   featured: true
@@ -62,7 +62,7 @@
   image: src/images/thumb/siam.jpg
   featured: true
   markdown: |
-      Madison Cooley will be giving a talk at the SIAM Workshop on Network Science 2020 (NS20) on structural rounding.
+      Ph.D. student Madison Cooley will be giving a talk at the SIAM Workshop on Network Science 2020 (NS20) on structural rounding.
 - start: May 23, 2020
   image: src/images/thumb/talk.jpg
   featured: true
