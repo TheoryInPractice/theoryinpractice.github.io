@@ -1,3 +1,108 @@
+- posted: July 11, 2023
+  image: src/images/thumb/spaceship.png
+  featured: true
+  markdown: |
+      Our submission to the [2023 PACE Challenge](https://pacechallenge.org/2023/) on twin width has placed first in the exact category as well as receiving the Theory Award! [See results](https://pacechallenge.org/2023/results/). Special congratulations to student co-authors Yosuke Mizutani, who led these efforts, and David Dursteler.
+- posted: July 3, 2023
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper [Hetnet connectivity search provides rapid insights into how two biomedical entities are related](https://www.biorxiv.org/content/10.1101/2023.01.05.522941) has been accepted for publication at GigaScience!
+- posted: July 1, 2023
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper on [Parameterized Complexity of Gerrymandering](https://arxiv.org/abs/2205.06857) has been accepted for publication at the 16th International Symposium on Algorithmic Game Theory (SAGT), which will be held in London in early September.
+- posted: July 1, 2023
+  image: src/images/people/bdsullivan.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan was promoted to Professor at the University of Utah. Special thanks to all the Theory in Practice group members over the years who have contributed immeasurably to this accomplishment! 
+- posted: May 28, 2023
+  image: src/images/thumb/arxiv.jpg
+  featured: true
+  markdown: |
+      A preprint of our paper on Edge-Colored Clustering in Hypergraphs with Nate Veldt (TAMU) is available [on ArXiv](https://arxiv.org/abs/2305.17598).
+- posted: May 15, 2023
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper on [Reducing Access Disparities in Networks Using Edge Augmentations](https://arxiv.org/abs/2209.07616) has been accepted for publication at the Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23)! It will be presented at the conference by our recent Ph.D. Ashkan Bashardoust in June.
+- posted: March 8, 2023
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Our paper on "An Exponentially Smaller Kernel for Exact Weighted Clique Decomposition" has been accepted at the proceedings of SIAM Conference on Applied and Computational Discrete Algorithms (ACDA23).
+- posted: January 4, 2023
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper [A Color-Avoiding Approach to Subgraph Counting in Bounded Expansion Classes](http://arxiv.org/abs/2001.05236) with former TiP postdoc Felix Reidl has been accepted for publication at Algorithmica!
+- posted: January 1, 2023
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan was elected Chair of the SIAM Activity Group on Applied and Computational Discrete Algorithms from January 1, 2023 through December 31, 2024!
+- posted: November 15, 2022
+  image: src/images/people/bdsullivan.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan is now the Associate Director of Research at the [Utah Center for Data Science](https://datascience.utah.edu/), and will be co-organizing the [Data Science Seminar](http://datascience.utah.edu/seminar.html) in 2022-23. 
+- posted: November 3, 2022
+  image: src/images/thumb/utah.png
+  featured: true
+  markdown: |
+      Theory in Practice is now part of the newly-named Kahlert School of Computing! Read more [here](https://www.price.utah.edu/2022/11/04/school-of-computing-gets-new-name-and-gift).
+- posted: August 1, 2022
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+       Our paper [Improved Parameterized Complexity of Happy Set Problems](https://arxiv.org/abs/2207.06623), led by Ph.D. student Yosuke Mizutane, was accepted for publication at the International Symposium on Parameterized and Exact Computation (IPEC 2022)!
+- posted: September 17, 2021
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      The journal version of our ESA 2015 paper \([On the threshold of intractability](https://arxiv.org/abs/1505.00612)\) has been accepted for publication at the Journal of Computer and System Sciences. 
+- posted: July 31, 2021
+  image: src/images/comingsoon.png
+  featured: true
+  markdown: |
+      Our new software package "cricca" is now  [available on GitHub](https://github.com/TheoryInPractice/cricca). Cricca solves edge-weighted clique cover to identify gene modules in co-expression data, based on [our ACDA21 paper](https://arxiv.org/abs/2106.00657). 
+- posted: July 6, 2021
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      A preprint of our paper "Projecting genetic associations through gene expression" is available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.05.450786).
+- posted: July 5, 2022
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      A preprint of our paper "Meta-analysis of metagenomes via machine learning and assembly graphs reveals strain switches in Crohn's disease" is now available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.30.498290v1).
+- posted: June 12, 2021
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Our paper [Parameterized algorithms for identifying gene co-expression modules via weighted clique decomposition](https://arxiv.org/abs/2106.00657) has been accepted for publication at the Proceedings of the 2021 SIAM Conference on Applied and Computational Discrete Algorithms (ACDA21)!
+- posted: May 1, 2021
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+       Our paper [An Updated Experimental Evaluation of Graph Bipartization Methods](https://arxiv.org/abs/1805.01041) has been accepted for publication at the ACM Journal of Experimental Algorithmics!
+- posted: August 11, 2020
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+       Our paper [Polynomial Treedepth Bounds in Linear Colorings](https://arxiv.org/abs/1802.09665) was accepted for publication at Algorithmica!
+- posted: May 29, 2020
+  image: src/images/software/spacegraphcats_logo.png
+  featured: true
+  markdown: |
+      Our paper on what [SpaceGraphCats](https://www.github.com/spacegraphcats/spacegraphcats) can do for metagenomics has been accepted for publication in Genome Biology! [Exploring neighborhoods in large metagenome assembly graphs using spacegraphcats reveals hidden sequence diversity](https://www.biorxiv.org/content/10.1101/462788v3).
+- posted: April 6, 2020
+  image: src/images/comingsoon.png
+  featured: true
+  markdown: |
+      We have published a major update to our code for Structural Rounding. See it [on GitHub](https://github.com/TheoryInPractice/structural-rounding)!
 - posted: January 31, 2020
   image: src/images/thumb/utah.png
   featured: true
@@ -8,6 +113,11 @@
   featured: true
   markdown: |
       A preprint of our paper on a new approach to subgraph counting in bounded expansion is available on [ArXiv](http://arxiv.org/abs/2001.05236).
+- posted: January 1, 2020
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan is co-organizing the new SIAM ACDA Online Seminar Series; the first lecture will be by Kathy Yelick (LBNL) on December 16, 2021. 
 - posted: October 6, 2019
   image: src/images/thumb/siam.jpg
   featured: true
@@ -162,7 +272,7 @@
   image: src/images/thumb/student.png
   featured: true
   markdown: |
-    TiP has lots of new faces this fall! Find out more about PhD students Abida Haque and Brian Lavallee, and undergraduates Allison Fisher and Andrew Wright on the <a ui-sref="people">People</a> page.
+    TiP has lots of new faces this fall! Find out more about Ph.D. students Abida Haque and Brian Lavallee, and undergraduates Allison Fisher and Andrew Wright on the <a ui-sref="people">People</a> page.
 - posted: June 28, 2017
   image: src/images/thumb/arxiv.jpg
   markdown: |
@@ -338,7 +448,7 @@
   markdown: |
     **Postdoc Position Available!** More information [available here](src/docs/postdoc_2015.pdf).
 - posted: December 15, 2014
-  image: src/images/thumb/icerm.png
+  image: src/images/icerm.png
   markdown: |
     ICERM is hosting a Workshop on the Mathematics in Data Science in July 2015 -
     [apply to participate!](http://icerm.brown.edu/topical_workshops/tw15-6-mds)
