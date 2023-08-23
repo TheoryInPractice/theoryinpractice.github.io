@@ -73,17 +73,17 @@ alumni:
   name: Andrew Fraser
   date: Spring 2022 - Fall 2022
   markdown: |
-    Andrew worked with the Theory in Practice group on XXX. Upon graduating with an M.S. in Computer Science from the University of Utah in Spring 2023, he took a job with XXX.
+    Andrew worked with the Theory in Practice group on the parameterized complexity of gerrymandering on trees. Upon graduating with an M.S. in Computer Science from the University of Utah in Spring 2023, he took a job with XXX.
 - image: src/images/comingsoon.png
   name: Madison Cooley
   date: Fall 2020 - Summer 2021
   markdown: |
-    TODO INSERT BLURB
+    Madi worked with the Theory in Practice group on the edge-weighted clique cover problem for identifying modules in gene co-expression data. She is currently completing her PhD in Computing at the University of Utah, co-advised by Dr. Mike Kirby and Dr. Shandian Zhe.
 - image: src/images/people/astaker.jpg
   name: Annie Staker
   date: Spring 2021
   markdown: |
-    Annie worked with the Theory in Practice group on XXX. Upon graduating with a B.S. in XXX from the University of Utah in Spring 2021, she took a job with XXX.
+    Annie worked with the Theory in Practice group on improving balance and congestion in dominating sets for use in SpaceGraphCats. Upon graduating with a B.S. in XXX from the University of Utah in Spring 2021, she took a job with XXX.
 - image: src/images/people/cperschon.jpg
   name: Cole Perschon
   date: Spring 2020 - Spring 2021.
@@ -104,7 +104,9 @@ alumni:
   about:
     href: https://guoj.org/
   markdown: |
-    TODO UPDATE BLURB Jing is a fourth-year undergraduate at the University of Utah majoring in math and minoring in CS. He helps with improving OCT with turbo-charging FPT subroutines.
+    Jing worked with Theory in Practice on improving algorithms for OCT by ``turbo-charging'' FPT subroutines. 
+    He is currently an MSc student in the ALGANT program (Regensburg et Leiden), and looking for doctoral positions 
+    in extremal combinatorics.    
 - image: src/images/comingsoon.png
   name: Matthew Hooper
   date: Spring 2020
