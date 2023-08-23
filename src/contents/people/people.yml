@@ -14,31 +14,35 @@ postdocs:
   name: Shweta Jain
   email: shweta(dot)jain(at)utah(dot)edu
   about:
-    href: WWW
+    href: https://sjain12.github.io
   markdown: |
-   Shweta joined Theory in Practice as a Computing Innovation Fellow (CIFellow) in 2021. She came to us after completing a PhD in Computer Science at UC Santa Cruz with Sesh Comandur and a one-year postdoc at the University of Illinois. Shweta is interested in practical, scalable solutions to challenges in graph analysis, and currently open to opportunities in both academia and industry starting in 2024. 
+   Shweta joined Theory in Practice as a Computing Innovation Fellow (CIFellow) in 2021. She came to us after completing a PhD in 
+   Computer Science at UC Santa Cruz with Sesh Comandur and a one-year postdoc at the University of Illinois. 
+   Shweta is interested in practical, scalable solutions to challenges in graph analysis, and currently open to opportunities in both academia and industry starting in 2024. 
 gradstudents:
 - image: src/images/people/ymizutane.jpg
   name: Yosuke Mizutane
   email: yos(at)cs(dot)utah(dot)edu
   about:
-    href: WWW
+    href: https://users.cs.utah.edu/~yos/
   markdown: |
-    TODO Insert blurb
+    Yo is a fourth-year PhD student, and joined Theory in Practice after completing his B.S. in Computer Science at 
+    North Carolina State University. TODO. 
 - image: src/images/people/acrane.jpg
   name: Alex Crane
   email: crane(at)cs(dot)utah(dot)edu
   about:
     href: WWW
   markdown: |
-    TODO Insert blurb
+    Alex is a second-year PhD student, and joined Theory in Practice from a Software Engineering role at Resolution Bioscience. 
+    He completed his B.A. in Mathematics and Computer Science at Swarthmore College. TODO. 
 - image: src/images/people/ddursteler.jpg
   name: David Dursteler
   email: u1161522(at)utah(dot)edu
   about:
     href: WWW
   markdown: |
-    TODO Insert Blurb
+    David is in the final semester of the BS/MS program in Computer Science at the University of Utah. TODO.
 undergraduates:
 - image: src/images/comingsoon.png
   markdown: |
@@ -49,19 +53,21 @@ alumni:
   email: brian.lavallee(at)utah(dot)edu
   date: 2017-2023
   markdown: |
-    Brian completed his doctoral dissertation "An Editing-based Approach to Extending Structural Graph Algorithms" at the University of Utah advised by Dr. Sullivan in October 2022.    
+    Brian completed his doctoral dissertation "An Editing-based Approach to Extending Structural Graph Algorithms" in Computing at the 
+    University of Utah advised by Dr. Sullivan in October 2022. 
 - image: src/images/people/abashardoust.png
   name: Ashkan Bashardoust
   date: 2021 - 2022
   markdown: |
-    Ashkan completed his doctoral dissertation "Equality in Information Access in Social Networks" at the University of Utah co-advised by Dr. Sullivan and Dr. Suresh Venkatasubramanian (Brown University) in June 2022. 
+    Ashkan completed his doctoral dissertation "Equality in Information Access in Social Networks" in Computing at the University of Utah 
+    co-advised by Dr. Sullivan and Dr. Suresh Venkatasubramanian (Brown University) in June 2022. 
     He is currently seeking a role as a Software Engineer.
 - image: src/images/people/mjbreenm.jpg
   name: Michael Breen-McKay
-  email: mjbreenm(at)ncsu(dot)edu
   date: 2018-2022
   markdown: |
-    Mike completed his doctoral dissertation "A Combinatorial Approach to Problems in Evolutionary Biology and Sparse Networks" at NC State University co-advised by Dr. Sullivan and Dr. Seth Sullivant (Mathematics, NC State) in June 2022. 
+    Mike completed his doctoral dissertation "A Combinatorial Approach to Problems in Evolutionary Biology and Sparse Networks" in Mathematics 
+    at NC State University co-advised by Dr. Sullivan and Dr. Seth Sullivant (Mathematics, NC State) in June 2022. 
     He is currently teaching at Durham Tech Community College and seeking an industry position in Data Science. 
 - image: src/images/people/afraser.jpg
   name: Andrew Fraser
@@ -111,7 +117,7 @@ alumni:
   name: Drew van der Poel
   date: Fall 2014 - Fall 2019.
   markdown: |
-    Drew completed his doctoral dissertation "Approaches for Graphs Near Structural Classes" at NC State University advised by Dr. Sullivan in 2019.
+    Drew completed his doctoral dissertation "Approaches for Graphs Near Structural Classes" in Computer Science at NC State University advised by Dr. Sullivan in 2019.
     He is currently an Assistant Teaching Professor in the Khoury College of Computer Sciences at Northeastern University, which he joined immediately after graduation.
 - image: src/images/people/kkloster.jpg
   name: Kyle Kloster
@@ -129,13 +135,16 @@ alumni:
   date: Fall 2013 - Spring 2018
   markdown: |
     Mike completed his doctoral dissertation "A Multifaceted Approach to Improving
-    the Practicality of Structural Graph Algorithms" advised by Dr. Sullivan in 2018.
+    the Practicality of Structural Graph Algorithms" in Computer Science at NC State University advised by Dr. Sullivan in 2018.
     He is currently a Software Engineer at Google, where he has worked since graduation.
 - image: src/images/people/ewhorton.jpg
   name: Eric Horton
   date: Fall 2016 - Fall 2018
   markdown: |
-    Eric worked with TiP as an undergraduate (on walk-regularity), a MCS student (on odd cycle transversal algorithms for quantum computing), and a first-year PhD student (on improving coloring algorithms and the CONCUSS implementation). He is currently continuing his PhD at NC State, focused on software engineering.
+    Eric worked with TiP as an undergraduate (on walk-regularity), 
+    a MCS student (on odd cycle transversal algorithms for quantum computing),
+    and a first-year PhD student (on improving coloring algorithms and the CONCUSS implementation). 
+    He completed his PhD at NC State, focused on software engineering, in 2022 and is now a Senior Software Engineer at Github. 
 - image: src/images/people/mjsuggs.jpg
   name: Michael Suggs
   date: Fall 2018
@@ -148,7 +157,8 @@ alumni:
   about:
     href: https://tdgoodrich.github.io/
   markdown: |
-    Timothy worked with the Theory in Practice group on random graph models and algorithms with applications in quantum computing. He is now concluding his dissertation with Dr. Stallmann in experimental algorithmics.
+    Timothy worked with the Theory in Practice group on random graph models and algorithms with applications in quantum computing. 
+    He subsequently completed his PhD at NC State in 2020, advised by Dr. Matt Stallmann, and is now an Engineering Manager at Pendo.
 - image: src/images/people/ahaque.jpg
   name: Abida Haque
   date: Fall 2017
