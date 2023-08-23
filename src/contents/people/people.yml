@@ -12,7 +12,7 @@ principal:
 postdocs:
 - image: src/images/people/sjain.png
   name: Shweta Jain
-  email: TODO INSERT EMAIL
+  email: shweta(dot)jain(at)utah(dot)edu
   about:
     href: WWW
   markdown: |
@@ -20,14 +20,14 @@ postdocs:
 gradstudents:
 - image: src/images/people/ymizutane.jpg
   name: Yosuke Mizutane
-  email: TODO insert email
+  email: yos(at)cs(dot)utah(dot)edu
   about:
     href: WWW
   markdown: |
     TODO Insert blurb
 - image: src/images/people/acrane.jpg
   name: Alex Crane
-  email: TODO insert email
+  email: crane(at)cs(dot)utah(dot)edu
   about:
     href: WWW
   markdown: |
@@ -47,29 +47,27 @@ alumni:
 - image: src/images/people/blavallee.jpg
   name: Brian Lavallee
   email: brian.lavallee(at)utah(dot)edu
-  date: TODO 2017-2023
-  about:
-    href: WWW
+  date: 2017-2023
   markdown: |
-    TODO UPDATE BLURB Brian is a third-year Ph.D. student at the University of Utah working with TiP on local search and specialized coloring algorithms in structurally sparse graphs.  He graduated from Duke University and enjoys following soccer and playing boardgames.
+    Brian completed his doctoral dissertation "An Editing-based Approach to Extending Structural Graph Algorithms" at the University of Utah advised by Dr. Sullivan in October 2022.    
 - image: src/images/people/abashardoust.png
   name: Ashkan Bashardoust
-  date: TODO 2021 - 2022
+  date: 2021 - 2022
   markdown: |
-    TODO INSERT BLURB
+    Ashkan completed his doctoral dissertation "Equality in Information Access in Social Networks" at the University of Utah co-advised by Dr. Sullivan and Dr. Suresh Venkatasubramanian (Brown University) in June 2022. 
+    He is currently seeking a role as a Software Engineer.
 - image: src/images/people/mjbreenm.jpg
   name: Michael Breen-McKay
   email: mjbreenm(at)ncsu(dot)edu
-  date: TODO 2018-2022
-  about:
-    href: WWW
+  date: 2018-2022
   markdown: |
-    TODO UPDATE BLURB Mike is a fifth-year co-advised Ph.D. student in the math department at NC State. He graduated from UNC Asheville and spends far too much of his free time playing disc golf and cooking.
+    Mike completed his doctoral dissertation "A Combinatorial Approach to Problems in Evolutionary Biology and Sparse Networks" at NC State University co-advised by Dr. Sullivan and Dr. Seth Sullivant (Mathematics, NC State) in June 2022. 
+    He is currently teaching at Durham Tech Community College and seeking an industry position in Data Science. 
 - image: src/images/people/afraser.jpg
   name: Andrew Fraser
   date: Spring 2022 - Fall 2022
   markdown: |
-    TODO INSERT BLURB
+    Andrew worked with the Theory in Practice group on XXX. Upon graduating with an M.S. in Computer Science from the University of Utah in Spring 2023, he took a job with XXX.
 - image: src/images/comingsoon.png
   name: Madison Cooley
   date: Fall 2020 - Summer 2021
@@ -79,7 +77,7 @@ alumni:
   name: Annie Staker
   date: Spring 2021
   markdown: |
-    TODO INSERT BLURB
+    Annie worked with the Theory in Practice group on XXX. Upon graduating with a B.S. in XXX from the University of Utah in Spring 2021, she took a job with XXX.
 - image: src/images/people/cperschon.jpg
   name: Cole Perschon
   date: Spring 2020 - Spring 2021.
@@ -87,7 +85,7 @@ alumni:
   about:
     href: http://coleperschon.com/
   markdown: |
-    TODO UPDATE BLURB Cole is a fourth-year undergraduate at the University of Utah majoring in computer science and applied mathematics. He works on structural rounding's software package and spends his freetime following lacrosse and going skiing.
+    Cole completed his University of Utah Honors thesis ``Structural Rounding on a Parameterized Graph Class Using Heuristics'' with Theory in Practice group. Upon graduating with a B.S. in XXX from the University of Utah in Spring 2021, she took a job with XXX. He is currently XXX with XXX. 
 - image: src/images/comingsoon.png
   name: Rachel Walker
   date: Fall 2020
@@ -102,11 +100,6 @@ alumni:
   markdown: |
     TODO UPDATE BLURB Jing is a fourth-year undergraduate at the University of Utah majoring in math and minoring in CS. He helps with improving OCT with turbo-charging FPT subroutines.
 - image: src/images/comingsoon.png
-  name: Michael Suggs
-  date: Fall 2018
-  markdown: |
-    TODO BLURB
-- image: src/images/comingsoon.png
   name: Matthew Hooper
   date: Spring 2020
   markdown: TODO BLURB
@@ -118,8 +111,8 @@ alumni:
   name: Drew van der Poel
   date: Fall 2014 - Fall 2019.
   markdown: |
-    Drew completed his doctoral dissertation "Approaches for Graphs Near Structural Classes" advised by Dr. Sullivan in 2019.
-    Upon graduating he took a job as teaching faculty at Northeastern University.
+    Drew completed his doctoral dissertation "Approaches for Graphs Near Structural Classes" at NC State University advised by Dr. Sullivan in 2019.
+    He is currently an Assistant Teaching Professor in the Khoury College of Computer Sciences at Northeastern University, which he joined immediately after graduation.
 - image: src/images/people/kkloster.jpg
   name: Kyle Kloster
   date: June 2016 - October 2018.
@@ -130,14 +123,14 @@ alumni:
   date: January 2016 - April 2017
   markdown: |
     Felix was a postdoctoral researcher with Theory in Practice in 2016-17 who came to us after
-    completing a PhD at RWTH Aachen University. After completing a second postdoc at Royal Holloway University, he joined Birkbeck University in London as a Lecturer in Fall 2018.
+    completing a PhD at RWTH Aachen University. After completing a second postdoc at Royal Holloway University, he joined Birkbeck University in London, where he is now a Senior Lecturer. 
 - image: src/images/people/mpobrien.jpg
   name: Michael P. O'Brien
   date: Fall 2013 - Spring 2018
   markdown: |
     Mike completed his doctoral dissertation "A Multifaceted Approach to Improving
     the Practicality of Structural Graph Algorithms" advised by Dr. Sullivan in 2018.
-    Upon graduating he took a job at Google.
+    He is currently a Software Engineer at Google, where he has worked since graduation.
 - image: src/images/people/ewhorton.jpg
   name: Eric Horton
   date: Fall 2016 - Fall 2018
@@ -216,43 +209,3 @@ alumni:
   markdown: |
     Alex worked with Theory in Practice on random intersection graphs. He graduated from NC State with BS degrees in Mathematics and Economics in Spring 2014, and is now pursuing a
     PhD in Statistics at Stanford University working with Johan Ugander.
-- image: src/images/comingsoon.png
-  name: William Hill
-  date: Fall 2013
-  markdown: |
-    TODO Blurb? They weren't on here previously, so should they be included?
-- image: src/images/comingsoon.png
-  name: Aaron Adcock
-  date: TODO 2011-2013
-  markdown: |
-    TODO Blurb? They were at ORNL with Dr. Sullivan, so should they be included?
-- image: src/images/comingsoon.png
-  name: Matthew Farrell
-  date: Summer 2013
-  markdown: |
-    TODO Blurb? He was an intern, so should he be included?
-- image: src/images/comingsoon.png
-  name: Diego Galindo
-  date: TODO 2012
-  markdown: |
-    TODO Blurb? They weren't on here previously, so should they be included?
-- image: src/images/comingsoon.png
-  name: Charlotte Kotas
-  date: TODO 2012
-  markdown: |
-    TODO Blurb? They weren't on here previously, so should they be included?
-- image: src/images/comingsoon.png
-  name: Dinesh Weerapurage
-  date: TODO 2011-2012
-  markdown: |
-    TODO Blurb? They weren't on here previously, so should they be included?
-- image: src/images/comingsoon.png
-  name: Christine Klymko
-  date: TODO 2012
-  markdown: |
-    TODO Blurb? They were at ORNL with Dr. Sullivan, so should they be included?
-- image: src/images/comingsoon.png
-  name: Zhibin Huang
-  date: TODO 2010
-  markdown: |
-    TODO Blurb? They were at ORNL with Dr. Sullivan, so should they be included?
