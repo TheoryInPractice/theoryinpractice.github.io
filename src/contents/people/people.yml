@@ -9,38 +9,111 @@ principal:
     and Applied Mathematics from the Georgia Institute of Technology. Prior to moving to Utah in Fall 2019, she was
     an Associate Professor of Computer Science at NC State (2013-2019) and
     a Research Scientist in the Computer Science and Mathematics Division at Oak Ridge National Laboratory (2008-2013).
-#postdocs:
+postdocs:
+- image: src/images/people/sjain.png
+  name: Shweta Jain
+  email: TODO INSERT EMAIL
+  about:
+    href: WWW
+  markdown: |
+    TODO INSERT BIO
 gradstudents:
+- image: src/images/people/ymizutane.jpg
+  name: Yosuke Mizutane
+  email: TODO insert email
+  about:
+    href: WWW
+  markdown: |
+    TODO Insert blurb
+- image: src/images/people/acrane.jpg
+  name: Alex Crane
+  email: TODO insert email
+  about:
+    href: WWW
+  markdown: |
+    TODO Insert blurb
+- image: src/images/people/ddursteler.jpg
+  name: David Dursteler
+  email: u1161522(at)utah(dot)edu
+  about:
+    href: WWW
+  markdown: |
+    TODO Insert Blurb
+undergraduates:
+- image: src/images/comingsoon.png
+  markdown: |
+    TODO Insert blurb about open for undergraduates
+alumni:
 - image: src/images/people/blavallee.jpg
   name: Brian Lavallee
   email: brian.lavallee(at)utah(dot)edu
+  date: TODO 2017-2023
   about:
     href: WWW
   markdown: |
-    Brian is a third-year Ph.D. student at the University of Utah working with TiP on local search and specialized coloring algorithms in structurally sparse graphs.  He graduated from Duke University and enjoys following soccer and playing boardgames.
+    TODO UPDATE BLURB Brian is a third-year Ph.D. student at the University of Utah working with TiP on local search and specialized coloring algorithms in structurally sparse graphs.  He graduated from Duke University and enjoys following soccer and playing boardgames.
+- image: src/images/people/abashardoust.png
+  name: Ashkan Bashardoust
+  date: TODO 2021 - 2022
+  markdown: |
+    TODO INSERT BLURB
 - image: src/images/people/mjbreenm.jpg
   name: Michael Breen-McKay
   email: mjbreenm(at)ncsu(dot)edu
+  date: TODO 2018-2022
   about:
     href: WWW
   markdown: |
-    Mike is a fifth-year co-advised Ph.D. student in the math department at NC State. He graduated from UNC Asheville and spends far too much of his free time playing disc golf and cooking.
-undergraduates:
-- image: src/images/people/jguo.jpg
-  name: Jing Guo
-  email: dev.guoj(at)gmail(dot)com
-  about:
-    href: https://guoj.org/
+    TODO UPDATE BLURB Mike is a fifth-year co-advised Ph.D. student in the math department at NC State. He graduated from UNC Asheville and spends far too much of his free time playing disc golf and cooking.
+- image: src/images/people/afraser.jpg
+  name: Andrew Fraser
+  date: Spring 2022 - Fall 2022
   markdown: |
-    Jing is a fourth-year undergraduate at the University of Utah majoring in math and minoring in CS. He helps with improving OCT with turbo-charging FPT subroutines.
+    TODO INSERT BLURB
+- image: src/images/comingsoon.png
+  name: Madison Cooley
+  date: Fall 2020 - Summer 2021
+  markdown: |
+    TODO INSERT BLURB
+- image: src/images/people/astaker.jpg
+  name: Annie Staker
+  date: Spring 2021
+  markdown: |
+    TODO INSERT BLURB
 - image: src/images/people/cperschon.jpg
   name: Cole Perschon
+  date: Spring 2020 - Spring 2021.
   email: cschon(at)cs(dot)utah(dot)edu
   about:
     href: http://coleperschon.com/
   markdown: |
-    Cole is a fourth-year undergraduate at the University of Utah majoring in computer science and applied mathematics. He works on structural rounding's software package and spends his freetime following lacrosse and going skiing.
-alumni:
+    TODO UPDATE BLURB Cole is a fourth-year undergraduate at the University of Utah majoring in computer science and applied mathematics. He works on structural rounding's software package and spends his freetime following lacrosse and going skiing.
+- image: src/images/comingsoon.png
+  name: Rachel Walker
+  date: Fall 2020
+  markdown:
+    TODO BLURB?
+- image: src/images/people/jguo.jpg
+  name: Jing Guo
+  date: Fall 2019 - Spring 2020
+  email: dev.guoj(at)gmail(dot)com
+  about:
+    href: https://guoj.org/
+  markdown: |
+    TODO UPDATE BLURB Jing is a fourth-year undergraduate at the University of Utah majoring in math and minoring in CS. He helps with improving OCT with turbo-charging FPT subroutines.
+- image: src/images/comingsoon.png
+  name: Michael Suggs
+  date: Fall 2018
+  markdown: |
+    TODO BLURB
+- image: src/images/comingsoon.png
+  name: Matthew Hooper
+  date: Spring 2020
+  markdown: TODO BLURB
+- image: src/images/comingsoon.png
+  name: Forrest Hurley
+  date: Spring 2019 - Fall 2019
+  markdown: TODO BLURB
 - image: src/images/people/ajvanderpoel.jpg
   name: Drew van der Poel
   date: Fall 2014 - Fall 2019.
@@ -133,7 +206,7 @@ alumni:
     Yang graduated with BS degrees in Computer Science and Physics in Spring 2016, and is continuing his career at NC
     State as a CSC MS student in the Accelerated Bachelors-Masters program.
 - image: src/images/people/cghobbs.jpg
-  name: Clayton Hobbs
+  name: Clara (Clayton) Hobbs
   date: Spring, Summer 2015; Spring 2016
   markdown: |
     Clay graduated from NC State with a BS in Computer Science in Spring 2016 and started in the Computer Science Ph.D. program at UNC Chapel Hill in Fall 2018.
@@ -143,3 +216,43 @@ alumni:
   markdown: |
     Alex worked with Theory in Practice on random intersection graphs. He graduated from NC State with BS degrees in Mathematics and Economics in Spring 2014, and is now pursuing a
     PhD in Statistics at Stanford University working with Johan Ugander.
+- image: src/images/comingsoon.png
+  name: William Hill
+  date: Fall 2013
+  markdown: |
+    TODO Blurb? They weren't on here previously, so should they be included?
+- image: src/images/comingsoon.png
+  name: Aaron Adcock
+  date: TODO 2011-2013
+  markdown: |
+    TODO Blurb? They were at ORNL with Dr. Sullivan, so should they be included?
+- image: src/images/comingsoon.png
+  name: Matthew Farrell
+  date: Summer 2013
+  markdown: |
+    TODO Blurb? He was an intern, so should he be included?
+- image: src/images/comingsoon.png
+  name: Diego Galindo
+  date: TODO 2012
+  markdown: |
+    TODO Blurb? They weren't on here previously, so should they be included?
+- image: src/images/comingsoon.png
+  name: Charlotte Kotas
+  date: TODO 2012
+  markdown: |
+    TODO Blurb? They weren't on here previously, so should they be included?
+- image: src/images/comingsoon.png
+  name: Dinesh Weerapurage
+  date: TODO 2011-2012
+  markdown: |
+    TODO Blurb? They weren't on here previously, so should they be included?
+- image: src/images/comingsoon.png
+  name: Christine Klymko
+  date: TODO 2012
+  markdown: |
+    TODO Blurb? They were at ORNL with Dr. Sullivan, so should they be included?
+- image: src/images/comingsoon.png
+  name: Zhibin Huang
+  date: TODO 2010
+  markdown: |
+    TODO Blurb? They were at ORNL with Dr. Sullivan, so should they be included?
