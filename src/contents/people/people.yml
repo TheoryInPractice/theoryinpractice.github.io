@@ -82,7 +82,8 @@ alumni:
   name: Andrew Fraser
   date: Spring 2022 - Fall 2022
   markdown: |
-    Andrew worked with the Theory in Practice group on the parameterized complexity of gerrymandering on trees. Upon graduating with an M.S. in Computer Science from the University of Utah in Spring 2023, he took a job with XXX.
+    Andrew worked with the Theory in Practice group on the parameterized complexity of gerrymandering on trees. 
+    Upon graduating with an M.S. in Computer Science from the University of Utah in Spring 2023, he took a job with XXX.
 - image: src/images/comingsoon.png
   name: Madison Cooley
   date: Fall 2020 - Summer 2021
@@ -92,7 +93,9 @@ alumni:
   name: Annie Staker
   date: Spring 2021
   markdown: |
-    Annie worked with the Theory in Practice group on improving balance and congestion in dominating sets for use in SpaceGraphCats. Upon graduating with a B.S. in XXX from the University of Utah in Spring 2021, she took a job with XXX.
+    Annie worked with the Theory in Practice group on improving balance and congestion in dominating sets for use in SpaceGraphCats. 
+    Upon graduating with a B.S. in Applied Mathematics from the University of Utah in Spring 2021, she took a job as a Mathematician 
+    with Co-Diagnostics, Inc.
 - image: src/images/people/cperschon.jpg
   name: Cole Perschon
   date: Spring 2020 - Spring 2021.
