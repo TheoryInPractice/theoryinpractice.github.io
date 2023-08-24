@@ -46,8 +46,7 @@ gradstudents:
     href: https://dursteler.me
   markdown: |
     David is in his final semester of the BS/MS program at the University of Utah, and has worked with TiP on several problems, 
-    including using machine learning to identify gene modules, improving fairness in information access on social networks, 
-    and working on [a solver for twinwidth](https://pacechallenge.org/2023/results/#theory-award). 
+    including using machine learning to identify gene modules and working on [a solver for twinwidth](https://pacechallenge.org/2023/results/#theory-award). 
     David also works on using tiling in deep neural networks with Dr. Sadayappan, and can be found playing video games 
     when he's not busy learning about topics he doesn't research (like PL or OS).
 undergraduates:
