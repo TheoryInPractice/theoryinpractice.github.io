@@ -12,6 +12,8 @@
 - year: 2023
   publications:
   - markdown: |
+      E. Arrighi, M. Bentert, P. Drange, B. D. Sullivan, P. Wolf. Cluster Editing with Overlapping Communities. To appear at IPEC 2023. 
+  - markdown: |
       D. S. Himmelstein, M. Zietz, V. Rubinetti, K. Kloster, B. J. Heil, F. Alquaddoomi, D. Hu, D. N. Nicholson, Y. Hao, B. D. Sullivan, M. W. Nagle, and C. S. Greene. Hetnet connectivity search provides rapid insights into how biomedical entities are related. Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.05.522941). To appear in GigaScience, 2023.
   - markdown: |
       A. Fraser, B. Lavallee, B. D. Sullivan. Gerrymandering Trees: Parameterized Hardness. Available [on ArXiv](http://arxiv.org/abs/2205.06857). To appear in the 16th International Symposium on Algorithmic Game Theory (SAGT), 2023
