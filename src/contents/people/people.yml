@@ -27,26 +27,36 @@ gradstudents:
     href: https://users.cs.utah.edu/~yos/
   markdown: |
     Yo is a fourth-year PhD student, and joined Theory in Practice after completing his B.S. in Computer Science at 
-    North Carolina State University. TODO. 
+    North Carolina State University. Yo's research interests include structural graph parameters, practical pre-processing, and functional programming. 
+    Outside of work, he helps coach the University of Utah competitive programming team, and enjoys writing and performing music. 
 - image: src/images/people/acrane.jpg
   name: Alex Crane
   email: crane(at)cs(dot)utah(dot)edu
   about:
-    href: WWW
+    href: https://alexcrane0.github.io/
   markdown: |
     Alex is a second-year PhD student, and joined Theory in Practice from a Software Engineering role at Resolution Bioscience. 
-    He completed his B.A. in Mathematics and Computer Science at Swarthmore College. TODO. 
+    He completed his B.A. in Mathematics and Computer Science at Swarthmore College. He is currently working on problems at the 
+    intersection of parameterized complexity, (hyper)graph clustering, and algorithmic fairness. In his free time, 
+    Alex can be found skiing, climbing, or hiking in the Wasatch.
 - image: src/images/people/ddursteler.jpg
   name: David Dursteler
   email: u1161522(at)utah(dot)edu
   about:
     href: https://dursteler.me
   markdown: |
-    David is in the final semester of the BS/MS program in Computer Science at the University of Utah. TODO.
+    David is in his final semester of the BS/MS program at the University of Utah, and has worked with TiP on several problems, 
+    including using machine learning to identify gene modules, improving fairness in information access on social networks, 
+    and working on [a solver for twinwidth](https://pacechallenge.org/2023/results/#theory-award). 
+    David also works on using tiling in deep neural networks with Dr. Sadayappan, and can be found playing video games 
+    when he's not busy learning about topics he doesn't research (like PL or OS).
 undergraduates:
 - image: src/images/comingsoon.png
   markdown: |
-    TODO Insert blurb about open for undergraduates
+    We're always looking for motivated, enthusiastic undergraduates to join our team. You should have completed the equivalent of an 
+    undergraduate algorithms course (and enjoyed it!), and ideally be comfortable both writing proofs and programming in Python. 
+    Please take a look at our recent papers to see what topics might be of most interest, then email sullivan(at)cs(dot)utah(dot)edu 
+    to find out about current opportunities. 
 alumni:
 - image: src/images/people/blavallee.jpg
   name: Brian Lavallee
@@ -91,12 +101,15 @@ alumni:
   about:
     href: http://coleperschon.com/
   markdown: |
-    Cole completed his University of Utah Honors thesis ``Structural Rounding on a Parameterized Graph Class Using Heuristics'' with Theory in Practice group. Upon graduating with a B.S. in XXX from the University of Utah in Spring 2021, she took a job with XXX. He is currently XXX with XXX. 
+    Cole completed his University of Utah Honors thesis ``Structural Rounding on a Parameterized Graph Class Using Heuristics'' 
+    with Theory in Practice group. Cole graduated with B.S. degrees in Computer Science and Applied Mathematics 
+    from the University of Utah in Spring 2021. After a brief stint with Amazon, he is currently a Mission Software Engineer with Anduril. 
 - image: src/images/comingsoon.png
   name: Rachel Walker
   date: Fall 2020
   markdown:
-    TODO BLURB?
+    Rachel completed an Independent Study with Theory in Practice in Fall 2020 before 
+    taking a position with Schrodinger, where she is now a Senior Software Engineer.
 - image: src/images/people/jguo.jpg
   name: Jing Guo
   date: Fall 2019 - Spring 2020
@@ -110,11 +123,14 @@ alumni:
 - image: src/images/comingsoon.png
   name: Matthew Hooper
   date: Spring 2020
-  markdown: TODO BLURB
+  markdown: | 
+    Matthew participated in an independent study with Theory in Practice in Fall 2020.  
 - image: src/images/comingsoon.png
   name: Forrest Hurley
   date: Spring 2019 - Fall 2019
-  markdown: TODO BLURB. Forrest completed an MS in Mathematics at Georgia Tech, and is now pursuing his PhD in Biostatistics at the University of North Carolina, Chapel Hill. 
+  markdown: Forrest worked with Theory in Practice on using graph clustering to improve the analysis of ensembles of RNA secondary structures.  
+  After receiving his BS in Computer Science from NC State in 2019, Forrest completed an MS in Mathematics at Georgia Tech in 2021, 
+  and is now pursuing his PhD in Biostatistics at the University of North Carolina, Chapel Hill. 
 - image: src/images/people/ajvanderpoel.jpg
   name: Drew van der Poel
   date: Fall 2014 - Fall 2019.
