@@ -109,9 +109,8 @@ alumni:
 - image: src/images/comingsoon.png
   name: Rachel Walker
   date: Fall 2020
-  markdown:
-    Rachel completed an Independent Study with Theory in Practice in Fall 2020 before 
-    taking a position with Schrodinger, where she is now a Senior Software Engineer.
+  markdown: |
+    Rachel completed an Independent Study with Theory in Practice in Fall 2020 before taking a position with Schrodinger, where she is now a Senior Software Engineer.
 - image: src/images/people/jguo.jpg
   name: Jing Guo
   date: Fall 2019 - Spring 2020
@@ -130,9 +129,10 @@ alumni:
 - image: src/images/comingsoon.png
   name: Forrest Hurley
   date: Spring 2019 - Fall 2019
-  markdown: Forrest worked with Theory in Practice on using graph clustering to improve the analysis of ensembles of RNA secondary structures.  
-  After receiving his BS in Computer Science from NC State in 2019, Forrest completed an MS in Mathematics at Georgia Tech in 2021, 
-  and is now pursuing his PhD in Biostatistics at the University of North Carolina, Chapel Hill. 
+  markdown: |
+    Forrest worked with Theory in Practice on using graph clustering to improve the analysis of ensembles of RNA secondary structures.  
+    After receiving his BS in Computer Science from NC State in 2019, Forrest completed an MS in Mathematics at Georgia Tech in 2021, 
+    and is now pursuing his PhD in Biostatistics at the University of North Carolina, Chapel Hill. 
 - image: src/images/people/ajvanderpoel.jpg
   name: Drew van der Poel
   date: Fall 2014 - Fall 2019.
