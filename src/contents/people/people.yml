@@ -84,7 +84,7 @@ alumni:
   markdown: |
     Andrew worked with the Theory in Practice group on the parameterized complexity of gerrymandering on trees. 
     Upon graduating with an M.S. in Computer Science from the University of Utah in Spring 2023, he took a Software Engineering position with Lucid .
-- image: src/images/comingsoon.png
+- image: src/images/people/mcooley.jpg
   name: Madison Cooley
   date: Fall 2020 - Summer 2021
   markdown: |
@@ -106,7 +106,7 @@ alumni:
     Cole completed his University of Utah Honors thesis ``Structural Rounding on a Parameterized Graph Class Using Heuristics'' 
     with Theory in Practice group. Cole graduated with B.S. degrees in Computer Science and Applied Mathematics 
     from the University of Utah in Spring 2021. After a brief stint with Amazon, he is currently a Mission Software Engineer with Anduril. 
-- image: src/images/comingsoon.png
+- image: src/images/people/rwalker.jpeg
   name: Rachel Walker
   date: Fall 2020
   markdown: |
@@ -126,7 +126,7 @@ alumni:
   date: Spring 2020
   markdown: | 
     Matthew participated in an independent study with Theory in Practice in Fall 2020.  
-- image: src/images/comingsoon.png
+- image: src/images/people/fhurley.jpg
   name: Forrest Hurley
   date: Spring 2019 - Fall 2019
   markdown: |
