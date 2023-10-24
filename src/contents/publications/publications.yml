@@ -2,23 +2,27 @@
 - year: Preprints
   publications:
   - markdown: |
-      A. Crane, B. Lavallee, B. D. Sullivan, N. Veldt. Overlapping and Robust Edge-Colored Clustering in Hypergraphs. Available [on ArXiv](https://arxiv.org/abs/2305.17598).
-  - markdown: |
       T. E. Reiter, L. Irber, A. Gingrich, D. Haynes, N. T. Pierce-Ward, P. T. Brooks, Y. Mizutani, D. Moritz, F. Reidl, A. D. Willis, B. D. Sullivan, C. T. Brown. Meta-analysis of metagenomes via machine learning and assembly graphs reveals strain switches in Crohn's disease. Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.30.498290).
-  - markdown: |
-      M. Pividori, S. Lu, B. Li, C. Su, M. E. Johnson, W. Wei, Q. Feng, B. Namjou, K. Kiryluk, I. Kullo, Y. Luo, B. D. Sullivan, B. F. Voight, C. Skarke, M. Ritchie, S. Grant, C. S. Greene. Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms. Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.05.450786).
   - markdown: |
       M. P. O'Brien, B. D. Sullivan.  An Experimental Evaluation of a Bounded Expansion Algorithmic Pipeline. Available [on ArXiv](http://arxiv.org/abs/1712.06690).
 - year: 2023
   publications:
   - markdown: |
-      E. Arrighi, M. Bentert, P. Drange, B. D. Sullivan, P. Wolf. Cluster Editing with Overlapping Communities. To appear at IPEC 2023. 
+      A. Crane, B. Lavallee, B. D. Sullivan, N. Veldt. Overlapping and Robust Edge-Colored Clustering in Hypergraphs. To appear at WSDM 2024. Available [on ArXiv](https://arxiv.org/abs/2305.17598).
   - markdown: |
-      D. S. Himmelstein, M. Zietz, V. Rubinetti, K. Kloster, B. J. Heil, F. Alquaddoomi, D. Hu, D. N. Nicholson, Y. Hao, B. D. Sullivan, M. W. Nagle, and C. S. Greene. Hetnet connectivity search provides rapid insights into how biomedical entities are related. Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.05.522941). To appear in GigaScience, 2023.
+      M. Pividori, S. Lu, B. Li, C. Su, M. E. Johnson, W. Wei, Q. Feng, B. Namjou, K. Kiryluk, I. Kullo, Y. Luo, B. D. Sullivan, B. F. Voight, C. Skarke, M. Ritchie, S. Grant, C. S. Greene. Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms. Nature Communications 14, 5562 (2023). Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.05.450786).- 
   - markdown: |
-      A. Fraser, B. Lavallee, B. D. Sullivan. Gerrymandering Trees: Parameterized Hardness. Available [on ArXiv](http://arxiv.org/abs/2205.06857). To appear in the 16th International Symposium on Algorithmic Game Theory (SAGT), 2023
+      E. Arrighi, M. Bentert, P. Drange, B. D. Sullivan, P. Wolf. Cluster Editing with Overlapping Communities. IPEC 2023. 
+  - markdown: |
+      Y. Mizutani, D. Dursteler, B. D. Sullivan. PACE Solver Description: Hydra Prime. IPEC 2023. 
+  - markdown: |
+      D. S. Himmelstein, M. Zietz, V. Rubinetti, K. Kloster, B. J. Heil, F. Alquaddoomi, D. Hu, D. N. Nicholson, Y. Hao, B. D. Sullivan, M. W. Nagle, and C. S. Greene. Hetnet connectivity search provides rapid insights into how biomedical entities are related. GigaScience, Volume 12, 2023. Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.05.522941). 
+  - markdown: |
+      A. Fraser, B. Lavallee, B. D. Sullivan. Gerrymandering Trees: Parameterized Hardness. Available [on ArXiv](http://arxiv.org/abs/2205.06857). Proceedings of the 16th International Symposium on Algorithmic Game Theory (SAGT), 2023
   - markdown: |
       A. Bashardoust, S. Friedler, C. Scheidegger, B. D. Sullivan, S. Venkatasubramanian. Reducing Access Disparities in Networks Using Edge Augmentations. _**FAccT '23: Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency**_. Available [on ArXiv](https://arxiv.org/abs/2209.07616).
+  - markdown: |
+      M. Breen-McKay, B. Lavallee, B. D. Sullivan. Hardness of the Generalized Coloring Numbers. European Journal of Combinatorics (EuJC) - in press, 2023.
   - markdown: |
       F. Reidl, B. D. Sullivan. A color-avoiding approach to subgraph counting in bounded expansion classes. _**Algorithmica**_, 2023. Available [on ArXiv](http://arxiv.org/abs/2001.05236).
   - markdown: |
