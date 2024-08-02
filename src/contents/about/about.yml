@@ -21,6 +21,9 @@ researchInterests:
 teaching:
   image: src/images/teach.jpg
   markdown: |
+    * COMP 1020 Programming for All 2: Extended Applications; Spring 2023, Spring 2024, Fall 2024
+    * CS 5150/6150 Graduate Algorithms; Fall 2022
+    * CS 4150 Algorithms & Data Structures; Fall 2020, Spring 2021
     * CS 6957/5956 Introduction to Graph Theory; Fall 2019
     * CSC565: Graph Theory; Spring 2019
     * CSC791/495: [Parameterized Algorithms and Complexity](https://github.com/bdsullivan/ParameterizedAlgorithms-Fall2017); Fall 2017
