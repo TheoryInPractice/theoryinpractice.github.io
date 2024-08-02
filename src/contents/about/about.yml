@@ -4,8 +4,6 @@ overview:
     ### Dr. Blair D. Sullivan
 
     * **Professor**, [School of Computing](http://www.cs.utah.edu), University of Utah
-    * **Adjunct Faculty**, [Department of Computer Science](http://www.csc.ncsu.edu), North Carolina State University
-
 
     _**Contact Information:**_
 
@@ -49,25 +47,18 @@ funding:
   markdown: |
     * Co-PI (with A. Clauset, UC Boulder; S. Friedler, Haverford), III: Medium: Collaborative Research: Evaluating and Maximizing Fairness in Information Flow on Networks, National Science Foundation (NSF), 2022-2025.
     * PI (Utah), Network-Based Algorithms for Target Identification and Drug Repositioning From Genetic Associations. CU Anschutz (prime sponsor: NIH), 2022 - 2025.
-    * Principal Investigator (with E. Demaine, MIT), Algorithms for Exploiting Approximate Network Structure, US Army Research Office, 2017-2020.
-    * Co-PI (with D. Janies and X.Shi, UNCC), Risk Mitigation of Infectious Diseases via Network Modeling and Mining,
-      North Carolina Data Science & Analytics Initiative, 2015-2017.
     * Moore Investigator in Data-Driven Discovery. Gordon & Betty Moore Foundation, 2014-2024.
+    * Principal Investigator (with E. Demaine, MIT), Algorithms for Exploiting Approximate Network Structure, US Army Research Office, 2017-2020.
     * Principal Investigator, PARSiNG: Parameterized Algorithms Respecting Structure in Noisy Graphs. DARPA GRAPHS
       Program, 2014-2015.
-    * Co-PI (with A. Wilson), Scalable Clustering Methods for Dynamic Health Data. NCSU Research and Innovation
-      Seed Fund, 2014.
     * Principal Investigator, SPARTN: Sparse Projections Achieving Randomization in Tree-like Networks. DARPA GRAPHS
       Program, 2012-2014.
 talks:
   markdown: |
-    * _Graph Decompositions: Small Width, Big Challenges_ Keynote Tutorial, Leiden, Netherlands, April 2020
-    * _Cumberland Conference on Combinatorics, Graph Theory and Computing_ Principal Speaker, Williamsburg, Virginia, May 2020
-    * _Discrete Mathematics Seminar_, Arizona State University, Tempe, Arizona, February 2020
-    * University of Utah Data Science Day, Salt Lake City, UT, October 2019
-    * Workshop on Parameterized Complexity & Practical Computing (PCPC) Plenary, Bergen, Norway, August 2019
-    * Conference on Combinatorial Optimization and Applications (COCOA) Keynote, Atlanta, GA, December 2018
-    * Data Science Lunch and Learn, Research Triangle Institute (RTI), RTP, NC, October 2018
-    * Mathematics Colloquium, University of Central Florida, Orlando, FL, October 2018
-    * Mathematics Colloquium, Georgia Institute of Technology, Atlanta, GA, September 2018
-    * Workshop on Structural Sparsity, Logic, and Algorithms, University of Warwick, UK, July 2018
+    * _SIAM Conference on Applied & Computational Discrete Algorithms_ (ACDA) Plenary, Seattle, WA, June 2023
+    * _AMS Southeastern Sectional Meeting_ Invited Address, Atlanta, GA, March 2023
+    * _SIAM Conference on Discrete Mathematics_ (DM22) Plenary, June 2022
+    * _Graph Decompositions: Small Width, Big Challenges_ Keynote Tutorial, Leiden, Netherlands, October 2022
+    * _Symposium on Experimental Algorithms_ (SEA) Keynote, Nice, France, June 2021
+    * _Workshop on Parameterized Complexity & Practical Computing_ (PCPC) Plenary, Bergen, Norway, August 2019
+    * _Conference on Combinatorial Optimization and Applications_ (COCOA) Keynote, Atlanta, GA, December 2018
