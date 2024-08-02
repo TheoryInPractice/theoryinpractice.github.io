@@ -23,14 +23,9 @@ teaching:
   markdown: |
     * COMP 1020 Programming for All 2: Extended Applications; Spring 2023, Spring 2024, Fall 2024
     * CS 5150/6150 Graduate Algorithms; Fall 2022
+    * CS 5968/6968 Intro to Parameterized Algorithms and Complexity, Fall 2021
     * CS 4150 Algorithms & Data Structures; Fall 2020, Spring 2021
     * CS 6957/5956 Introduction to Graph Theory; Fall 2019
-    * CSC565: Graph Theory; Spring 2019
-    * CSC791/495: [Parameterized Algorithms and Complexity](https://github.com/bdsullivan/ParameterizedAlgorithms-Fall2017); Fall 2017
-    * CSC801/295: CS Theory Reading Group; Spring 2016; Fall 2016, Spring 2017
-    * CSC333: Automata, Grammars, and Computability; Fall 2014, Fall 2015
-    * CSC707: Theory of Computation; Fall 2014
-    * CSC226: Discrete Mathematics for Computer Scientists; Spring 2014
 service:
   image: src/images/service.jpg
   markdown: |
@@ -42,12 +37,11 @@ service:
     * Founding Vice-Chair, [SIAM Activity Group on Applied & Computational Discrete Algorithms (SIAGACDA)](https://www.siam.org/membership/activity-groups/detail/applied-and-computational-discrete-algorithms), 2019-2021
     * Co-Organizer, Dagstuhl Seminar on Sparsity in Algorithms, Combinatorics and Logic, 2020
     * Vice-Chair, [SIAM Activity Group on Discrete Mathematics (SIAGDM)](https://www.siam.org/membership/activity-groups/detail/discrete-mathematics), 2017-2020
-    * Steering Committee, SIAM Workshop on Network Science, 2016 - present
-    * Program Committee, [SIAM Conference on Discrete Mathematics](http://www.siam.org/meetings/dm16/), 2016
-    * Steering Committee, Data Science Initiative, NC State University, 2016 - 2019
 awards:
   image: src/images/award.jpg
   markdown: |
+    * Selected as inaugural alumnae honoree for **Pathway of Progress**, a permanent tribute to the impact of women from Georgia Tech. 
+      [Press Release] (https://news.gatech.edu/features/2024/03/celebrating-georgia-tech-women)
     * Named a **Moore Investigator in Data-Driven Discovery**.
       [G&B Moore Foundation Press Release](http://bit.ly/DDDInv14PR),
       [Investigator bios](http://bit.ly/DDDinvestigators), and
