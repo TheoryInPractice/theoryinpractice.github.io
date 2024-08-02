@@ -34,7 +34,10 @@ teaching:
 service:
   image: src/images/service.jpg
   markdown: |
-    * Co-Chair, SIAM Conference on Applied & Computational Discrete Algorithms, 2021
+    * Co-Chair, [SIAM Conference on Discrete Mathematics (DM24)](https://www.siam.org/conferences-events/siam-conferences/dm24/), 2024
+    * Chair, [SIAM Activity Group on Applied & Computational Discrete Algorithms (SIAGACDA)](https://www.siam.org/membership/activity-groups/detail/applied-and-computational-discrete-algorithms), 2023-2024
+    * Steering Committee, SIAM Symposium on Discrete Algorithms (SODA), 2021 - present
+    * Co-Chair, [SIAM Conference on Applied & Computational Discrete Algorithm (ACDA21)](https://www.siam.org/conferences-events/past-event-archive/acda21/), 2021
     * Organizing Committee, [SIAM Workshop on Network Science 2020](https://www.siam.org/conferences/cm/conference/ns20), 2020
     * Founding Vice-Chair, [SIAM Activity Group on Applied & Computational Discrete Algorithms (SIAGACDA)](https://www.siam.org/membership/activity-groups/detail/applied-and-computational-discrete-algorithms), 2019-2021
     * Co-Organizer, Dagstuhl Seminar on Sparsity in Algorithms, Combinatorics and Logic, 2020
@@ -54,10 +57,12 @@ awards:
       [Video interview](http://vimeo.com/97542477).
 funding:
   markdown: |
+    * Co-PI (with A. Clauset, UC Boulder; S. Friedler, Haverford), III: Medium: Collaborative Research: Evaluating and Maximizing Fairness in Information Flow on Networks, National Science Foundation (NSF), 2022-2025.
+    * PI (Utah), Network-Based Algorithms for Target Identification and Drug Repositioning From Genetic Associations. CU Anschutz (prime sponsor: NIH), 2022 - 2025.
     * Principal Investigator (with E. Demaine, MIT), Algorithms for Exploiting Approximate Network Structure, US Army Research Office, 2017-2020.
     * Co-PI (with D. Janies and X.Shi, UNCC), Risk Mitigation of Infectious Diseases via Network Modeling and Mining,
       North Carolina Data Science & Analytics Initiative, 2015-2017.
-    * Moore Investigator in Data-Driven Discovery. Gordon & Betty Moore Foundation, 2014-2021.
+    * Moore Investigator in Data-Driven Discovery. Gordon & Betty Moore Foundation, 2014-2024.
     * Principal Investigator, PARSiNG: Parameterized Algorithms Respecting Structure in Noisy Graphs. DARPA GRAPHS
       Program, 2014-2015.
     * Co-PI (with A. Wilson), Scalable Clustering Methods for Dynamic Health Data. NCSU Research and Innovation
