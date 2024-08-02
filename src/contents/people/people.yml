@@ -26,7 +26,7 @@ gradstudents:
   about:
     href: https://users.cs.utah.edu/~yos/
   markdown: |
-    Yo is a fourth-year PhD student, and joined Theory in Practice after completing his B.S. in Computer Science at 
+    Yo is a fifth-year PhD student, and joined Theory in Practice after completing his B.S. in Computer Science at 
     North Carolina State University. Yo's research interests include structural graph parameters, practical pre-processing, and functional programming. 
     Outside of work, he helps coach the University of Utah competitive programming team, and enjoys writing and performing music. 
 - image: src/images/people/acrane.jpg
@@ -35,21 +35,18 @@ gradstudents:
   about:
     href: https://alexcrane0.github.io/
   markdown: |
-    Alex is a second-year PhD student, and joined Theory in Practice from a Software Engineering role at Resolution Bioscience. 
+    Alex is a third-year PhD student, and joined Theory in Practice from a Software Engineering role at Resolution Bioscience. 
     He completed his B.A. in Mathematics and Computer Science at Swarthmore College. He is currently working on problems at the 
     intersection of parameterized complexity, (hyper)graph clustering, and algorithmic fairness. In his free time, 
     Alex can be found skiing, climbing, or hiking in the Wasatch.
-- image: src/images/people/ddursteler.jpg
-  name: David Dursteler
-  email: u1161522(at)utah(dot)edu
-  about:
-    href: https://dursteler.me
-  markdown: |
-    David is in his final semester of the BS/MS program at the University of Utah, and has worked with TiP on several problems, 
-    including using machine learning to identify gene modules and working on [a solver for twinwidth](https://pacechallenge.org/2023/results/#theory-award). 
-    David also works on using tiling in deep neural networks with Dr. Sadayappan, and can be found playing video games 
-    when he's not busy learning about topics he doesn't research (like PL or OS).
 undergraduates:
+- image: src/images/comingsoon.png
+  name: Daniel Coimbra Salomao
+  email: u1397516(at)utah(dot)edu
+  about:
+    href: https://www.linkedin.com/in/danielcoimbras/
+  markdown: |
+    Daniel is a UROP Scholar, working with Theory in Practice on graph algorithms for robotic inspection planning.
 - image: src/images/comingsoon.png
   markdown: |
     We're always looking for motivated, enthusiastic undergraduates to join our team. You should have completed the equivalent of an 
@@ -57,27 +54,31 @@ undergraduates:
     Please take a look at our recent papers to see what topics might be of most interest, then email sullivan(at)cs(dot)utah(dot)edu 
     to find out about current opportunities. 
 alumni:
+- image: src/images/people/ddursteler.jpg
+  name: David Dursteler
+  date: 2023 
+  markdown: |
+    David worked with Theory in Practice on [a solver for twinwidth](https://pacechallenge.org/2023/results/#theory-award). After 
+    graduated from the BS/MS program at the University of Utah in Fall 2023, he joined Amazon as a Software Developer. 
 - image: src/images/people/blavallee.jpg
   name: Brian Lavallee
-  email: brian.lavallee(at)utah(dot)edu
   date: 2017-2023
   markdown: |
     Brian completed his doctoral dissertation "An Editing-based Approach to Extending Structural Graph Algorithms" in Computing at the 
-    University of Utah advised by Dr. Sullivan in October 2022. 
+    University of Utah advised by Dr. Sullivan in October 2022. He joined the University of Vermont as a Lecturer in Computer Science in Fall 2024.
 - image: src/images/people/abashardoust.png
   name: Ashkan Bashardoust
   date: 2021 - 2022
   markdown: |
     Ashkan completed his doctoral dissertation "Equality in Information Access in Social Networks" in Computing at the University of Utah 
     co-advised by Dr. Sullivan and Dr. Suresh Venkatasubramanian (Brown University) in June 2022. 
-    He is currently seeking a role as a Software Engineer.
 - image: src/images/people/mjbreenm.jpg
   name: Michael Breen-McKay
   date: 2018-2022
   markdown: |
     Mike completed his doctoral dissertation "A Combinatorial Approach to Problems in Evolutionary Biology and Sparse Networks" in Mathematics 
     at NC State University co-advised by Dr. Sullivan and Dr. Seth Sullivant (Mathematics, NC State) in June 2022. 
-    He is currently teaching at Durham Tech Community College and seeking an industry position in Data Science. 
+    He is now a Team Lead at HireArt, and teaches at Durham Tech Community College. 
 - image: src/images/people/afraser.jpg
   name: Andrew Fraser
   date: Spring 2022 - Fall 2022
