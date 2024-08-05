@@ -4,8 +4,6 @@
   - markdown: |
      M. Bentert, A. Crane,  D. Coimbra Salomao, Y. Mizutani, F. Reidl, B. D. Sullivan. Graph Inspection for Robotic Motion Planning: Do Arithmetic Circuits Help? ArXiv coming soon; available upon request.
   - markdown: |
-      B. M. P. Jansen, Y. Mizutani, B. D. Sullivan, R. F. A. Verhaegh. Preprocessing to Reduce the Search Space for Odd Cycle Transversal. ArXiv coming soon; available upon request.
-  - markdown: |
       A. Bhaskara, A. Crane, Md. M. H. U. Mazumder, B. D. Sullivan, P. Yalamanchili. Optimizing Information Access in Networks via Edge Augmentation. Available [on ArXiv](https://arxiv.org/abs/2407.02624)
   - markdown: |
       Y. Mizutani, D. Coimbra Salomao, A. Crane, M. Bentert, P. G. Drange, F. Reidl, A. Kuntz, B. D. Sullivan. Leveraging Fixed-Parameter Tractability for Robot Inspection Planning. Available [on ArXiv](https://arxiv.org/abs/2407.00251).
@@ -20,11 +18,13 @@
 - year: 2024
   publications:
   - markdown: |
+      B. M. P. Jansen, Y. Mizutani, B. D. Sullivan, R. F. A. Verhaegh. Preprocessing to Reduce the Search Space for Odd Cycle Transversal. _**to appear at IPEC 2024**_. ArXiv coming soon; available upon request.
+  - markdown: |
       M. Bentert, A. Crane, P. G. Drange, F. Reidl, B. D. Sullivan. Correlation Clustering with Vertex Splitting. _**19th Scandinavian Symposium on Algorithm Theory (SWAT)**_, 2024. Available [on ArXiv](https://arxiv.org/pdf/2402.10335).
 - year: 2023
   publications:
   - markdown: |
-      A. Crane, B. Lavallee, B. D. Sullivan, N. Veldt. Overlapping and Robust Edge-Colored Clustering in Hypergraphs. _**ACM International Conference on Web Search and Data Mining (WSDM)*__, 2024. Available [on ArXiv](https://arxiv.org/abs/2305.17598).
+      A. Crane, B. Lavallee, B. D. Sullivan, N. Veldt. Overlapping and Robust Edge-Colored Clustering in Hypergraphs. _**ACM International Conference on Web Search and Data Mining (WSDM)**_, 2024. Available [on ArXiv](https://arxiv.org/abs/2305.17598).
   - markdown: |
       M. Pividori, S. Lu, B. Li, C. Su, M. E. Johnson, W. Wei, Q. Feng, B. Namjou, K. Kiryluk, I. Kullo, Y. Luo, B. D. Sullivan, B. F. Voight, C. Skarke, M. Ritchie, S. Grant, C. S. Greene. Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms. _**Nature Communications**_ 14, 5562 (2023). Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.05.450786).- 
   - markdown: |
