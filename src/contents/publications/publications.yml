@@ -2,23 +2,39 @@
 - year: Preprints
   publications:
   - markdown: |
+     M. Bentert, A. Crane,  D. Coimbra Salomao, Y. Mizutani, F. Reidl, B. D. Sullivan. Graph Inspection for Robotic Motion Planning: Do Arithmetic Circuits Help? ArXiv coming soon; available upon request.
+  - markdown: |
+      A. Bhaskara, A. Crane, Md. M. H. U. Mazumder, B. D. Sullivan, P. Yalamanchili. Optimizing Information Access in Networks via Edge Augmentation. Available [on ArXiv](https://arxiv.org/abs/2407.02624)
+  - markdown: |
+      Y. Mizutani, D. Coimbra Salomao, A. Crane, M. Bentert, P. G. Drange, F. Reidl, A. Kuntz, B. D. Sullivan. Leveraging Fixed-Parameter Tractability for Robot Inspection Planning. Available [on ArXiv](https://arxiv.org/abs/2407.00251).
+  - markdown: |
+      F. N. Abu-Khzam, E. Arrighi, M. Bentert, P. G. Drange, J. Egan, S. Gaspers, A. Shaw, P. Shaw, B. D. Sullivan, P. Wolf. Cluster Editing with Vertex Splitting. https://arxiv.org/abs/1901.00156
+  - markdown: |
+      A. Bashardoust, H. C. Beilinson, S. A. Friedler, J. Ma, J. Rousseau, C. E. Scheidegger, B. D. Sullivan, N. Ulzii-Orshikh, S. Venkatasubramanian. Information access representations and social capital in networks. Available [on ArXiv](https://arxiv.org/abs/2010.12611).
+  - markdown: |
       T. E. Reiter, L. Irber, A. Gingrich, D. Haynes, N. T. Pierce-Ward, P. T. Brooks, Y. Mizutani, D. Moritz, F. Reidl, A. D. Willis, B. D. Sullivan, C. T. Brown. Meta-analysis of metagenomes via machine learning and assembly graphs reveals strain switches in Crohn's disease. Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.30.498290).
   - markdown: |
       M. P. O'Brien, B. D. Sullivan.  An Experimental Evaluation of a Bounded Expansion Algorithmic Pipeline. Available [on ArXiv](http://arxiv.org/abs/1712.06690).
+- year: 2024
+  publications:
+  - markdown: |
+      B. M. P. Jansen, Y. Mizutani, B. D. Sullivan, R. F. A. Verhaegh. Preprocessing to Reduce the Search Space for Odd Cycle Transversal. _**to appear at IPEC 2024**_. ArXiv coming soon; available upon request.
+  - markdown: |
+      M. Bentert, A. Crane, P. G. Drange, F. Reidl, B. D. Sullivan. Correlation Clustering with Vertex Splitting. _**19th Scandinavian Symposium on Algorithm Theory (SWAT)**_, 2024. Available [on ArXiv](https://arxiv.org/pdf/2402.10335).
 - year: 2023
   publications:
   - markdown: |
-      A. Crane, B. Lavallee, B. D. Sullivan, N. Veldt. Overlapping and Robust Edge-Colored Clustering in Hypergraphs. To appear at WSDM 2024. Available [on ArXiv](https://arxiv.org/abs/2305.17598).
+      A. Crane, B. Lavallee, B. D. Sullivan, N. Veldt. Overlapping and Robust Edge-Colored Clustering in Hypergraphs. _**ACM International Conference on Web Search and Data Mining (WSDM)**_, 2024. Available [on ArXiv](https://arxiv.org/abs/2305.17598).
   - markdown: |
-      M. Pividori, S. Lu, B. Li, C. Su, M. E. Johnson, W. Wei, Q. Feng, B. Namjou, K. Kiryluk, I. Kullo, Y. Luo, B. D. Sullivan, B. F. Voight, C. Skarke, M. Ritchie, S. Grant, C. S. Greene. Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms. Nature Communications 14, 5562 (2023). Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.05.450786).- 
+      M. Pividori, S. Lu, B. Li, C. Su, M. E. Johnson, W. Wei, Q. Feng, B. Namjou, K. Kiryluk, I. Kullo, Y. Luo, B. D. Sullivan, B. F. Voight, C. Skarke, M. Ritchie, S. Grant, C. S. Greene. Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms. _**Nature Communications**_ 14, 5562 (2023). Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.05.450786).- 
   - markdown: |
-      E. Arrighi, M. Bentert, P. Drange, B. D. Sullivan, P. Wolf. Cluster Editing with Overlapping Communities. IPEC 2023. 
+      E. Arrighi, M. Bentert, P. Drange, B. D. Sullivan, P. Wolf. Cluster Editing with Overlapping Communities. _**International Symposium on Parameterized and Exact Computation (IPEC)**_, 2023. Available [on drops](https://drops.dagstuhl.de/storage/00lipics/lipics-vol285-ipec2023/LIPIcs.IPEC.2023.2/LIPIcs.IPEC.2023.2.pdf).
   - markdown: |
-      Y. Mizutani, D. Dursteler, B. D. Sullivan. PACE Solver Description: Hydra Prime. IPEC 2023. 
+      Y. Mizutani, D. Dursteler, B. D. Sullivan. PACE Solver Description: Hydra Prime. _**International Symposium on Parameterized and Exact Computation (IPEC)**_, 2023. Available [on drops](https://drops.dagstuhl.de/storage/00lipics/lipics-vol285-ipec2023/LIPIcs.IPEC.2023.36/LIPIcs.IPEC.2023.36.pdf).
   - markdown: |
-      D. S. Himmelstein, M. Zietz, V. Rubinetti, K. Kloster, B. J. Heil, F. Alquaddoomi, D. Hu, D. N. Nicholson, Y. Hao, B. D. Sullivan, M. W. Nagle, and C. S. Greene. Hetnet connectivity search provides rapid insights into how biomedical entities are related. GigaScience, Volume 12, 2023. Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.05.522941). 
+      D. S. Himmelstein, M. Zietz, V. Rubinetti, K. Kloster, B. J. Heil, F. Alquaddoomi, D. Hu, D. N. Nicholson, Y. Hao, B. D. Sullivan, M. W. Nagle, and C. S. Greene. Hetnet connectivity search provides rapid insights into how biomedical entities are related. _**GigaScience**_, Volume 12, 2023. Available [on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.05.522941). 
   - markdown: |
-      A. Fraser, B. Lavallee, B. D. Sullivan. Gerrymandering Trees: Parameterized Hardness. Available [on ArXiv](http://arxiv.org/abs/2205.06857). Proceedings of the 16th International Symposium on Algorithmic Game Theory (SAGT), 2023
+      A. Fraser, B. Lavallee, B. D. Sullivan. Gerrymandering Trees: Parameterized Hardness. _**Proceedings of the 16th International Symposium on Algorithmic Game Theory (SAGT)**_, 2023. Available [on ArXiv](http://arxiv.org/abs/2205.06857).
   - markdown: |
       A. Bashardoust, S. Friedler, C. Scheidegger, B. D. Sullivan, S. Venkatasubramanian. Reducing Access Disparities in Networks Using Edge Augmentations. _**FAccT '23: Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency**_. Available [on ArXiv](https://arxiv.org/abs/2209.07616).
   - markdown: |
