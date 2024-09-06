@@ -1,13 +1,13 @@
 #TODO: Consider adding in journal versions in addition to preprints
 - year: Preprints
   publications:
+  - markdown: | 
+      D. R. Windham, C. J. Wendt, A. Crane, S. A. Friedler, B. D. Sullivan, A. Clauset. Fast algorithms to improve fair information access in networks. Available [on ArXiv](https://arxiv.org/abs/2409.03127).
   - markdown: |
-     M. Bentert, A. Crane,  D. Coimbra Salomao, Y. Mizutani, F. Reidl, B. D. Sullivan. Graph Inspection for Robotic Motion Planning: Do Arithmetic Circuits Help? ArXiv coming soon; available upon request.
+      M. Bentert, A. Crane,  D. Coimbra Salomao, Y. Mizutani, F. Reidl, B. D. Sullivan. Graph Inspection for Robotic Motion Planning: Do Arithmetic Circuits Help? ArXiv coming soon; available upon request.
   - markdown: |
       A. Bhaskara, A. Crane, Md. M. H. U. Mazumder, B. D. Sullivan, P. Yalamanchili. Optimizing Information Access in Networks via Edge Augmentation. Available [on ArXiv](https://arxiv.org/abs/2407.02624)
-  - markdown: |
-      Y. Mizutani, D. Coimbra Salomao, A. Crane, M. Bentert, P. G. Drange, F. Reidl, A. Kuntz, B. D. Sullivan. Leveraging Fixed-Parameter Tractability for Robot Inspection Planning. Available [on ArXiv](https://arxiv.org/abs/2407.00251).
-  - markdown: |
+   - markdown: |
       F. N. Abu-Khzam, E. Arrighi, M. Bentert, P. G. Drange, J. Egan, S. Gaspers, A. Shaw, P. Shaw, B. D. Sullivan, P. Wolf. Cluster Editing with Vertex Splitting. https://arxiv.org/abs/1901.00156
   - markdown: |
       A. Bashardoust, H. C. Beilinson, S. A. Friedler, J. Ma, J. Rousseau, C. E. Scheidegger, B. D. Sullivan, N. Ulzii-Orshikh, S. Venkatasubramanian. Information access representations and social capital in networks. Available [on ArXiv](https://arxiv.org/abs/2010.12611).
@@ -17,8 +17,10 @@
       M. P. O'Brien, B. D. Sullivan.  An Experimental Evaluation of a Bounded Expansion Algorithmic Pipeline. Available [on ArXiv](http://arxiv.org/abs/1712.06690).
 - year: 2024
   publications:
+   - markdown: |
+      Y. Mizutani, D. Coimbra Salomao, A. Crane, M. Bentert, P. G. Drange, F. Reidl, A. Kuntz, B. D. Sullivan. Leveraging Fixed-Parameter Tractability for Robot Inspection Planning. _**to appear at WAFR 2024**_. Available [on ArXiv](https://arxiv.org/abs/2407.00251).
   - markdown: |
-      B. M. P. Jansen, Y. Mizutani, B. D. Sullivan, R. F. A. Verhaegh. Preprocessing to Reduce the Search Space for Odd Cycle Transversal. _**to appear at IPEC 2024**_. ArXiv coming soon; available upon request.
+      B. M. P. Jansen, Y. Mizutani, B. D. Sullivan, R. F. A. Verhaegh. Preprocessing to Reduce the Search Space for Odd Cycle Transversal. _**to appear at IPEC 2024**_. Available [on ArXiv](https://arxiv.org/abs/2409.00245).
   - markdown: |
       M. Bentert, A. Crane, P. G. Drange, F. Reidl, B. D. Sullivan. Correlation Clustering with Vertex Splitting. _**19th Scandinavian Symposium on Algorithm Theory (SWAT)**_, 2024. Available [on ArXiv](https://arxiv.org/pdf/2402.10335).
 - year: 2023
