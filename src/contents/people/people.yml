@@ -47,6 +47,27 @@ undergraduates:
     href: https://www.linkedin.com/in/danielcoimbras/
   markdown: |
     Daniel is a UROP Scholar, working with Theory in Practice on graph algorithms for robotic inspection planning.
+- image: src/images/people/fshi.jpg
+  name: Freda Shi
+  email: u1381017(at)utah(dot)edu
+  about:
+    href: https://www.linkedin.com/in/freda-shi-504456285
+  markdown: |
+    Freda is an NSF REU Participant, working with Theory in Practice on edge augmentation for fairness in information access in network.
+- image: src/images/people/mwarr.jpg
+  name: Madelyn Warr
+  email: u1345997(at)utah(dot)edu
+  about:
+    href: https://www.linkedin.com/in/madelyn-warr-061606260
+  markdown: |
+    Madelyn is an NSF REU Participant, working with Theory in Practice on edge augmentation for fairness in information access in network.
+- image: src/images/people/awilde.jpg
+  name: Aidan Wilde
+  email: u1362761(at)utah(dot)edu
+  about:
+    href: https://www.linkedin.com/in/aidan-w-64aa79304
+  markdown: 
+    Aidan is an NSF REU Participant, working with Theory in Practice on edge augmentation for fairness in information access in network.
 - image: src/images/comingsoon.png
   markdown: |
     We're always looking for motivated, enthusiastic undergraduates to join our team. You should have completed the equivalent of an 
