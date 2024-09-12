@@ -16,9 +16,9 @@ postdocs:
   about:
     href: https://sjain12.github.io
   markdown: |
-   Shweta joined Theory in Practice as a Computing Innovation Fellow (CIFellow) in 2021. She came to us after completing a PhD in 
-   Computer Science at UC Santa Cruz with Sesh Comandur and a one-year postdoc at the University of Illinois. 
-   Shweta is interested in practical, scalable solutions to challenges in graph analysis, and currently open to opportunities in both academia and industry starting in 2024. 
+   Shweta joined Theory in Practice as a Computing Innovation Fellow (CIFellow) in 2021. She completed a PhD in 
+   Computer Science at UC Santa Cruz with Sesh Comandur. She is interested in 
+   approximation algorithms, graph mining, parameterized algorithms and algorithms for massive data. 
 gradstudents:
 - image: src/images/people/ymizutane.jpg
   name: Yosuke Mizutani
