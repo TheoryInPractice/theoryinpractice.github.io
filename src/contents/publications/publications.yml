@@ -1,6 +1,8 @@
 #TODO: Consider adding in journal versions in addition to preprints
 - year: Preprints
   publications:
+  - markdown: |
+      S. Jain, B. D. Sullivan. A Simpler Approximation Algorithm for Directed Feedback Vertex Set. ArXiv coming soon; available upon request.
   - markdown: | 
       D. R. Windham, C. J. Wendt, A. Crane, S. A. Friedler, B. D. Sullivan, A. Clauset. Fast algorithms to improve fair information access in networks. Available [on ArXiv](https://arxiv.org/abs/2409.03127).
   - markdown: |
