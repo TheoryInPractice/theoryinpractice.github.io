@@ -20,9 +20,9 @@
 - year: 2024
   publications:
   - markdown: |
-      Y. Mizutani, D. Coimbra Salomao, A. Crane, M. Bentert, P. G. Drange, F. Reidl, A. Kuntz, B. D. Sullivan. Leveraging Fixed-Parameter Tractability for Robot Inspection Planning. _**to appear at WAFR 2024**_. Available [on ArXiv](https://arxiv.org/abs/2407.00251).
+      Y. Mizutani, D. Coimbra Salomao, A. Crane, M. Bentert, P. G. Drange, F. Reidl, A. Kuntz, B. D. Sullivan. Leveraging Fixed-Parameter Tractability for Robot Inspection Planning. _**WAFR 2024**_. Available [on ArXiv](https://arxiv.org/abs/2407.00251).
   - markdown: |
-      B. M. P. Jansen, Y. Mizutani, B. D. Sullivan, R. F. A. Verhaegh. Preprocessing to Reduce the Search Space for Odd Cycle Transversal. _**to appear at IPEC 2024**_. Available [on ArXiv](https://arxiv.org/abs/2409.00245).
+      B. M. P. Jansen, Y. Mizutani, B. D. Sullivan, R. F. A. Verhaegh. Preprocessing to Reduce the Search Space for Odd Cycle Transversal. _**IPEC 2024**_. Available [on ArXiv](https://arxiv.org/abs/2409.00245).
   - markdown: |
       M. Bentert, A. Crane, P. G. Drange, F. Reidl, B. D. Sullivan. Correlation Clustering with Vertex Splitting. _**19th Scandinavian Symposium on Algorithm Theory (SWAT)**_, 2024. Available [on ArXiv](https://arxiv.org/pdf/2402.10335).
 - year: 2023
