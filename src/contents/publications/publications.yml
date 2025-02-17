@@ -2,11 +2,11 @@
 - year: Preprints
   publications:
   - markdown: |
+      M. Bentert, A. Crane,  D. Coimbra Salomao, Y. Mizutani, F. Reidl, B. D. Sullivan. A Space-Efficient Algebraic Approach to Robotic Motion Planning. Available [on ArXiv](https://arxiv.org/abs/2409.08219).
+  - markdown: |
       S. Jain, B. D. Sullivan. A Simpler Approximation Algorithm for Directed Feedback Vertex Set. ArXiv coming soon; available upon request.
   - markdown: | 
       D. R. Windham, C. J. Wendt, A. Crane, S. A. Friedler, B. D. Sullivan, A. Clauset. Fast algorithms to improve fair information access in networks. Available [on ArXiv](https://arxiv.org/abs/2409.03127).
-  - markdown: |
-      M. Bentert, A. Crane,  D. Coimbra Salomao, Y. Mizutani, F. Reidl, B. D. Sullivan. Graph Inspection for Robotic Motion Planning: Do Arithmetic Circuits Help? Available [on ArXiv](https://arxiv.org/abs/2409.08219).
   - markdown: |
       A. Bhaskara, A. Crane, S. Jain, Md. M. H. U. Mazumder, B. D. Sullivan, P. Yalamanchili. Optimizing Information Access in Networks via Edge Augmentation. Available [on ArXiv](https://arxiv.org/abs/2407.02624).
   - markdown: |
