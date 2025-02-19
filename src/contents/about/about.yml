@@ -23,10 +23,11 @@ teaching:
     * CS 5150/6150 Graduate Algorithms; Fall 2022
     * CS 5968/6968 Intro to Parameterized Algorithms and Complexity, Fall 2021
     * CS 4150 Algorithms & Data Structures; Fall 2020, Spring 2021
-    * CS 6957/5956 Introduction to Graph Theory; Fall 2019
+    * CS 6957/5956 Introduction to Graph Theory; Fall 2019, Spring 2025
 service:
   image: src/images/service.jpg
   markdown: |
+    * Co-Organizer, [ICERM Hot Topics Workshop on Fusing Theory & Practice of Graph Algorithms] (https://icerm.brown.edu/program/hot_topics_workshop/htw-25-ftpga), February 2025 
     * Co-Chair, [SIAM Conference on Discrete Mathematics (DM24)](https://www.siam.org/conferences-events/siam-conferences/dm24/), 2024
     * Chair, [SIAM Activity Group on Applied & Computational Discrete Algorithms (SIAGACDA)](https://www.siam.org/membership/activity-groups/detail/applied-and-computational-discrete-algorithms), 2023-2024
     * Steering Committee, SIAM Symposium on Discrete Algorithms (SODA), 2021 - present
@@ -34,15 +35,13 @@ service:
 awards:
   image: src/images/award.jpg
   markdown: |
+    * Selected as 2025-26 [Collegium de Lyon] (https://collegium.universite-lyon.fr/) Fellow.
     * Selected as inaugural alumnae honoree for **Pathway of Progress**, a permanent tribute to the impact of women from Georgia Tech. 
       [Press Release] (https://news.gatech.edu/features/2024/03/celebrating-georgia-tech-women)
     * Named a **Moore Investigator in Data-Driven Discovery**.
       [G&B Moore Foundation Press Release](http://bit.ly/DDDInv14PR),
       [Investigator bios](http://bit.ly/DDDinvestigators), and
       [NC State coverage](http://news.ncsu.edu/2014/10/sullivan-moore-grant/)
-    * Named a 2014 [**NCDS Data Science Faculty Fellow**](http://www.data2discovery.org/data-fellows/).
-      [Press release](http://www.data2discovery.org/2013/11/data-fellows-awards).
-      [Video interview](http://vimeo.com/97542477).
 funding:
   markdown: |
     * Co-PI (with A. Clauset, UC Boulder; S. Friedler, Haverford), III: Medium: Collaborative Research: Evaluating and Maximizing Fairness in Information Flow on Networks, National Science Foundation (NSF), 2022-2025.
@@ -51,8 +50,6 @@ funding:
     * Principal Investigator (with E. Demaine, MIT), Algorithms for Exploiting Approximate Network Structure, US Army Research Office, 2017-2020.
     * Principal Investigator, PARSiNG: Parameterized Algorithms Respecting Structure in Noisy Graphs. DARPA GRAPHS
       Program, 2014-2015.
-    * Principal Investigator, SPARTN: Sparse Projections Achieving Randomization in Tree-like Networks. DARPA GRAPHS
-      Program, 2012-2014.
 talks:
   markdown: |
     * _Dagstuhl Seminar 24201: Discrete Algorithms on Modern and Emerging Compute Infrastructure_ Plenary, Wadern, DE, May 2024 
@@ -61,5 +58,3 @@ talks:
     * _SIAM Conference on Discrete Mathematics_ (DM22) Plenary, June 2022
     * _Graph Decompositions: Small Width, Big Challenges_ Keynote Tutorial, Leiden, Netherlands, October 2022
     * _Symposium on Experimental Algorithms_ (SEA) Keynote, Nice, France, June 2021
-    * _Workshop on Parameterized Complexity & Practical Computing_ (PCPC) Plenary, Bergen, Norway, August 2019
-    * _Conference on Combinatorial Optimization and Applications_ (COCOA) Keynote, Atlanta, GA, December 2018
