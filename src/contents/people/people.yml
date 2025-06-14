@@ -53,12 +53,11 @@ undergraduates:
 alumni:
 - image: src/images/people/ymizutane.jpg
   name: Yosuke Mizutani
+  date: 2020-2024
   email: yos(at)cs(dot)utah(dot)edu
-  about:
-    href: https://users.cs.utah.edu/~yos/
   markdown: |
     Yo completed his doctoral dissertation "Provably Powerful Parameterized Preprocessing Towards Practice" in Computer Science at the 
-    University of Utah advised by Dr. Sullivan in Fall 2024, and is currently looking for postdoctoral opportunities in Europe. 
+    University of Utah advised by Dr. Sullivan in October 2024, and is currently looking for postdoctoral opportunities in Europe. 
 - image: src/images/people/dcoimbra.jpg
   name: Daniel Coimbra Salomao
   date: 2024 
@@ -75,7 +74,7 @@ alumni:
   date: 2023 
   markdown: |
     David worked with Theory in Practice on [a solver for twinwidth](https://pacechallenge.org/2023/results/#theory-award). After 
-    graduated from the BS/MS program at the University of Utah in Fall 2023, he joined Amazon as a Software Developer. 
+    graduating from the BS/MS program in Computer Science at the University of Utah in Fall 2023, he joined Amazon as a Software Developer. 
 - image: src/images/people/blavallee.jpg
   name: Brian Lavallee
   date: 2017-2023
@@ -117,8 +116,6 @@ alumni:
   name: Cole Perschon
   date: Spring 2020 - Spring 2021.
   email: cschon(at)cs(dot)utah(dot)edu
-  about:
-    href: http://coleperschon.com/
   markdown: |
     Cole completed his University of Utah Honors thesis ``Structural Rounding on a Parameterized Graph Class Using Heuristics'' 
     with Theory in Practice group. Cole graduated with B.S. degrees in Computer Science and Applied Mathematics 
@@ -132,13 +129,11 @@ alumni:
   name: Jing Guo
   date: Fall 2019 - Spring 2020
   email: dev.guoj(at)gmail(dot)com
-  about:
-    href: https://guoj.org/
   markdown: |
     Jing worked with Theory in Practice on improving algorithms for OCT by ``turbo-charging'' FPT subroutines. 
     He is currently an MSc student in the ALGANT program (Regensburg et Leiden), and looking for doctoral positions 
     in extremal combinatorics.    
-- image: src/images/mhooper.jpg
+- image: src/images/people/mhooper.jpg
   name: Matthew Hooper
   date: Spring 2020
   markdown: | 
@@ -191,8 +186,6 @@ alumni:
   name: Timothy Goodrich
   date: Fall 2014 - Spring 2018
   email: tdgoodri(at)ncsu(dot)edu
-  about:
-    href: https://tdgoodrich.github.io/
   markdown: |
     Timothy worked with the Theory in Practice group on random graph models and algorithms with applications in quantum computing. 
     He subsequently completed his PhD at NC State in 2020, advised by Dr. Matt Stallmann, and is now an Engineering Manager at Pendo.
