@@ -20,61 +20,56 @@ postdocs:
    Computer Science at UC Santa Cruz with Sesh Comandur. She is interested in 
    approximation algorithms, graph mining, parameterized algorithms and algorithms for massive data. 
 gradstudents:
-- image: src/images/people/ymizutane.jpg
-  name: Yosuke Mizutani
-  email: yos(at)cs(dot)utah(dot)edu
-  about:
-    href: https://users.cs.utah.edu/~yos/
-  markdown: |
-    Yo is a fifth-year PhD student, and joined Theory in Practice after completing his B.S. in Computer Science at 
-    North Carolina State University. Yo's research interests include structural graph parameters, practical pre-processing, and functional programming. 
-    Outside of work, he helps coach the University of Utah competitive programming team, and enjoys writing and performing music. 
 - image: src/images/people/acrane.jpg
   name: Alex Crane
   email: crane(at)cs(dot)utah(dot)edu
   about:
     href: https://alexcrane0.github.io/
   markdown: |
-    Alex is a third-year PhD student, and joined Theory in Practice from a Software Engineering role at Resolution Bioscience. 
-    He completed his B.A. in Mathematics and Computer Science at Swarthmore College. He is currently working on problems at the 
-    intersection of parameterized complexity, (hyper)graph clustering, and algorithmic fairness. In his free time, 
+    Alex is a fourth-year PhD student, and joined Theory in Practice from a Software Engineering role at Resolution Bioscience. 
+    He completed his B.A. in Mathematics and Computer Science at Swarthmore College. His recent work includes results on overlapping (hyper)graph clustering, fair objectives in graph modification, and robotic inspection planning problem. In his free time, 
     Alex can be found skiing, climbing, or hiking in the Wasatch.
 undergraduates:
-- image: src/images/people/dcoimbra.jpg
-  name: Daniel Coimbra Salomao
-  email: u1397516(at)utah(dot)edu
-  about:
-    href: https://www.linkedin.com/in/danielcoimbras/
-  markdown: |
-    Daniel is a UROP Scholar, working with Theory in Practice on graph algorithms for robotic inspection planning.
 - image: src/images/people/fshi.jpg
   name: Freda Shi
   email: u1381017(at)utah(dot)edu
   about:
     href: https://www.linkedin.com/in/freda-shi-504456285
   markdown: |
-    Freda is an NSF REU Participant, working with Theory in Practice on edge augmentation for fairness in information access in network.
+    Freda is an NSF REU Participant, working with Theory in Practice on edge augmentation for fairness in information access in networks.
 - image: src/images/people/mwarr.jpg
   name: Madelyn Warr
   email: u1345997(at)utah(dot)edu
   about:
     href: https://www.linkedin.com/in/madelyn-warr-061606260
   markdown: |
-    Madelyn is an NSF REU Participant, working with Theory in Practice on edge augmentation for fairness in information access in network.
-- image: src/images/people/awilde.jpg
-  name: Aidan Wilde
-  email: u1362761(at)utah(dot)edu
-  about:
-    href: https://www.linkedin.com/in/aidan-w-64aa79304
-  markdown: 
-    Aidan is an NSF REU Participant, working with Theory in Practice on edge augmentation for fairness in information access in network.
+    Madelyn is an NSF REU Participant, working with Theory in Practice on edge augmentation for fairness in information access in networks.
 - image: src/images/comingsoon.png
   markdown: |
-    We're always looking for motivated, enthusiastic undergraduates to join our team. You should have completed the equivalent of an 
+    AY 2025-2026: Due to Dr. Sullivan's sabbatical, we are not currently recruiting any new group members. Otherwise, we're (almost) always looking for motivated, enthusiastic undergraduates to join our team. You should have completed the equivalent of an 
     undergraduate algorithms course (and enjoyed it!), and ideally be comfortable both writing proofs and programming in Python. 
     Please take a look at our recent papers to see what topics might be of most interest, then email sullivan(at)cs(dot)utah(dot)edu 
     to find out about current opportunities. 
 alumni:
+- image: src/images/people/ymizutane.jpg
+  name: Yosuke Mizutani
+  email: yos(at)cs(dot)utah(dot)edu
+  about:
+    href: https://users.cs.utah.edu/~yos/
+  markdown: |
+    Yo completed his doctoral dissertation "Provably Powerful Parameterized Preprocessing Towards Practice" in Computer Science at the 
+    University of Utah advised by Dr. Sullivan in Fall 2024, and is currently looking for postdoctoral opportunities in Europe. 
+- image: src/images/people/dcoimbra.jpg
+  name: Daniel Coimbra Salomao
+  date: 2024 
+  markdown: |
+    Daniel was a University of Utah UROP Scholar who worked with Theory in Practice on graph algorithms for robotic inspection planning.
+    He graduated with a B.S. in Computer Science in Fall 2024.
+- image: src/images/people/awilde.jpg
+  name: Aidan Wilde
+  date: Fall 2024
+  markdown: 
+    Aidan was an NSF REU Participant who worked with Theory in Practice on edge augmentation problems related to information access in networks. After graduating from the University of Utah with bachelors degrees in Applied Mathematics and Computer Science in Spring 2025, he joined Hona as a Support Sotware Engineer.
 - image: src/images/people/ddursteler.jpg
   name: David Dursteler
   date: 2023 
@@ -105,7 +100,7 @@ alumni:
   date: Spring 2022 - Fall 2022
   markdown: |
     Andrew worked with the Theory in Practice group on the parameterized complexity of gerrymandering on trees. 
-    Upon graduating with an M.S. in Computer Science from the University of Utah in Spring 2023, he took a Software Engineering position with Lucid .
+    Upon graduating with an M.S. in Computer Science from the University of Utah in Spring 2023, he took a Software Engineering position with Lucid.
 - image: src/images/people/mcooley.jpg
   name: Madison Cooley
   date: Fall 2020 - Summer 2021
@@ -143,7 +138,7 @@ alumni:
     Jing worked with Theory in Practice on improving algorithms for OCT by ``turbo-charging'' FPT subroutines. 
     He is currently an MSc student in the ALGANT program (Regensburg et Leiden), and looking for doctoral positions 
     in extremal combinatorics.    
-- image: src/images/comingsoon.png
+- image: src/images/mhooper.jpg
   name: Matthew Hooper
   date: Spring 2020
   markdown: | 
