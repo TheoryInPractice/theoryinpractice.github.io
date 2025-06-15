@@ -27,7 +27,7 @@ teaching:
 service:
   image: src/images/service.jpg
   markdown: |
-    * Co-Organizer, [ICERM Hot Topics Workshop on Fusing Theory & Practice of Graph Algorithms] (https://icerm.brown.edu/program/hot_topics_workshop/htw-25-ftpga), February 2025 
+    * Co-Organizer, [ICERM Hot Topics Workshop on Fusing Theory & Practice of Graph Algorithms](https://icerm.brown.edu/program/hot_topics_workshop/htw-25-ftpga), February 2025 
     * Co-Chair, [SIAM Conference on Discrete Mathematics (DM24)](https://www.siam.org/conferences-events/siam-conferences/dm24/), 2024
     * Chair, [SIAM Activity Group on Applied & Computational Discrete Algorithms (SIAGACDA)](https://www.siam.org/membership/activity-groups/detail/applied-and-computational-discrete-algorithms), 2023-2024
     * Steering Committee, SIAM Symposium on Discrete Algorithms (SODA), 2021 - present
@@ -35,7 +35,8 @@ service:
 awards:
   image: src/images/award.jpg
   markdown: |
-    * Selected as 2025-26 [Collegium de Lyon] (https://collegium.universite-lyon.fr/) Fellow.
+    * Named a Fulbright U.S. Scholar to France (AY2025-26)
+    * Selected as 2025-26 [Collegium de Lyon] (https://collegium.universite-lyon.fr/mme-blair-sullivan--379255.kjsp?RH=1745500561185) Fellow.
     * Selected as inaugural alumnae honoree for **Pathway of Progress**, a permanent tribute to the impact of women from Georgia Tech. 
       [Press Release] (https://news.gatech.edu/features/2024/03/celebrating-georgia-tech-women)
     * Named a **Moore Investigator in Data-Driven Discovery**.
