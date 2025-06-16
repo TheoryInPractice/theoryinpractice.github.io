@@ -1,3 +1,18 @@
+- posted: May 1, 2025
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper [Edge-Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges](https://arxiv.org/abs/2502.13000) has been accepted for publication at ICML 2025!
+- posted: March 31, 2025
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper [A Space-Efficient Algebraic Approach to Robotic Motion Planning](https://arxiv.org/abs/2409.08219) has been accepted for publication at SIAM ACDA 2025!
+- posted: Oct 23, 2024
+  image: src/images/thumb/utah.png
+  featured: true
+  markdown: |
+      Congratulations to [Dr. Yosuke Mizutani](https://users.cs.utah.edu/~yos/) on successfully defending his dissertation "Provably Powerful Parameterized Preprocessing Towards Practice"!
 - posted: Oct 24, 2023
   image: src/images/thumb/papers_thumb.jpg
   featured: true

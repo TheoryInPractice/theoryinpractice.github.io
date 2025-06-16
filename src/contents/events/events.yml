@@ -1,3 +1,13 @@
+- start: July 30-August 1, 2025
+  image: src/images/thumb/siam.jpg
+  featured: true
+  markdown: |
+      Several TiP group members will be at the 2025 SIAM Conference on Applied & Computational Discrete Algorithms (SIAMACDA25) and AN25 in Montreal. Shweta Jain will be presenting our new work on dense subgraph discovery (S. Basu, S. Jain, J. Lacki, H. Kaplan, BDS), Alex Crane will give a talk on resolving the hardness of two open problems in automatic differentation (M. Bentert, A. Crane, P.G. Drange, Y. Mizutani, BDS), and we will be presenting our latest [paper](https://arxiv.org/abs/2409.08219) on robotic motion planning!
+- start: July 6-25, 2025
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan and Alex Crane will be attending the Park City Mathematics Institute (PCMI) Summer Program on Extremal and Probabilistic Combinatorics. Dr. Sullivan will be giving an invited talk in the [Research Program](https://www.ias.edu/pcmi/pcmi-2025-research-program) (date TBA), and Alex is participating in the [Graduate Summer School](https://www.ias.edu/pcmi/pcmi-2025-graduate-summer-school).
 - start: May 31-June 2, 2023
   image: src/images/thumb/siam.jpg
   featured: true
