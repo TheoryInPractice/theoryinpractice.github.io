@@ -9,12 +9,12 @@
   markdown: |
       Our paper [A Space-Efficient Algebraic Approach to Robotic Motion Planning](https://arxiv.org/abs/2409.08219) has been accepted for publication at SIAM ACDA 2025!
 - posted: Oct 23, 2024
-  image: src/images/thumb/utah.png
+  image: src/images/thumb/grad_tiny.png
   featured: true
   markdown: |
       Congratulations to [Dr. Yosuke Mizutani](https://users.cs.utah.edu/~yos/) on successfully defending his dissertation "Provably Powerful Parameterized Preprocessing Towards Practice"!
 - posted: Oct 24, 2023
-  image: src/images/thumb/papers_thumb.jpg
+  image: src/images/thumb/student.png
   featured: true
   markdown: |
       PhD student Alex Crane's first paper [Edge-Colored Clustering in Hypergraphs](https://arxiv.org/abs/2305.17598) has been accepted for publication at WSDM 2024! 
@@ -73,6 +73,11 @@
   featured: true
   markdown: |
       Theory in Practice is now part of the newly-named Kahlert School of Computing! Read more [here](https://www.price.utah.edu/2022/11/04/school-of-computing-gets-new-name-and-gift).
+- posted: Oct 18, 2022
+  image: src/images/thumb/grad_tiny.png
+  featured: true
+  markdown: |
+      Congratulations to [Dr. Brian Lavallee](https://www.uvm.edu/cems/cs/profile/brian-lavallee) on successfully defending his dissertation "An Editing-based Approach to Extending Structural Graph Algorithms"!
 - posted: August 1, 2022
   image: src/images/thumb/papers_thumb.jpg
   featured: true
