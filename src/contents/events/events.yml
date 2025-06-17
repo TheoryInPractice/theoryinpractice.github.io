@@ -8,6 +8,11 @@
   featured: true
   markdown: |
       Dr. Sullivan and Alex Crane will be attending the Park City Mathematics Institute (PCMI) Summer Program on Extremal and Probabilistic Combinatorics. Dr. Sullivan will be giving an invited talk in the [Research Program](https://www.ias.edu/pcmi/pcmi-2025-research-program) (date TBA), and Alex is participating in the [Graduate Summer School](https://www.ias.edu/pcmi/pcmi-2025-graduate-summer-school).
+- start: May 20, 2025
+  image: src/images/thumb/talk.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan will be giving the Computer Science Seminar at Argonne National Laboratory in Chicago, IL as part of a visit hosted by Paul Hovland.
 - start: May 31-June 2, 2023
   image: src/images/thumb/siam.jpg
   featured: true
