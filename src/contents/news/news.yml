@@ -1,14 +1,24 @@
+- posted: June 17, 2025
+  image: src/images/thumb/fulbright-thumb.jpg
+  featured: true
+  markdown: |
+      Dr. Sullivan [has been named](https://www.linkedin.com/posts/fulbright-france_rechercheinternationale-mobilit%C3%A9scientifique-activity-7341049844305698816-VtU5/?originalSubdomain=fr) a Fulbright U.S. Scholar to France for AY25-26!
 - posted: May 1, 2025
   image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
       Our paper [Edge-Colored Clustering in Hypergraphs: Beyond Minimizing Unsatisfied Edges](https://arxiv.org/abs/2502.13000) has been accepted for publication at ICML 2025!
+- posted: April 15, 2025
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+     Our paper [Cluster Editing with Vertex Splitting](https://arxiv.org/abs/1901.00156) is now [available](https://dl.acm.org/doi/10.1016/j.dam.2025.04.013) in Discrete Applied Mathematics!
 - posted: March 31, 2025
   image: src/images/thumb/papers_thumb.jpg
   featured: true
   markdown: |
       Our paper [A Space-Efficient Algebraic Approach to Robotic Motion Planning](https://arxiv.org/abs/2409.08219) has been accepted for publication at SIAM ACDA 2025!
-- posted: February 25, 2025
+- posted: Feb 25, 2025
   image: src/images/thumb/collegium-thumb.png
   featured: true
   markdown: |
@@ -18,11 +28,31 @@
   featured: true
   markdown: |
       Congratulations to [Dr. Yosuke Mizutani](https://users.cs.utah.edu/~yos/) on successfully defending his dissertation "Provably Powerful Parameterized Preprocessing Towards Practice"!
+- posted: Oct 7, 2024
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+     Our paper [Leveraging Fixed-Parameter Tractability for Robot Inspection Planning](https://arxiv.org/abs/2407.00251) has been accepted for publication at the Workshop on Algorithmic Foundations in Robotics (WAFR) 2024. 
+- posted: Sep 4, 2024
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+     Our paper [Preprocessing to Reduce the Search Space for Odd Cycle Transversal](https://arxiv.org/abs/2409.00245) has been accepted for publication at IPEC 2024.
+- posted: June 12, 2024
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+      Our paper [Correlation Clustering with Vertex Splitting](https://arxiv.org/abs/2402.10335) has been accepted for publication at the 19th Scandinavian Symposium on Algorithm Theory (SWAT) 2024! 
 - posted: Oct 24, 2023
   image: src/images/thumb/students-25.jpg
   featured: true
   markdown: |
-      PhD student Alex Crane's first paper [Edge-Colored Clustering in Hypergraphs](https://arxiv.org/abs/2305.17598) has been accepted for publication at WSDM 2024! 
+      PhD student Alex Crane's first paper [Edge-Colored Clustering in Hypergraphs](https://arxiv.org/abs/2305.17598) has been accepted for publication at WSDM 2024!
+- posted: Sep 9th, 2023
+  image: src/images/thumb/papers_thumb.jpg
+  featured: true
+  markdown: |
+     Our paper [Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms.](https://www.biorxiv.org/content/10.1101/2021.07.05.450786) has been accepted for publication in Nature Communications! 
 - posted: July 11, 2023
   image: src/images/thumb/spaceship.png
   featured: true
