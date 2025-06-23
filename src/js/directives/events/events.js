@@ -7,7 +7,7 @@ angular.module('theory-in-practice').directive('events', [function() {
 
     const UPCOMING = 'upcoming';
     const MONTHS = 6;
-    const PREVMONTHS = 3;
+    const PREVMONTHS = 6;
 
     return {
         restrict: 'E',

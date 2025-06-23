@@ -14,7 +14,7 @@
   markdown: |
       Dr. Sullivan will be giving the [Computer Science Seminar](https://www.anl.gov/event/a-trail-guide-to-parameterized-graph-algorithms-in-practice) at Argonne National Laboratory in Chicago, IL as part of a visit hosted by Paul Hovland.
 - start: December 3, 2025
-  image: src/images/thumb/ICERM-Thumb.png
+  image: src/images/thumb/icerm_thumb.png
   featured: true
   markdown: |
       Dr. Sullivan is co-organizing an ICERM Hot Topics Workshop on [Fusing Theory and Practice of Graph Algorithms](https://icerm.brown.edu/program/hot_topics_workshop/htw-25-ftpga) with Jakub Łącki (Google) in February 2025.
@@ -24,7 +24,7 @@
   markdown: |
      Dr. Sullivan will be talking about our recent work on robotic inspection planning (preprints available [here](https://arxiv.org/abs/2407.00251) and [here](https://arxiv.org/abs/2409.08219)) in the [Mathematics Colloquium](https://secure.math.ucla.edu/seminars/display.php?&id=838719) at the University of California, Los Angeles (UCLA) on November 21,2024 https://icerm.brown.edu/program/hot_topics_workshop/htw-25-ftpga)
 - start: May 12-17, 2024
-  image: src/images/thumb/dagstuhl-thumb.png
+  image: src/images/thumb/dagstuhl_thumb.png
   featured: true
   markdown: |
       Dr. Sullivan is giving a plenary talk *A Trail Guide to Parameterized Graph Algorithms in Practice* at [Dagstuhl Seminar 24021](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24201) on Discrete Algorithms on Modern & Emerging Compute Infrastructure.
