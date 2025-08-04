@@ -41,7 +41,7 @@ undergraduates:
   name: Madelyn Warr
   email: u1345997(at)utah(dot)edu
   about:
-    href: https://www.linkedin.com/in/madelyn-warr-061606260
+    href: https://madelyn5.github.io
   markdown: |
     Madelyn is an NSF REU Participant, working with Theory in Practice on edge augmentation for fairness in information access in networks.
 - image: src/images/comingsoon.png
@@ -54,10 +54,9 @@ alumni:
 - image: src/images/people/ymizutane.jpg
   name: Yosuke Mizutani
   date: 2020-2024
-  email: yos(at)cs(dot)utah(dot)edu
   markdown: |
     Yo completed his doctoral dissertation "Provably Powerful Parameterized Preprocessing Towards Practice" in Computer Science at the 
-    University of Utah advised by Dr. Sullivan in October 2024, and is currently looking for postdoctoral opportunities in Europe. 
+    University of Utah advised by Dr. Sullivan in October 2024.  
 - image: src/images/people/dcoimbra.jpg
   name: Daniel Coimbra Salomao
   date: 2024 
