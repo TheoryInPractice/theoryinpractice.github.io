@@ -29,6 +29,15 @@ gradstudents:
     Alex is a fourth-year PhD student, and joined Theory in Practice from a Software Engineering role at Resolution Bioscience. 
     He completed his B.A. in Mathematics and Computer Science at Swarthmore College. His recent work includes results on overlapping (hyper)graph clustering, fair objectives in graph modification, and robotic inspection planning problem. In his free time, 
     Alex can be found skiing, climbing, or hiking in the Wasatch.
+- image: src/images/people/efriedman.jpg
+  name: Eli Friedman
+  email: eli(dot)friedman(at)utah(dot)edu
+  about:
+    href: https://elfriedman.github.io/
+  markdown: |
+    Eli is a first-year PhD student, and joined Theory in Practice after completing his B.A. in Computer Science at Dartmouth College. 
+    He is interested in approximation, learning-augmented, and parameterized algorithms for combinatorial problems on graphs. 
+    Outside of research, Eli can be found skiing, cooking, or eating.
 undergraduates:
 - image: src/images/people/fshi.jpg
   name: Freda Shi
