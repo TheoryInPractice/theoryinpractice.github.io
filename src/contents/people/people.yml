@@ -38,6 +38,16 @@ gradstudents:
     Eli is a first-year PhD student, and joined Theory in Practice after completing his B.A. in Computer Science at Dartmouth College. 
     He is interested in approximation, learning-augmented, and parameterized algorithms for combinatorial problems on graphs. 
     Outside of research, Eli can be found skiing, cooking, or eating.
+- image: src/images/people/dmckellips.jpg
+  name: Dylan McKellips
+  email: dylan(dot)mckellips(at)utah(dot)edu
+  about:
+    href: https://dylanmckellips.github.io
+  markdown: |
+    Dylan is a first-year PhD student who joined Theory in Practice after completing a B.S. in Mathematics and a B.A. in Computer Science 
+    at the University of Rochester. He is interested in the design of efficient algorithms for information extraction in graphs, with a 
+    focus on parameterized or structural approaches. When not drinking coffee and thinking about research problems, 
+    Dylan can be found drinking coffee and climbing, biking, or skiing in the mountains or the desert.   
 undergraduates:
 - image: src/images/people/fshi.jpg
   name: Freda Shi
