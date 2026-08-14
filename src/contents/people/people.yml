@@ -10,7 +10,6 @@ principal:
     an Associate Professor of Computer Science at NC State (2013-2019) and
     a Research Scientist in the Computer Science and Mathematics Division at Oak Ridge National Laboratory (2008-2013). 
     In AY2025-26, she was a Fulbright U.S. Scholar to France and held the inaugural Fulbright Chair at the Collegium de Lyon.
-postdocs:
 gradstudents:
 - image: src/images/people/acrane.jpg
   name: Alex Crane
@@ -61,7 +60,7 @@ alumni:
   name: Shweta Jain
   date: 2021-2025
   markdown: |
-   Shweta was a Computing Innovation Fellow (CIFellow) with Theory in Practice. She holds a PhD in Computer Science from UC Santa Cruz and joined us after a postdoc at the University of Illinois, Urbana-Champaign. 
+   Shweta was a Computing Innovation Postdoctoral Fellow (CIFellow) with Theory in Practice. She holds a PhD in Computer Science from UC Santa Cruz and joined us after a postdoc at the University of Illinois, Urbana-Champaign. 
 - image: src/images/people/ymizutane.jpg
   name: Yosuke Mizutani
   date: 2020-2024
