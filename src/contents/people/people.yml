@@ -8,17 +8,9 @@ principal:
     Dr. Sullivan earned her Ph.D. in Mathematics from Princeton University, and Bachelors degrees in Computer Science
     and Applied Mathematics from the Georgia Institute of Technology. Prior to moving to Utah in Fall 2019, she was
     an Associate Professor of Computer Science at NC State (2013-2019) and
-    a Research Scientist in the Computer Science and Mathematics Division at Oak Ridge National Laboratory (2008-2013).
+    a Research Scientist in the Computer Science and Mathematics Division at Oak Ridge National Laboratory (2008-2013). 
+    In AY2025-26, she was a Fulbright U.S. Scholar to France and held the inaugural Fulbright Chair at the Collegium de Lyon.
 postdocs:
-- image: src/images/people/sjain.png
-  name: Shweta Jain
-  email: shweta(dot)jain(at)utah(dot)edu
-  about:
-    href: https://sjain12.github.io
-  markdown: |
-   Shweta joined Theory in Practice as a Computing Innovation Fellow (CIFellow) in 2021. She completed a PhD in 
-   Computer Science at UC Santa Cruz with Sesh Comandur. She is interested in 
-   approximation algorithms, graph mining, parameterized algorithms and algorithms for massive data. 
 gradstudents:
 - image: src/images/people/acrane.jpg
   name: Alex Crane
@@ -26,8 +18,8 @@ gradstudents:
   about:
     href: https://alexcrane0.github.io/
   markdown: |
-    Alex is a fourth-year PhD student, and joined Theory in Practice from a Software Engineering role at Resolution Bioscience. 
-    He completed his B.A. in Mathematics and Computer Science at Swarthmore College. His recent work includes results on overlapping (hyper)graph clustering, fair objectives in graph modification, and robotic inspection planning problem. In his free time, 
+    Alex is a fifth-year PhD student, and joined Theory in Practice from a Software Engineering role at Resolution Bioscience. 
+    He completed his B.A. in Mathematics and Computer Science at Swarthmore College. His recent work includes results on aggregating cliques, overlapping (hyper)graph clustering, fair objectives in graph modification, and robotic inspection planning. In his free time, 
     Alex can be found skiing, climbing, or hiking in the Wasatch.
 - image: src/images/people/efriedman.jpg
   name: Eli Friedman
@@ -35,7 +27,7 @@ gradstudents:
   about:
     href: https://elfriedman.github.io/
   markdown: |
-    Eli is a first-year PhD student, and joined Theory in Practice after completing his B.A. in Computer Science at Dartmouth College. 
+    Eli is a second-year PhD student, and joined Theory in Practice after completing his B.A. in Computer Science at Dartmouth College. 
     He is interested in approximation, learning-augmented, and parameterized algorithms for combinatorial problems on graphs. 
     Outside of research, Eli can be found skiing, cooking, or eating.
 - image: src/images/people/dmckellips.jpg
@@ -44,32 +36,32 @@ gradstudents:
   about:
     href: https://dylanmckellips.github.io
   markdown: |
-    Dylan is a first-year PhD student who joined Theory in Practice after completing a B.S. in Mathematics and a B.A. in Computer Science 
+    Dylan is a second-year PhD student who joined Theory in Practice after completing a B.S. in Mathematics and a B.A. in Computer Science 
     at the University of Rochester. He is interested in the design of efficient algorithms for information extraction in graphs, with a 
     focus on parameterized or structural approaches. When not drinking coffee and thinking about research problems, 
     Dylan can be found drinking coffee and climbing, biking, or skiing in the mountains or the desert.   
 undergraduates:
-- image: src/images/people/fshi.jpg
-  name: Freda Shi
-  email: u1381017(at)utah(dot)edu
-  about:
-    href: https://www.linkedin.com/in/freda-shi-504456285
-  markdown: |
-    Freda is an NSF REU Participant, working with Theory in Practice on edge augmentation for fairness in information access in networks.
 - image: src/images/people/mwarr.jpg
   name: Madelyn Warr
   email: u1345997(at)utah(dot)edu
   about:
     href: https://madelyn5.github.io
   markdown: |
-    Madelyn is an NSF REU Participant, working with Theory in Practice on edge augmentation for fairness in information access in networks.
+    Madelyn is a senior at the U starting her third year working with Theory in Practice, including two semesters as a UROP Scholar. Her projects include algorithm experiments for edge augmentation to improve fairness in information networks, complexity lower-bounds for modifying centrality scores, and quantitative results for graph coloring and partitioning.
 - image: src/images/comingsoon.png
   markdown: |
-    AY 2025-2026: Due to Dr. Sullivan's sabbatical, we are not currently recruiting any new group members. Otherwise, we're (almost) always looking for motivated, enthusiastic undergraduates to join our team. You should have completed the equivalent of an 
-    undergraduate algorithms course (and enjoyed it!), and ideally be comfortable both writing proofs and programming in Python. 
-    Please take a look at our recent papers to see what topics might be of most interest, then email sullivan(at)cs(dot)utah(dot)edu 
-    to find out about current opportunities. 
+    Fall 2026: We are currently not recruiting, but anticipate having openings for motivated, enthusiastic undergraduates to join our team in Spring or Fall 2027. You should have completed the equivalent of an undergraduate algorithms course (and enjoyed it!), and ideally be comfortable both writing proofs and programming in Python. Please take a look at our recent papers to see what topics might be of most interest, then email sullivan(at)cs(dot)utah(dot)edu to find out about current opportunities. 
 alumni:
+- image: src/images/people/fshi.jpg
+  name: Freda Shi
+  date: 2024-2025
+  markdown: |
+    Freda was an NSF REU Participant who working on edge augmentation for fairness in information access in networks, and equalizing closeness centrality. She graduated with B.S. degrees in Applied Mathematics and Computer Science in Spring 2026.
+- image: src/images/people/sjain.png
+  name: Shweta Jain
+  date: 2021-2025
+  markdown: |
+   Shweta was a Computing Innovation Fellow (CIFellow) with Theory in Practice. She holds a PhD in Computer Science from UC Santa Cruz and joined us after a postdoc at the University of Illinois, Urbana-Champaign. 
 - image: src/images/people/ymizutane.jpg
   name: Yosuke Mizutani
   date: 2020-2024
